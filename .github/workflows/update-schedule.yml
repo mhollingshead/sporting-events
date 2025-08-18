@@ -2,34 +2,48 @@ name: Update Sports Schedules
 
 on:
   schedule:
-    - cron: "0 6 * * *" # Runs every day at 6:00 UTC
-  workflow_dispatch: # allows you to manually trigger it too
+    - cron: "0 6 * * *" # Runs daily at 06:00 UTC
+  workflow_dispatch:     # allows manual trigger
+
+permissions:
+  contents: write       # allows workflow to push changes
 
 jobs:
   update-schedules:
     runs-on: ubuntu-latest
 
     steps:
+      # 1. Checkout the repo
       - name: Checkout repo
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
+      # 2. Mark the workflow directory as safe for Git
+      - name: Mark directory as safe
+        run: git config --global --add safe.directory /__w/sporting-events/sporting-events
+
+      # 3. Setup Node.js
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 20
 
+      # 4. Install dependencies
       - name: Install dependencies
         run: npm install
 
+      # 5. Run the schedule update script
       - name: Run script
         env:
           SPORTSDB_API_KEY: ${{ secrets.SPORTSDB_API_KEY }}
         run: node index.js
 
-      - name: Commit and push changes
+      # 6. Commit & push updated games.json
+      - name: Commit and push
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
           git add games.json
           git commit -m "Update games.json [skip ci]" || echo "No changes to commit"
           git push
