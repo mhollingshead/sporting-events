@@ -66,8 +66,9 @@ async function main() {
         const simplified = result.events.map((ev) => ({
             league: leagueName,
             title: ev.strEvent,
-            sport: ev.strSport,
-            timestamp: ev.strTimestamp
+            timestamp: ev.strTimestamp,
+            homeBadge: ev.strHomeTeamBadge,
+            awayBadge: ev.strAwayTeamBadge
         }));
 
         allEvents = allEvents.concat(simplified).sort((a, b) => new Date(a.timestamp) - new Date(b.timestamp));
