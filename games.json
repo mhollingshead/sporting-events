@@ -16479,13 +16479,6 @@
   },
   {
     "league": "MLB",
-    "title": "Chicago Cubs vs Milwaukee Brewers",
-    "timestamp": "2025-08-19T00:05:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/08kh2a1595775193.png"
-  },
-  {
-    "league": "MLB",
     "title": "Colorado Rockies vs Los Angeles Dodgers",
     "timestamp": "2025-08-19T00:40:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/r7q6ko1687608395.png",
@@ -16511,6 +16504,13 @@
     "timestamp": "2025-08-19T01:40:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xe5wlo1713861863.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/3zvzao1640964590.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Chicago Cubs vs Milwaukee Brewers",
+    "timestamp": "2025-08-19T18:20:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/08kh2a1595775193.png"
   },
   {
     "league": "MLB",
