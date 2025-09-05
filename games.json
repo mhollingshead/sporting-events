@@ -20091,13 +20091,6 @@
   },
   {
     "league": "Premier League",
-    "title": "Bournemouth vs Newcastle United",
-    "timestamp": "2025-09-20T14:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/y08nak1534071116.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png"
-  },
-  {
-    "league": "Premier League",
     "title": "Brighton and Hove Albion vs Tottenham Hotspur",
     "timestamp": "2025-09-20T14:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ywypts1448810904.png",
@@ -20249,6 +20242,13 @@
     "timestamp": "2025-09-21T01:10:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/p2oj631663889783.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/mq81yb1521896622.png"
+  },
+  {
+    "league": "Premier League",
+    "title": "Bournemouth vs Newcastle United",
+    "timestamp": "2025-09-21T13:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/y08nak1534071116.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png"
   },
   {
     "league": "Premier League",
@@ -21141,13 +21141,6 @@
   },
   {
     "league": "Premier League",
-    "title": "Aston Villa vs Fulham",
-    "timestamp": "2025-09-27T14:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xwwvyt1448811086.png"
-  },
-  {
-    "league": "Premier League",
     "title": "Chelsea vs Brighton and Hove Albion",
     "timestamp": "2025-09-27T14:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/yvwvtu1448813215.png",
@@ -21194,6 +21187,13 @@
     "timestamp": "2025-09-27T18:20:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uvyvyr1424003273.png"
+  },
+  {
+    "league": "Premier League",
+    "title": "Tottenham Hotspur vs Wolverhampton Wanderers",
+    "timestamp": "2025-09-27T19:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/u9qr031621593327.png"
   },
   {
     "league": "NHL",
@@ -21309,10 +21309,10 @@
   },
   {
     "league": "Premier League",
-    "title": "Tottenham Hotspur vs Wolverhampton Wanderers",
+    "title": "Aston Villa vs Fulham",
     "timestamp": "2025-09-28T13:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/u9qr031621593327.png"
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xwwvyt1448811086.png"
   },
   {
     "league": "NFL",
@@ -21652,13 +21652,6 @@
   },
   {
     "league": "Premier League",
-    "title": "Everton vs Crystal Palace",
-    "timestamp": "2025-10-04T14:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png"
-  },
-  {
-    "league": "Premier League",
     "title": "Manchester United vs Sunderland",
     "timestamp": "2025-10-04T14:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png",
@@ -21754,6 +21747,13 @@
     "timestamp": "2025-10-05T13:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ql7nl31686893820.png"
+  },
+  {
+    "league": "Premier League",
+    "title": "Everton vs Crystal Palace",
+    "timestamp": "2025-10-05T13:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png"
   },
   {
     "league": "Premier League",
@@ -22219,20 +22219,6 @@
   },
   {
     "league": "Premier League",
-    "title": "Brentford vs Liverpool",
-    "timestamp": "2025-10-25T11:30:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png"
-  },
-  {
-    "league": "Premier League",
-    "title": "Arsenal vs Crystal Palace",
-    "timestamp": "2025-10-25T14:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png"
-  },
-  {
-    "league": "Premier League",
     "title": "Chelsea vs Sunderland",
     "timestamp": "2025-10-25T14:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/yvwvtu1448813215.png",
@@ -22251,6 +22237,20 @@
     "timestamp": "2025-10-25T16:30:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ywypts1448810904.png"
+  },
+  {
+    "league": "Premier League",
+    "title": "Brentford vs Liverpool",
+    "timestamp": "2025-10-25T19:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png"
+  },
+  {
+    "league": "Premier League",
+    "title": "Arsenal vs Crystal Palace",
+    "timestamp": "2025-10-26T14:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png"
   },
   {
     "league": "Premier League",
