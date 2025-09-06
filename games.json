@@ -20378,13 +20378,6 @@
   },
   {
     "league": "MLB",
-    "title": "Houston Astros vs Seattle Mariners",
-    "timestamp": "2025-09-21T18:10:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/miwigx1521893583.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/39x9ph1521903933.png"
-  },
-  {
-    "league": "MLB",
     "title": "Kansas City Royals vs Toronto Blue Jays",
     "timestamp": "2025-09-21T18:10:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ii3rz81554031260.png",
@@ -20508,6 +20501,13 @@
     "timestamp": "2025-09-21T23:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/hqn8511619536714.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/qxxppp1421794965.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Houston Astros vs Seattle Mariners",
+    "timestamp": "2025-09-21T23:10:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/miwigx1521893583.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/39x9ph1521903933.png"
   },
   {
     "league": "MLB",
@@ -21308,6 +21308,34 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/kw6uqr1617527138.png"
   },
   {
+    "league": "MLB",
+    "title": "San Diego Padres vs Arizona Diamondbacks",
+    "timestamp": "2025-09-28T00:40:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/6wt1cn1617527530.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xe5wlo1713861863.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Los Angeles Angels vs Houston Astros",
+    "timestamp": "2025-09-28T01:38:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/vswsvx1432577476.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/miwigx1521893583.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Seattle Mariners vs Los Angeles Dodgers",
+    "timestamp": "2025-09-28T01:40:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/39x9ph1521903933.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/p2oj631663889783.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Athletics vs Kansas City Royals",
+    "timestamp": "2025-09-28T02:05:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/cyvrv31741640777.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ii3rz81554031260.png"
+  },
+  {
     "league": "Premier League",
     "title": "Aston Villa vs Fulham",
     "timestamp": "2025-09-28T13:00:00",
@@ -21383,6 +21411,111 @@
     "timestamp": "2025-09-28T19:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/2tc1qy1619536592.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/z4rsvp1619536740.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Athletics vs Kansas City Royals",
+    "timestamp": "2025-09-28T19:05:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/cyvrv31741640777.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ii3rz81554031260.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Boston Red Sox vs Detroit Tigers",
+    "timestamp": "2025-09-28T19:05:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/stpsus1425120215.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/9dib6o1554032173.png"
+  },
+  {
+    "league": "MLB",
+    "title": "New York Yankees vs Baltimore Orioles",
+    "timestamp": "2025-09-28T19:05:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqwwxx1423478766.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ytywvu1431257088.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Philadelphia Phillies vs Minnesota Twins",
+    "timestamp": "2025-09-28T19:05:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3xrldf1617528682.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/necd5v1521905719.png"
+  },
+  {
+    "league": "MLB",
+    "title": "San Francisco Giants vs Colorado Rockies",
+    "timestamp": "2025-09-28T19:05:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/mq81yb1521896622.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/r7q6ko1687608395.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Washington Nationals vs Chicago White Sox",
+    "timestamp": "2025-09-28T19:05:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wpqrut1423694764.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yyz5dh1554140884.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Los Angeles Angels vs Houston Astros",
+    "timestamp": "2025-09-28T19:07:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/vswsvx1432577476.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/miwigx1521893583.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Toronto Blue Jays vs Tampa Bay Rays",
+    "timestamp": "2025-09-28T19:07:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/f9zk3l1617527686.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/littyt1554031623.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Cleveland Guardians vs Texas Rangers",
+    "timestamp": "2025-09-28T19:10:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3zvzao1640964590.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/qt9qki1521893151.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Miami Marlins vs New York Mets",
+    "timestamp": "2025-09-28T19:10:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/0722fs1546001701.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rxqspq1431540337.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Milwaukee Brewers vs Cincinnati Reds",
+    "timestamp": "2025-09-28T19:10:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/08kh2a1595775193.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wspusr1431538832.png"
+  },
+  {
+    "league": "MLB",
+    "title": "San Diego Padres vs Arizona Diamondbacks",
+    "timestamp": "2025-09-28T19:10:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/6wt1cn1617527530.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xe5wlo1713861863.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Seattle Mariners vs Los Angeles Dodgers",
+    "timestamp": "2025-09-28T19:10:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/39x9ph1521903933.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/p2oj631663889783.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Atlanta Braves vs Pittsburgh Pirates",
+    "timestamp": "2025-09-28T19:15:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/yjs76e1617811496.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/kw6uqr1617527138.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Chicago Cubs vs St. Louis Cardinals",
+    "timestamp": "2025-09-28T19:20:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uvyvyr1424003273.png"
   },
   {
     "league": "NFL",
