@@ -34503,6 +34503,62 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/mxig4p1570129307.png"
   },
   {
+    "league": "NHL",
+    "title": "Chicago Blackhawks vs San Jose Sharks",
+    "timestamp": "2026-04-16T00:30:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/tuwyvr1422041801.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yui7871546193006.png"
+  },
+  {
+    "league": "NHL",
+    "title": "Vegas Golden Knights vs Seattle Kraken",
+    "timestamp": "2026-04-16T02:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/7fd4521619536689.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/zsx49m1595775836.png"
+  },
+  {
+    "league": "NHL",
+    "title": "Nashville Predators vs Anaheim Ducks",
+    "timestamp": "2026-04-17T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/twqyvy1422052908.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/1d465t1719573796.png"
+  },
+  {
+    "league": "NHL",
+    "title": "Utah Mammoth vs St. Louis Blues",
+    "timestamp": "2026-04-17T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/w5m2ab1746690303.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rsqtwx1422053715.png"
+  },
+  {
+    "league": "NHL",
+    "title": "Winnipeg Jets vs San Jose Sharks",
+    "timestamp": "2026-04-17T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/bwn9hr1547233611.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yui7871546193006.png"
+  },
+  {
+    "league": "NHL",
+    "title": "Calgary Flames vs Los Angeles Kings",
+    "timestamp": "2026-04-17T01:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/v8vkk11619536610.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/w408rg1719220748.png"
+  },
+  {
+    "league": "NHL",
+    "title": "Edmonton Oilers vs Vancouver Canucks",
+    "timestamp": "2026-04-17T01:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/uxxsyw1421618428.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xqxxpw1421875519.png"
+  },
+  {
+    "league": "NHL",
+    "title": "Colorado Avalanche vs Seattle Kraken",
+    "timestamp": "2026-04-17T02:30:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqutut1421173572.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/zsx49m1595775836.png"
+  },
+  {
     "league": "Premier League",
     "title": "Aston Villa vs Sunderland",
     "timestamp": "2026-04-18T14:00:00",
