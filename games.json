@@ -21323,13 +21323,6 @@
   },
   {
     "league": "MLB",
-    "title": "Washington Nationals vs Chicago White Sox",
-    "timestamp": "2025-09-27T20:05:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wpqrut1423694764.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yyz5dh1554140884.png"
-  },
-  {
-    "league": "MLB",
     "title": "Boston Red Sox vs Detroit Tigers",
     "timestamp": "2025-09-27T20:10:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/stpsus1425120215.png",
@@ -21341,6 +21334,13 @@
     "timestamp": "2025-09-27T20:10:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/0722fs1546001701.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rxqspq1431540337.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Washington Nationals vs Chicago White Sox",
+    "timestamp": "2025-09-27T20:35:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wpqrut1423694764.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yyz5dh1554140884.png"
   },
   {
     "league": "NHL",
@@ -21763,6 +21763,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/v8vkk11619536610.png"
   },
   {
+    "league": "MLB",
+    "title": "Chicago Cubs vs San Diego Padres",
+    "timestamp": "2025-09-30T20:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/6wt1cn1617527530.png"
+  },
+  {
     "league": "NHL",
     "title": "Tampa Bay Lightning vs Florida Panthers",
     "timestamp": "2025-09-30T23:00:00",
@@ -21817,6 +21824,13 @@
     "timestamp": "2025-10-01T01:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/w5m2ab1746690303.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/w408rg1719220748.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Chicago Cubs vs San Diego Padres",
+    "timestamp": "2025-10-01T20:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/6wt1cn1617527530.png"
   },
   {
     "league": "NHL",
