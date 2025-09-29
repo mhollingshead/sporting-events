@@ -21764,10 +21764,24 @@
   },
   {
     "league": "MLB",
+    "title": "Cleveland Guardians vs Detroit Tigers",
+    "timestamp": "2025-09-30T17:08:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3zvzao1640964590.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/9dib6o1554032173.png"
+  },
+  {
+    "league": "MLB",
     "title": "Chicago Cubs vs San Diego Padres",
-    "timestamp": "2025-09-30T20:00:00",
+    "timestamp": "2025-09-30T19:08:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/6wt1cn1617527530.png"
+  },
+  {
+    "league": "MLB",
+    "title": "New York Yankees vs Boston Red Sox",
+    "timestamp": "2025-09-30T22:08:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqwwxx1423478766.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/stpsus1425120215.png"
   },
   {
     "league": "NHL",
@@ -21827,10 +21841,31 @@
   },
   {
     "league": "MLB",
+    "title": "Los Angeles Dodgers vs Cincinnati Reds",
+    "timestamp": "2025-10-01T01:08:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/p2oj631663889783.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wspusr1431538832.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Cleveland Guardians vs Detroit Tigers",
+    "timestamp": "2025-10-01T17:08:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3zvzao1640964590.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/9dib6o1554032173.png"
+  },
+  {
+    "league": "MLB",
     "title": "Chicago Cubs vs San Diego Padres",
-    "timestamp": "2025-10-01T20:00:00",
+    "timestamp": "2025-10-01T19:08:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/6wt1cn1617527530.png"
+  },
+  {
+    "league": "MLB",
+    "title": "New York Yankees vs Boston Red Sox",
+    "timestamp": "2025-10-01T22:08:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqwwxx1423478766.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/stpsus1425120215.png"
   },
   {
     "league": "NHL",
@@ -21852,6 +21887,13 @@
     "timestamp": "2025-10-02T01:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/v8vkk11619536610.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xqxxpw1421875519.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Los Angeles Dodgers vs Cincinnati Reds",
+    "timestamp": "2025-10-02T01:08:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/p2oj631663889783.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wspusr1431538832.png"
   },
   {
     "league": "NHL",
