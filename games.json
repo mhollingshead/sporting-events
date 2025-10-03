@@ -22085,6 +22085,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/bez4251546192693.png"
   },
   {
+    "league": "MLB",
+    "title": "Milwaukee Brewers vs Chicago Cubs",
+    "timestamp": "2025-10-04T18:08:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/08kh2a1595775193.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png"
+  },
+  {
     "league": "NHL",
     "title": "Los Angeles Kings vs Anaheim Ducks",
     "timestamp": "2025-10-04T20:00:00",
@@ -22099,11 +22106,25 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/v07m3x1547232585.png"
   },
   {
+    "league": "MLB",
+    "title": "Toronto Blue Jays vs New York Yankees",
+    "timestamp": "2025-10-04T20:08:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/f9zk3l1617527686.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqwwxx1423478766.png"
+  },
+  {
     "league": "NHL",
     "title": "Dallas Stars vs Colorado Avalanche",
     "timestamp": "2025-10-04T22:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/qrvywq1422042125.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqutut1421173572.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Philadelphia Phillies vs Los Angeles Dodgers",
+    "timestamp": "2025-10-04T22:38:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3xrldf1617528682.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/p2oj631663889783.png"
   },
   {
     "league": "NHL",
@@ -22153,6 +22174,13 @@
     "timestamp": "2025-10-05T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/5v67x51547214763.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/sjsv3b1748974231.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Seattle Mariners vs Detroit Tigers",
+    "timestamp": "2025-10-05T00:38:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/39x9ph1521903933.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/9dib6o1554032173.png"
   },
   {
     "league": "NBA",
@@ -22260,6 +22288,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/2dfpdl1537820969.png"
   },
   {
+    "league": "MLB",
+    "title": "Toronto Blue Jays vs New York Yankees",
+    "timestamp": "2025-10-05T20:08:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/f9zk3l1617527686.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqwwxx1423478766.png"
+  },
+  {
     "league": "NFL",
     "title": "Cincinnati Bengals vs Detroit Lions",
     "timestamp": "2025-10-05T20:25:00",
@@ -22281,6 +22316,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/27v8861746610370.png"
   },
   {
+    "league": "MLB",
+    "title": "Seattle Mariners vs Detroit Tigers",
+    "timestamp": "2025-10-06T00:03:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/39x9ph1521903933.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/9dib6o1554032173.png"
+  },
+  {
     "league": "NFL",
     "title": "Buffalo Bills vs New England Patriots",
     "timestamp": "2025-10-06T00:20:00",
@@ -22293,6 +22335,13 @@
     "timestamp": "2025-10-06T00:30:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/irobi61565197527.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/d8uoxw1714254511.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Philadelphia Phillies vs Los Angeles Dodgers",
+    "timestamp": "2025-10-06T22:08:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3xrldf1617528682.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/p2oj631663889783.png"
   },
   {
     "league": "NBA",
@@ -22330,11 +22379,32 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/27v8861746610370.png"
   },
   {
+    "league": "MLB",
+    "title": "Milwaukee Brewers vs Chicago Cubs",
+    "timestamp": "2025-10-07T01:08:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/08kh2a1595775193.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png"
+  },
+  {
     "league": "NBA",
     "title": "Toronto Raptors vs Denver Nuggets",
     "timestamp": "2025-10-07T02:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ax36vz1635070057.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/8o8j5k1546016274.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Detroit Tigers vs Seattle Mariners",
+    "timestamp": "2025-10-07T20:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/9dib6o1554032173.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/39x9ph1521903933.png"
+  },
+  {
+    "league": "MLB",
+    "title": "New York Yankees vs Toronto Blue Jays",
+    "timestamp": "2025-10-07T20:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqwwxx1423478766.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/f9zk3l1617527686.png"
   },
   {
     "league": "NHL",
@@ -22370,6 +22440,20 @@
     "timestamp": "2025-10-08T02:30:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/w408rg1719220748.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqutut1421173572.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Chicago Cubs vs Milwaukee Brewers",
+    "timestamp": "2025-10-08T20:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/08kh2a1595775193.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Los Angeles Dodgers vs Philadelphia Phillies",
+    "timestamp": "2025-10-08T20:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/p2oj631663889783.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/3xrldf1617528682.png"
   },
   {
     "league": "NHL",
