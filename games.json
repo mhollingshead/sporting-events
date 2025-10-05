@@ -22395,16 +22395,9 @@
   {
     "league": "MLB",
     "title": "Detroit Tigers vs Seattle Mariners",
-    "timestamp": "2025-10-07T20:00:00",
+    "timestamp": "2025-10-07T20:08:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/9dib6o1554032173.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/39x9ph1521903933.png"
-  },
-  {
-    "league": "MLB",
-    "title": "New York Yankees vs Toronto Blue Jays",
-    "timestamp": "2025-10-07T20:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqwwxx1423478766.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/f9zk3l1617527686.png"
   },
   {
     "league": "NHL",
@@ -22435,6 +22428,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/v6jzgm1503741821.png"
   },
   {
+    "league": "MLB",
+    "title": "New York Yankees vs Toronto Blue Jays",
+    "timestamp": "2025-10-08T00:08:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqwwxx1423478766.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/f9zk3l1617527686.png"
+  },
+  {
     "league": "NHL",
     "title": "Los Angeles Kings vs Colorado Avalanche",
     "timestamp": "2025-10-08T02:30:00",
@@ -22444,16 +22444,9 @@
   {
     "league": "MLB",
     "title": "Chicago Cubs vs Milwaukee Brewers",
-    "timestamp": "2025-10-08T20:00:00",
+    "timestamp": "2025-10-08T21:08:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/08kh2a1595775193.png"
-  },
-  {
-    "league": "MLB",
-    "title": "Los Angeles Dodgers vs Philadelphia Phillies",
-    "timestamp": "2025-10-08T20:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/p2oj631663889783.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/3xrldf1617528682.png"
   },
   {
     "league": "NHL",
@@ -22489,6 +22482,13 @@
     "timestamp": "2025-10-09T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/m64v461565196789.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/4j85bn1667936589.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Los Angeles Dodgers vs Philadelphia Phillies",
+    "timestamp": "2025-10-09T01:08:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/p2oj631663889783.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/3xrldf1617528682.png"
   },
   {
     "league": "NHL",
