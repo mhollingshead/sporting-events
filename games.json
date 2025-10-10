@@ -42609,6 +42609,20 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqutut1421173572.png"
   },
   {
+    "league": "NBA",
+    "title": "Indiana Pacers vs Minnesota Timberwolves",
+    "timestamp": "2026-04-08T00:00:00",
+    "homeBadge": null,
+    "awayBadge": null
+  },
+  {
+    "league": "NBA",
+    "title": "New Orleans Pelicans vs Utah Jazz",
+    "timestamp": "2026-04-08T00:00:00",
+    "homeBadge": null,
+    "awayBadge": null
+  },
+  {
     "league": "NHL",
     "title": "Utah Mammoth vs Edmonton Oilers",
     "timestamp": "2026-04-08T01:30:00",
@@ -42630,6 +42644,34 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/7fd4521619536689.png"
   },
   {
+    "league": "NBA",
+    "title": "Golden State Warriors vs Sacramento Kings",
+    "timestamp": "2026-04-08T02:00:00",
+    "homeBadge": null,
+    "awayBadge": null
+  },
+  {
+    "league": "NBA",
+    "title": "Los Angeles Clippers vs Dallas Mavericks",
+    "timestamp": "2026-04-08T02:30:00",
+    "homeBadge": null,
+    "awayBadge": null
+  },
+  {
+    "league": "NBA",
+    "title": "Los Angeles Lakers vs Oklahoma City Thunder",
+    "timestamp": "2026-04-08T02:30:00",
+    "homeBadge": null,
+    "awayBadge": null
+  },
+  {
+    "league": "NBA",
+    "title": "Phoenix Suns vs Houston Rockets",
+    "timestamp": "2026-04-08T03:00:00",
+    "homeBadge": null,
+    "awayBadge": null
+  },
+  {
     "league": "NHL",
     "title": "New York Rangers vs Buffalo Sabres",
     "timestamp": "2026-04-08T23:00:00",
@@ -42637,11 +42679,32 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/3m3jhp1619536655.png"
   },
   {
+    "league": "NBA",
+    "title": "Cleveland Cavaliers vs Atlanta Hawks",
+    "timestamp": "2026-04-08T23:00:00",
+    "homeBadge": null,
+    "awayBadge": null
+  },
+  {
+    "league": "NBA",
+    "title": "Orlando Magic vs Minnesota Timberwolves",
+    "timestamp": "2026-04-08T23:00:00",
+    "homeBadge": null,
+    "awayBadge": null
+  },
+  {
     "league": "NHL",
     "title": "Toronto Maple Leafs vs Washington Capitals",
     "timestamp": "2026-04-08T23:30:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/mxig4p1570129307.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/99ca9a1638974052.png"
+  },
+  {
+    "league": "NBA",
+    "title": "Detroit Pistons vs Milwaukee Bucks",
+    "timestamp": "2026-04-08T23:30:00",
+    "homeBadge": null,
+    "awayBadge": null
   },
   {
     "league": "NHL",
