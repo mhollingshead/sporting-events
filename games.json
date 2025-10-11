@@ -22827,6 +22827,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/q3bx641635067495.png"
   },
   {
+    "league": "MLB",
+    "title": "Milwaukee Brewers vs Chicago Cubs",
+    "timestamp": "2025-10-12T00:08:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/08kh2a1595775193.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png"
+  },
+  {
     "league": "NBA",
     "title": "Dallas Mavericks vs Charlotte Hornets",
     "timestamp": "2025-10-12T00:30:00",
@@ -23032,7 +23039,7 @@
   {
     "league": "NHL",
     "title": "Toronto Maple Leafs vs Detroit Red Wings",
-    "timestamp": "2025-10-13T20:00:00",
+    "timestamp": "2025-10-13T18:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/mxig4p1570129307.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/1c24ow1546544080.png"
   },
@@ -42612,15 +42619,15 @@
     "league": "NBA",
     "title": "Indiana Pacers vs Minnesota Timberwolves",
     "timestamp": "2026-04-08T00:00:00",
-    "homeBadge": null,
-    "awayBadge": null
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/v6jzgm1503741821.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/5xpgjg1621594771.png"
   },
   {
     "league": "NBA",
     "title": "New Orleans Pelicans vs Utah Jazz",
     "timestamp": "2026-04-08T00:00:00",
-    "homeBadge": null,
-    "awayBadge": null
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/cak6261696446261.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/9v9c5p1751703267.png"
   },
   {
     "league": "NHL",
@@ -42647,29 +42654,29 @@
     "league": "NBA",
     "title": "Golden State Warriors vs Sacramento Kings",
     "timestamp": "2026-04-08T02:00:00",
-    "homeBadge": null,
-    "awayBadge": null
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/irobi61565197527.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/5d3dpz1611859587.png"
   },
   {
     "league": "NBA",
     "title": "Los Angeles Clippers vs Dallas Mavericks",
     "timestamp": "2026-04-08T02:30:00",
-    "homeBadge": null,
-    "awayBadge": null
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3gtb8s1719303125.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yqrxrs1420568796.png"
   },
   {
     "league": "NBA",
     "title": "Los Angeles Lakers vs Oklahoma City Thunder",
     "timestamp": "2026-04-08T02:30:00",
-    "homeBadge": null,
-    "awayBadge": null
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/d8uoxw1714254511.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/27v8861746610370.png"
   },
   {
     "league": "NBA",
     "title": "Phoenix Suns vs Houston Rockets",
     "timestamp": "2026-04-08T03:00:00",
-    "homeBadge": null,
-    "awayBadge": null
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/qrtuxq1422919040.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yezpho1597486052.png"
   },
   {
     "league": "NHL",
@@ -42682,15 +42689,15 @@
     "league": "NBA",
     "title": "Cleveland Cavaliers vs Atlanta Hawks",
     "timestamp": "2026-04-08T23:00:00",
-    "homeBadge": null,
-    "awayBadge": null
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/tys75k1664478652.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/q3bx641635067495.png"
   },
   {
     "league": "NBA",
     "title": "Orlando Magic vs Minnesota Timberwolves",
     "timestamp": "2026-04-08T23:00:00",
-    "homeBadge": null,
-    "awayBadge": null
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/sjsv3b1748974231.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/5xpgjg1621594771.png"
   },
   {
     "league": "NHL",
@@ -42703,8 +42710,8 @@
     "league": "NBA",
     "title": "Detroit Pistons vs Milwaukee Bucks",
     "timestamp": "2026-04-08T23:30:00",
-    "homeBadge": null,
-    "awayBadge": null
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/lg7qrc1621594751.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/olhug01621594702.png"
   },
   {
     "league": "NHL",
