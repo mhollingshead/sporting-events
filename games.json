@@ -24255,6 +24255,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/5v67x51547214763.png"
   },
   {
+    "league": "MLB",
+    "title": "Toronto Blue Jays vs Los Angeles Dodgers",
+    "timestamp": "2025-10-25T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/f9zk3l1617527686.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/p2oj631663889783.png"
+  },
+  {
     "league": "NBA",
     "title": "Dallas Mavericks vs Washington Wizards",
     "timestamp": "2025-10-25T00:30:00",
@@ -24435,6 +24442,13 @@
     "timestamp": "2025-10-26T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/m64v461565196789.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/v6jzgm1503741821.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Toronto Blue Jays vs Los Angeles Dodgers",
+    "timestamp": "2025-10-26T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/f9zk3l1617527686.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/p2oj631663889783.png"
   },
   {
     "league": "NHL",
@@ -24731,6 +24745,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ax36vz1635070057.png"
   },
   {
+    "league": "MLB",
+    "title": "Los Angeles Dodgers vs Toronto Blue Jays",
+    "timestamp": "2025-10-28T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/p2oj631663889783.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/f9zk3l1617527686.png"
+  },
+  {
     "league": "NFL",
     "title": "Kansas City Chiefs vs Washington Commanders",
     "timestamp": "2025-10-28T00:15:00",
@@ -24855,6 +24876,13 @@
     "timestamp": "2025-10-29T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/27v8861746610370.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/5d3dpz1611859587.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Los Angeles Dodgers vs Toronto Blue Jays",
+    "timestamp": "2025-10-29T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/p2oj631663889783.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/f9zk3l1617527686.png"
   },
   {
     "league": "NHL",
