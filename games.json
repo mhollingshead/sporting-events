@@ -24431,13 +24431,6 @@
   },
   {
     "league": "NBA",
-    "title": "Denver Nuggets vs Phoenix Suns",
-    "timestamp": "2025-10-26T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/8o8j5k1546016274.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/qrtuxq1422919040.png"
-  },
-  {
-    "league": "NBA",
     "title": "Memphis Grizzlies vs Indiana Pacers",
     "timestamp": "2025-10-26T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/m64v461565196789.png",
@@ -24456,6 +24449,13 @@
     "timestamp": "2025-10-26T02:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/zsx49m1595775836.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uxxsyw1421618428.png"
+  },
+  {
+    "league": "NBA",
+    "title": "Denver Nuggets vs Phoenix Suns",
+    "timestamp": "2025-10-26T02:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/8o8j5k1546016274.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/qrtuxq1422919040.png"
   },
   {
     "league": "Premier League",
@@ -31031,20 +31031,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/71545f1518464849.png"
   },
   {
-    "league": "NFL",
-    "title": "Chicago Bears vs Green Bay Packers",
-    "timestamp": "2025-12-20T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ji22531698678538.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rqpwtr1421434717.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Washington Commanders vs Philadelphia Eagles",
-    "timestamp": "2025-12-20T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/rn0c7v1643826119.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/pnpybf1515852421.png"
-  },
-  {
     "league": "NBA",
     "title": "Atlanta Hawks vs San Antonio Spurs",
     "timestamp": "2025-12-20T00:30:00",
@@ -31155,6 +31141,20 @@
     "timestamp": "2025-12-20T20:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/2tc1qy1619536592.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/tuwyvr1422041801.png"
+  },
+  {
+    "league": "NFL",
+    "title": "Chicago Bears vs Green Bay Packers",
+    "timestamp": "2025-12-20T21:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ji22531698678538.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rqpwtr1421434717.png"
+  },
+  {
+    "league": "NFL",
+    "title": "Washington Commanders vs Philadelphia Eagles",
+    "timestamp": "2025-12-20T21:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/rn0c7v1643826119.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/pnpybf1515852421.png"
   },
   {
     "league": "NHL",
@@ -31864,34 +31864,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xvuwtw1420646838.png"
   },
   {
-    "league": "NFL",
-    "title": "Green Bay Packers vs Baltimore Ravens",
-    "timestamp": "2025-12-27T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/rqpwtr1421434717.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/einz3p1546172463.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Las Vegas Raiders vs New York Giants",
-    "timestamp": "2025-12-27T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xqusqy1421724291.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/vxppup1423669459.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Los Angeles Chargers vs Houston Texans",
-    "timestamp": "2025-12-27T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/vrqanp1687734910.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqyryy1421436627.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Carolina Panthers vs Seattle Seahawks",
-    "timestamp": "2025-12-27T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xxyvvy1420940478.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wwuqyr1421434817.png"
-  },
-  {
     "league": "NBA",
     "title": "Indiana Pacers vs Boston Celtics",
     "timestamp": "2025-12-27T00:30:00",
@@ -32156,6 +32128,34 @@
     "timestamp": "2025-12-28T03:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/7fd4521619536689.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqutut1421173572.png"
+  },
+  {
+    "league": "NFL",
+    "title": "Green Bay Packers vs Baltimore Ravens",
+    "timestamp": "2025-12-28T18:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/rqpwtr1421434717.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/einz3p1546172463.png"
+  },
+  {
+    "league": "NFL",
+    "title": "Las Vegas Raiders vs New York Giants",
+    "timestamp": "2025-12-28T18:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xqusqy1421724291.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/vxppup1423669459.png"
+  },
+  {
+    "league": "NFL",
+    "title": "Los Angeles Chargers vs Houston Texans",
+    "timestamp": "2025-12-28T18:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/vrqanp1687734910.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqyryy1421436627.png"
+  },
+  {
+    "league": "NFL",
+    "title": "Carolina Panthers vs Seattle Seahawks",
+    "timestamp": "2025-12-28T18:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xxyvvy1420940478.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wwuqyr1421434817.png"
   },
   {
     "league": "NFL",
