@@ -24431,6 +24431,13 @@
   },
   {
     "league": "NBA",
+    "title": "Denver Nuggets vs Phoenix Suns",
+    "timestamp": "2025-10-26T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/8o8j5k1546016274.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/qrtuxq1422919040.png"
+  },
+  {
+    "league": "NBA",
     "title": "Memphis Grizzlies vs Indiana Pacers",
     "timestamp": "2025-10-26T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/m64v461565196789.png",
@@ -24449,13 +24456,6 @@
     "timestamp": "2025-10-26T02:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/zsx49m1595775836.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uxxsyw1421618428.png"
-  },
-  {
-    "league": "NBA",
-    "title": "Denver Nuggets vs Phoenix Suns",
-    "timestamp": "2025-10-26T02:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/8o8j5k1546016274.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/qrtuxq1422919040.png"
   },
   {
     "league": "Premier League",
@@ -24988,6 +24988,13 @@
     "timestamp": "2025-10-30T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/yk7swg1547214677.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/5d3dpz1611859587.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Los Angeles Dodgers vs Toronto Blue Jays",
+    "timestamp": "2025-10-30T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/p2oj631663889783.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/f9zk3l1617527686.png"
   },
   {
     "league": "NBA",
