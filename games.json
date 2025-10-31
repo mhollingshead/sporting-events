@@ -19468,17 +19468,17 @@
   },
   {
     "league": "NFL",
-    "title": "New Orleans Saints vs San Francisco 49ers",
-    "timestamp": "2025-09-14T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/nd46c71537821337.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/bqbtg61539537328.png"
-  },
-  {
-    "league": "NFL",
     "title": "Detroit Lions vs Chicago Bears",
     "timestamp": "2025-09-14T17:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/lgsgkr1546168257.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ji22531698678538.png"
+  },
+  {
+    "league": "NFL",
+    "title": "New Orleans Saints vs San Francisco 49ers",
+    "timestamp": "2025-09-14T17:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/nd46c71537821337.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/bqbtg61539537328.png"
   },
   {
     "league": "MLB",
