@@ -25382,6 +25382,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yezpho1597486052.png"
   },
   {
+    "league": "MLB",
+    "title": "Toronto Blue Jays vs Los Angeles Dodgers",
+    "timestamp": "2025-11-02T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/f9zk3l1617527686.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/p2oj631663889783.png"
+  },
+  {
     "league": "NHL",
     "title": "Los Angeles Kings vs New Jersey Devils",
     "timestamp": "2025-11-02T01:00:00",
