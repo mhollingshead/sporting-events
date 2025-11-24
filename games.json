@@ -29961,13 +29961,6 @@
   },
   {
     "league": "NFL",
-    "title": "Green Bay Packers vs Chicago Bears",
-    "timestamp": "2025-12-07T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/rqpwtr1421434717.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ji22531698678538.png"
-  },
-  {
-    "league": "NFL",
     "title": "Minnesota Vikings vs Washington Commanders",
     "timestamp": "2025-12-07T18:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/qstqqr1421609163.png",
@@ -30002,6 +29995,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/2975411515853129.png"
   },
   {
+    "league": "NFL",
+    "title": "Buffalo Bills vs Cincinnati Bengals",
+    "timestamp": "2025-12-07T18:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/6pb37b1515849026.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/qqtwwv1420941670.png"
+  },
+  {
     "league": "NBA",
     "title": "Toronto Raptors vs Boston Celtics",
     "timestamp": "2025-12-07T20:30:00",
@@ -30017,10 +30017,10 @@
   },
   {
     "league": "NFL",
-    "title": "Buffalo Bills vs Cincinnati Bengals",
+    "title": "Green Bay Packers vs Chicago Bears",
     "timestamp": "2025-12-07T21:25:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/6pb37b1515849026.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/qqtwwv1420941670.png"
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/rqpwtr1421434717.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ji22531698678538.png"
   },
   {
     "league": "NFL",
