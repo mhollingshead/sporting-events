@@ -31885,6 +31885,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ax36vz1635070057.png"
   },
   {
+    "league": "NBA",
+    "title": "Indiana Pacers vs Boston Celtics",
+    "timestamp": "2025-12-27T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/v6jzgm1503741821.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/4j85bn1667936589.png"
+  },
+  {
     "league": "NFL",
     "title": "Cincinnati Bengals vs Arizona Cardinals",
     "timestamp": "2025-12-27T00:00:00",
@@ -31921,10 +31928,10 @@
   },
   {
     "league": "NBA",
-    "title": "Indiana Pacers vs Boston Celtics",
+    "title": "Chicago Bulls vs Philadelphia 76ers",
     "timestamp": "2025-12-27T00:30:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/v6jzgm1503741821.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/4j85bn1667936589.png"
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/yk7swg1547214677.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/71545f1518464849.png"
   },
   {
     "league": "NBA",
@@ -31939,13 +31946,6 @@
     "timestamp": "2025-12-27T01:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/m64v461565196789.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/olhug01621594702.png"
-  },
-  {
-    "league": "NBA",
-    "title": "Chicago Bulls vs Philadelphia 76ers",
-    "timestamp": "2025-12-27T01:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/yk7swg1547214677.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/71545f1518464849.png"
   },
   {
     "league": "NBA",
