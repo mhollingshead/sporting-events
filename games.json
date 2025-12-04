@@ -10305,13 +10305,6 @@
   },
   {
     "league": "NBA",
-    "title": "Atlanta Hawks vs Philadelphia 76ers",
-    "timestamp": "2025-12-14T20:30:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/q3bx641635067495.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/71545f1518464849.png"
-  },
-  {
-    "league": "NBA",
     "title": "Cleveland Cavaliers vs Charlotte Hornets",
     "timestamp": "2025-12-14T20:30:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/tys75k1664478652.png",
@@ -10365,6 +10358,13 @@
     "timestamp": "2025-12-14T23:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/swtsxs1422042685.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/b1r86e1720023232.png"
+  },
+  {
+    "league": "NBA",
+    "title": "Atlanta Hawks vs Philadelphia 76ers",
+    "timestamp": "2025-12-14T23:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/q3bx641635067495.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/71545f1518464849.png"
   },
   {
     "league": "NBA",
@@ -10801,20 +10801,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/71545f1518464849.png"
   },
   {
-    "league": "NFL",
-    "title": "Chicago Bears vs Green Bay Packers",
-    "timestamp": "2025-12-20T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ji22531698678538.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rqpwtr1421434717.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Washington Commanders vs Philadelphia Eagles",
-    "timestamp": "2025-12-20T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/rn0c7v1643826119.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/pnpybf1515852421.png"
-  },
-  {
     "league": "NBA",
     "title": "Atlanta Hawks vs San Antonio Spurs",
     "timestamp": "2025-12-20T00:30:00",
@@ -10955,6 +10941,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yezpho1597486052.png"
   },
   {
+    "league": "NFL",
+    "title": "Washington Commanders vs Philadelphia Eagles",
+    "timestamp": "2025-12-20T22:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/rn0c7v1643826119.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/pnpybf1515852421.png"
+  },
+  {
     "league": "NHL",
     "title": "Florida Panthers vs St. Louis Blues",
     "timestamp": "2025-12-20T23:00:00",
@@ -11023,6 +11016,13 @@
     "timestamp": "2025-12-21T01:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/m64v461565196789.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rhxi9w1621594729.png"
+  },
+  {
+    "league": "NFL",
+    "title": "Chicago Bears vs Green Bay Packers",
+    "timestamp": "2025-12-21T01:20:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ji22531698678538.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rqpwtr1421434717.png"
   },
   {
     "league": "NBA",
