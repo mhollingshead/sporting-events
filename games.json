@@ -9821,6 +9821,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/swysut1421791822.png"
   },
   {
+    "league": "NBA",
+    "title": "Miami Heat vs Orlando Magic",
+    "timestamp": "2025-12-10T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/5v67x51547214763.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/sjsv3b1748974231.png"
+  },
+  {
     "league": "NHL",
     "title": "Carolina Hurricanes vs Columbus Blue Jackets",
     "timestamp": "2025-12-10T00:30:00",
@@ -9840,6 +9847,13 @@
     "timestamp": "2025-12-10T01:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/bwn9hr1547233611.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/qrvywq1422042125.png"
+  },
+  {
+    "league": "NBA",
+    "title": "New York Knicks vs Toronto Raptors",
+    "timestamp": "2025-12-10T01:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wyhpuf1511810435.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ax36vz1635070057.png"
   },
   {
     "league": "NHL",
@@ -11131,10 +11145,10 @@
   },
   {
     "league": "NFL",
-    "title": "Baltimore Ravens vs New England Patriots",
+    "title": "Miami Dolphins vs Cincinnati Bengals",
     "timestamp": "2025-12-21T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/einz3p1546172463.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xtwxyt1421431860.png"
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/trtusv1421435081.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/qqtwwv1420941670.png"
   },
   {
     "league": "NBA",
@@ -11257,10 +11271,10 @@
   },
   {
     "league": "NFL",
-    "title": "Miami Dolphins vs Cincinnati Bengals",
+    "title": "Baltimore Ravens vs New England Patriots",
     "timestamp": "2025-12-22T01:20:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/trtusv1421435081.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/qqtwwv1420941670.png"
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/einz3p1546172463.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xtwxyt1421431860.png"
   },
   {
     "league": "NBA",
@@ -18355,6 +18369,13 @@
   },
   {
     "league": "NHL",
+    "title": "Nashville Predators vs Detroit Red Wings",
+    "timestamp": "2026-03-02T19:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/twqyvy1422052908.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/1c24ow1546544080.png"
+  },
+  {
+    "league": "NHL",
     "title": "New York Rangers vs Columbus Blue Jackets",
     "timestamp": "2026-03-03T00:00:00",
     "homeBadge": "https://www.thesportsdb.com/images/media/team/badge/ts2nhq1763454676.png",
@@ -18380,13 +18401,6 @@
     "timestamp": "2026-03-03T00:30:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/olhug01621594702.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/4j85bn1667936589.png"
-  },
-  {
-    "league": "NHL",
-    "title": "Nashville Predators vs Detroit Red Wings",
-    "timestamp": "2026-03-03T01:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/twqyvy1422052908.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/1c24ow1546544080.png"
   },
   {
     "league": "NBA",
