@@ -9821,13 +9821,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/swysut1421791822.png"
   },
   {
-    "league": "NBA",
-    "title": "Miami Heat vs Orlando Magic",
-    "timestamp": "2025-12-10T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/5v67x51547214763.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/sjsv3b1748974231.png"
-  },
-  {
     "league": "NHL",
     "title": "Carolina Hurricanes vs Columbus Blue Jackets",
     "timestamp": "2025-12-10T00:30:00",
@@ -9847,13 +9840,6 @@
     "timestamp": "2025-12-10T01:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/bwn9hr1547233611.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/qrvywq1422042125.png"
-  },
-  {
-    "league": "NBA",
-    "title": "New York Knicks vs Toronto Raptors",
-    "timestamp": "2025-12-10T01:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wyhpuf1511810435.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ax36vz1635070057.png"
   },
   {
     "league": "NHL",
@@ -9877,6 +9863,13 @@
     "awayBadge": "https://www.thesportsdb.com/images/media/team/badge/ts2nhq1763454676.png"
   },
   {
+    "league": "NBA",
+    "title": "Phoenix Suns vs Oklahoma City Thunder",
+    "timestamp": "2025-12-11T00:30:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/qrtuxq1422919040.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/27v8861746610370.png"
+  },
+  {
     "league": "NHL",
     "title": "Calgary Flames vs Detroit Red Wings",
     "timestamp": "2025-12-11T01:30:00",
@@ -9896,6 +9889,13 @@
     "timestamp": "2025-12-11T03:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/zsx49m1595775836.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/w408rg1719220748.png"
+  },
+  {
+    "league": "NBA",
+    "title": "San Antonio Spurs vs Los Angeles Lakers",
+    "timestamp": "2025-12-11T03:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/obucan1611859537.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/d8uoxw1714254511.png"
   },
   {
     "league": "NHL",
