@@ -11559,7 +11559,7 @@
   {
     "league": "NBA",
     "title": "Los Angeles Clippers vs Houston Rockets",
-    "timestamp": "2025-12-24T04:00:00",
+    "timestamp": "2025-12-24T03:30:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3gtb8s1719303125.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yezpho1597486052.png"
   },
@@ -12224,7 +12224,7 @@
   {
     "league": "NBA",
     "title": "Portland Trail Blazers vs Dallas Mavericks",
-    "timestamp": "2025-12-30T04:00:00",
+    "timestamp": "2025-12-30T03:30:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ljkd1r1696445959.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yqrxrs1420568796.png"
   },
@@ -16422,6 +16422,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/stpryx1421791753.png"
   },
   {
+    "league": "NBA",
+    "title": "Memphis Grizzlies vs Minnesota Timberwolves",
+    "timestamp": "2026-02-03T00:30:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/m64v461565196789.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/5xpgjg1621594771.png"
+  },
+  {
     "league": "NHL",
     "title": "Nashville Predators vs St. Louis Blues",
     "timestamp": "2026-02-03T01:00:00",
@@ -16457,13 +16464,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xqxxpw1421875519.png"
   },
   {
-    "league": "NBA",
-    "title": "Memphis Grizzlies vs Minnesota Timberwolves",
-    "timestamp": "2026-02-03T02:30:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/m64v461565196789.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/5xpgjg1621594771.png"
-  },
-  {
     "league": "NHL",
     "title": "Calgary Flames vs Toronto Maple Leafs",
     "timestamp": "2026-02-03T03:00:00",
@@ -16473,7 +16473,7 @@
   {
     "league": "NBA",
     "title": "Los Angeles Clippers vs Philadelphia 76ers",
-    "timestamp": "2026-02-03T03:30:00",
+    "timestamp": "2026-02-03T03:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3gtb8s1719303125.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/71545f1518464849.png"
   },
