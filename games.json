@@ -13398,6 +13398,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rhxi9w1621594729.png"
   },
   {
+    "league": "NBA",
+    "title": "Boston Celtics vs Denver Nuggets",
+    "timestamp": "2026-01-08T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/4j85bn1667936589.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/8o8j5k1546016274.png"
+  },
+  {
     "league": "NHL",
     "title": "Montreal Canadiens vs Calgary Flames",
     "timestamp": "2026-01-08T00:30:00",
@@ -13413,24 +13420,10 @@
   },
   {
     "league": "NBA",
-    "title": "San Antonio Spurs vs Los Angeles Lakers",
-    "timestamp": "2026-01-08T00:30:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/obucan1611859537.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/d8uoxw1714254511.png"
-  },
-  {
-    "league": "NBA",
     "title": "Brooklyn Nets vs Orlando Magic",
     "timestamp": "2026-01-08T00:30:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/hkafe61739948361.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/sjsv3b1748974231.png"
-  },
-  {
-    "league": "NBA",
-    "title": "Boston Celtics vs Denver Nuggets",
-    "timestamp": "2026-01-08T00:30:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/4j85bn1667936589.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/8o8j5k1546016274.png"
   },
   {
     "league": "NBA",
@@ -13466,6 +13459,13 @@
     "timestamp": "2026-01-08T02:30:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/w5m2ab1746690303.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/2tc1qy1619536592.png"
+  },
+  {
+    "league": "NBA",
+    "title": "San Antonio Spurs vs Los Angeles Lakers",
+    "timestamp": "2026-01-08T02:30:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/obucan1611859537.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/d8uoxw1714254511.png"
   },
   {
     "league": "NBA",
