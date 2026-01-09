@@ -14435,13 +14435,6 @@
   },
   {
     "league": "NBA",
-    "title": "Brooklyn Nets vs Chicago Bulls",
-    "timestamp": "2026-01-17T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/hkafe61739948361.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yk7swg1547214677.png"
-  },
-  {
-    "league": "NBA",
     "title": "Indiana Pacers vs New Orleans Pelicans",
     "timestamp": "2026-01-17T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/v6jzgm1503741821.png",
@@ -14453,6 +14446,13 @@
     "timestamp": "2026-01-17T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/71545f1518464849.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/tys75k1664478652.png"
+  },
+  {
+    "league": "NBA",
+    "title": "Brooklyn Nets vs Chicago Bulls",
+    "timestamp": "2026-01-17T00:30:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/hkafe61739948361.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yk7swg1547214677.png"
   },
   {
     "league": "NBA",
