@@ -16108,17 +16108,17 @@
   },
   {
     "league": "NBA",
+    "title": "Denver Nuggets vs Los Angeles Clippers",
+    "timestamp": "2026-01-31T02:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/8o8j5k1546016274.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/3gtb8s1719303125.png"
+  },
+  {
+    "league": "NBA",
     "title": "Utah Jazz vs Brooklyn Nets",
     "timestamp": "2026-01-31T02:30:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/9v9c5p1751703267.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/hkafe61739948361.png"
-  },
-  {
-    "league": "NBA",
-    "title": "Denver Nuggets vs Los Angeles Clippers",
-    "timestamp": "2026-01-31T03:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/8o8j5k1546016274.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/3gtb8s1719303125.png"
   },
   {
     "league": "NBA",
