@@ -15540,6 +15540,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqutut1421173572.png"
   },
   {
+    "league": "NHL",
+    "title": "Seattle Kraken vs New Jersey Devils",
+    "timestamp": "2026-01-25T20:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/zsx49m1595775836.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/z4rsvp1619536740.png"
+  },
+  {
     "league": "NBA",
     "title": "Detroit Pistons vs Sacramento Kings",
     "timestamp": "2026-01-25T20:00:00",
@@ -15552,13 +15559,6 @@
     "timestamp": "2026-01-25T20:30:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/m64v461565196789.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/8o8j5k1546016274.png"
-  },
-  {
-    "league": "NHL",
-    "title": "Seattle Kraken vs New Jersey Devils",
-    "timestamp": "2026-01-25T21:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/zsx49m1595775836.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/z4rsvp1619536740.png"
   },
   {
     "league": "NHL",
