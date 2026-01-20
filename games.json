@@ -15554,6 +15554,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/5d3dpz1611859587.png"
   },
   {
+    "league": "NFL",
+    "title": "Denver Broncos vs New England Patriots",
+    "timestamp": "2026-01-25T20:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/upsspx1421635647.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xtwxyt1421431860.png"
+  },
+  {
     "league": "NBA",
     "title": "Memphis Grizzlies vs Denver Nuggets",
     "timestamp": "2026-01-25T20:30:00",
@@ -15573,6 +15580,13 @@
     "timestamp": "2026-01-25T23:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xqxxpw1421875519.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/dsj3on1546192477.png"
+  },
+  {
+    "league": "NFL",
+    "title": "Seattle Seahawks vs Los Angeles Rams",
+    "timestamp": "2026-01-25T23:30:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wwuqyr1421434817.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/8e8v4i1599764614.png"
   },
   {
     "league": "NHL",
@@ -17585,13 +17599,6 @@
   },
   {
     "league": "Premier League",
-    "title": "Crystal Palace vs Wolverhampton Wanderers",
-    "timestamp": "2026-02-21T15:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/u9qr031621593327.png"
-  },
-  {
-    "league": "Premier League",
     "title": "Nottingham Forest vs Liverpool",
     "timestamp": "2026-02-21T15:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/bk4qjs1546440351.png",
@@ -17757,6 +17764,13 @@
     "timestamp": "2026-02-22T01:30:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wyhpuf1511810435.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yezpho1597486052.png"
+  },
+  {
+    "league": "Premier League",
+    "title": "Crystal Palace vs Wolverhampton Wanderers",
+    "timestamp": "2026-02-22T14:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/u9qr031621593327.png"
   },
   {
     "league": "Premier League",
@@ -18957,13 +18971,6 @@
   },
   {
     "league": "Premier League",
-    "title": "Manchester United vs Crystal Palace",
-    "timestamp": "2026-02-28T15:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png"
-  },
-  {
-    "league": "Premier League",
     "title": "Newcastle United vs Everton",
     "timestamp": "2026-02-28T15:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png",
@@ -19220,6 +19227,13 @@
     "timestamp": "2026-03-01T14:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xwwvyt1448811086.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png"
+  },
+  {
+    "league": "Premier League",
+    "title": "Manchester United vs Crystal Palace",
+    "timestamp": "2026-03-01T14:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png"
   },
   {
     "league": "Premier League",
