@@ -15386,6 +15386,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/u9qr031621593327.png"
   },
   {
+    "league": "NBA",
+    "title": "Charlotte Hornets vs Washington Wizards",
+    "timestamp": "2026-01-24T17:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xqtvvp1422380623.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rhxi9w1621594729.png"
+  },
+  {
     "league": "Premier League",
     "title": "Bournemouth vs Liverpool",
     "timestamp": "2026-01-24T17:30:00",
@@ -15400,6 +15407,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/3m3jhp1619536655.png"
   },
   {
+    "league": "NHL",
+    "title": "Nashville Predators vs Utah Mammoth",
+    "timestamp": "2026-01-24T18:30:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/twqyvy1422052908.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/w5m2ab1746690303.png"
+  },
+  {
     "league": "NBA",
     "title": "Philadelphia 76ers vs New York Knicks",
     "timestamp": "2026-01-24T20:00:00",
@@ -15407,25 +15421,11 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wyhpuf1511810435.png"
   },
   {
-    "league": "NHL",
-    "title": "Nashville Predators vs Utah Mammoth",
-    "timestamp": "2026-01-24T20:30:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/twqyvy1422052908.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/w5m2ab1746690303.png"
-  },
-  {
     "league": "NBA",
     "title": "Minnesota Timberwolves vs Golden State Warriors",
     "timestamp": "2026-01-24T22:30:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/5xpgjg1621594771.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/irobi61565197527.png"
-  },
-  {
-    "league": "NBA",
-    "title": "Charlotte Hornets vs Washington Wizards",
-    "timestamp": "2026-01-24T23:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xqtvvp1422380623.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rhxi9w1621594729.png"
   },
   {
     "league": "NHL",
@@ -16094,17 +16094,17 @@
   },
   {
     "league": "NBA",
-    "title": "Orlando Magic vs Toronto Raptors",
-    "timestamp": "2026-01-31T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/sjsv3b1748974231.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ax36vz1635070057.png"
-  },
-  {
-    "league": "NBA",
     "title": "Washington Wizards vs Los Angeles Lakers",
     "timestamp": "2026-01-31T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/rhxi9w1621594729.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/d8uoxw1714254511.png"
+  },
+  {
+    "league": "NBA",
+    "title": "Orlando Magic vs Toronto Raptors",
+    "timestamp": "2026-01-31T00:30:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/sjsv3b1748974231.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ax36vz1635070057.png"
   },
   {
     "league": "NBA",
