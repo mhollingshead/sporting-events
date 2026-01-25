@@ -18243,17 +18243,17 @@
   },
   {
     "league": "NBA",
+    "title": "Cleveland Cavaliers vs New York Knicks",
+    "timestamp": "2026-02-25T00:30:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/tys75k1664478652.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wyhpuf1511810435.png"
+  },
+  {
+    "league": "NBA",
     "title": "Chicago Bulls vs Charlotte Hornets",
     "timestamp": "2026-02-25T01:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/yk7swg1547214677.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xqtvvp1422380623.png"
-  },
-  {
-    "league": "NBA",
-    "title": "Cleveland Cavaliers vs New York Knicks",
-    "timestamp": "2026-02-25T01:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/tys75k1664478652.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wyhpuf1511810435.png"
   },
   {
     "league": "NBA",
@@ -18278,17 +18278,17 @@
   },
   {
     "league": "NBA",
+    "title": "Portland Trail Blazers vs Minnesota Timberwolves",
+    "timestamp": "2026-02-25T03:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ljkd1r1696445959.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/5xpgjg1621594771.png"
+  },
+  {
+    "league": "NBA",
     "title": "Los Angeles Lakers vs Orlando Magic",
     "timestamp": "2026-02-25T03:30:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/d8uoxw1714254511.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/sjsv3b1748974231.png"
-  },
-  {
-    "league": "NBA",
-    "title": "Portland Trail Blazers vs Minnesota Timberwolves",
-    "timestamp": "2026-02-25T04:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ljkd1r1696445959.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/5xpgjg1621594771.png"
   },
   {
     "league": "MLB",
