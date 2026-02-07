@@ -15646,13 +15646,6 @@
   },
   {
     "league": "NHL",
-    "title": "Columbus Blue Jackets vs Los Angeles Kings",
-    "timestamp": "2026-01-27T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ssytwt1421792535.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/w408rg1719220748.png"
-  },
-  {
-    "league": "NHL",
     "title": "Philadelphia Flyers vs New York Islanders",
     "timestamp": "2026-01-27T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/qxxppp1421794965.png",
@@ -20879,6 +20872,13 @@
     "timestamp": "2026-03-09T01:30:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/7fd4521619536689.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uxxsyw1421618428.png"
+  },
+  {
+    "league": "NHL",
+    "title": "Columbus Blue Jackets vs Los Angeles Kings",
+    "timestamp": "2026-03-09T21:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ssytwt1421792535.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/w408rg1719220748.png"
   },
   {
     "league": "MLB",
