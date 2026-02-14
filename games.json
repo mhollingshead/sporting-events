@@ -18403,18 +18403,18 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/qxxppp1421794965.png"
   },
   {
-    "league": "NBA",
-    "title": "Detroit Pistons vs Oklahoma City Thunder",
-    "timestamp": "2026-02-26T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/lg7qrc1621594751.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/27v8861746610370.png"
-  },
-  {
     "league": "NHL",
     "title": "Tampa Bay Lightning vs Toronto Maple Leafs",
     "timestamp": "2026-02-26T00:30:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/swysut1421791822.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/mxig4p1570129307.png"
+  },
+  {
+    "league": "NBA",
+    "title": "Detroit Pistons vs Oklahoma City Thunder",
+    "timestamp": "2026-02-26T00:30:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/lg7qrc1621594751.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/27v8861746610370.png"
   },
   {
     "league": "NBA",
@@ -26775,6 +26775,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/5xpgjg1621594771.png"
   },
   {
+    "league": "NBA",
+    "title": "Detroit Pistons vs Milwaukee Bucks",
+    "timestamp": "2026-04-08T23:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/lg7qrc1621594751.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/olhug01621594702.png"
+  },
+  {
     "league": "NHL",
     "title": "Toronto Maple Leafs vs Washington Capitals",
     "timestamp": "2026-04-08T23:30:00",
@@ -26783,24 +26790,17 @@
   },
   {
     "league": "NBA",
-    "title": "Detroit Pistons vs Milwaukee Bucks",
-    "timestamp": "2026-04-08T23:30:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/lg7qrc1621594751.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/olhug01621594702.png"
-  },
-  {
-    "league": "NBA",
-    "title": "San Antonio Spurs vs Portland Trail Blazers",
-    "timestamp": "2026-04-09T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/obucan1611859537.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ljkd1r1696445959.png"
-  },
-  {
-    "league": "NBA",
     "title": "Denver Nuggets vs Memphis Grizzlies",
     "timestamp": "2026-04-09T01:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/8o8j5k1546016274.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/m64v461565196789.png"
+  },
+  {
+    "league": "NBA",
+    "title": "San Antonio Spurs vs Portland Trail Blazers",
+    "timestamp": "2026-04-09T01:30:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/obucan1611859537.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ljkd1r1696445959.png"
   },
   {
     "league": "NHL",
