@@ -19419,13 +19419,6 @@
   },
   {
     "league": "NBA",
-    "title": "Boston Celtics vs Philadelphia 76ers",
-    "timestamp": "2026-03-01T23:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/4j85bn1667936589.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/71545f1518464849.png"
-  },
-  {
-    "league": "NBA",
     "title": "Orlando Magic vs Detroit Pistons",
     "timestamp": "2026-03-01T23:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/sjsv3b1748974231.png",
@@ -19444,6 +19437,13 @@
     "timestamp": "2026-03-02T01:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/1d465t1719573796.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/v8vkk11619536610.png"
+  },
+  {
+    "league": "NBA",
+    "title": "Boston Celtics vs Philadelphia 76ers",
+    "timestamp": "2026-03-02T01:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/4j85bn1667936589.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/71545f1518464849.png"
   },
   {
     "league": "NBA",
@@ -22582,13 +22582,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yyz5dh1554140884.png"
   },
   {
-    "league": "NBA",
-    "title": "Houston Rockets vs Los Angeles Lakers",
-    "timestamp": "2026-03-17T01:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/yezpho1597486052.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/d8uoxw1714254511.png"
-  },
-  {
     "league": "MLB",
     "title": "Cleveland Guardians vs Chicago Cubs",
     "timestamp": "2026-03-17T01:05:00",
@@ -22601,6 +22594,13 @@
     "timestamp": "2026-03-17T01:30:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqutut1421173572.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/dsj3on1546192477.png"
+  },
+  {
+    "league": "NBA",
+    "title": "Houston Rockets vs Los Angeles Lakers",
+    "timestamp": "2026-03-17T01:30:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/yezpho1597486052.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/d8uoxw1714254511.png"
   },
   {
     "league": "NBA",
@@ -23773,10 +23773,10 @@
   },
   {
     "league": "NBA",
-    "title": "Atlanta Hawks vs Memphis Grizzlies",
+    "title": "Miami Heat vs San Antonio Spurs",
     "timestamp": "2026-03-23T23:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/q3bx641635067495.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/m64v461565196789.png"
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/5v67x51547214763.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/obucan1611859537.png"
   },
   {
     "league": "NHL",
@@ -23787,10 +23787,10 @@
   },
   {
     "league": "NBA",
-    "title": "Miami Heat vs San Antonio Spurs",
+    "title": "Atlanta Hawks vs Memphis Grizzlies",
     "timestamp": "2026-03-23T23:30:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/5v67x51547214763.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/obucan1611859537.png"
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/q3bx641635067495.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/m64v461565196789.png"
   },
   {
     "league": "NBA",
