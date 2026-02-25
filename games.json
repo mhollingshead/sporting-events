@@ -24157,13 +24157,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqwwxx1423478766.png"
   },
   {
-    "league": "NHL",
-    "title": "Buffalo Sabres vs Boston Bruins",
-    "timestamp": "2026-03-25T23:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3m3jhp1619536655.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/b1r86e1720023232.png"
-  },
-  {
     "league": "NBA",
     "title": "Detroit Pistons vs Atlanta Hawks",
     "timestamp": "2026-03-25T23:00:00",
@@ -24183,6 +24176,13 @@
     "timestamp": "2026-03-25T23:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/71545f1518464849.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yk7swg1547214677.png"
+  },
+  {
+    "league": "NHL",
+    "title": "Buffalo Sabres vs Boston Bruins",
+    "timestamp": "2026-03-25T23:30:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3m3jhp1619536655.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/b1r86e1720023232.png"
   },
   {
     "league": "NHL",
