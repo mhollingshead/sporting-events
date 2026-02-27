@@ -24753,6 +24753,13 @@
   },
   {
     "league": "NBA",
+    "title": "Minnesota Timberwolves vs Detroit Pistons",
+    "timestamp": "2026-03-28T21:30:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/5xpgjg1621594771.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/lg7qrc1621594751.png"
+  },
+  {
+    "league": "NBA",
     "title": "Charlotte Hornets vs Philadelphia 76ers",
     "timestamp": "2026-03-28T22:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xqtvvp1422380623.png",
@@ -24799,13 +24806,6 @@
     "timestamp": "2026-03-29T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/m64v461565196789.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yk7swg1547214677.png"
-  },
-  {
-    "league": "NBA",
-    "title": "Minnesota Timberwolves vs Detroit Pistons",
-    "timestamp": "2026-03-29T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/5xpgjg1621594771.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/lg7qrc1621594751.png"
   },
   {
     "league": "NHL",
