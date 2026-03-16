@@ -22967,13 +22967,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/9v9c5p1751703267.png"
   },
   {
-    "league": "MLB",
-    "title": "Texas Rangers vs Kansas City Royals",
-    "timestamp": "2026-03-19T00:05:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/qt9qki1521893151.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ii3rz81554031260.png"
-  },
-  {
     "league": "NBA",
     "title": "Dallas Mavericks vs Atlanta Hawks",
     "timestamp": "2026-03-19T00:30:00",
@@ -22986,6 +22979,13 @@
     "timestamp": "2026-03-19T00:30:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/m64v461565196789.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/8o8j5k1546016274.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Texas Rangers vs Kansas City Royals",
+    "timestamp": "2026-03-19T01:05:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/qt9qki1521893151.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ii3rz81554031260.png"
   },
   {
     "league": "NHL",
@@ -23042,13 +23042,6 @@
     "timestamp": "2026-03-19T18:07:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/f9zk3l1617527686.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqwwxx1423478766.png"
-  },
-  {
-    "league": "MLB",
-    "title": "Kansas City Royals vs Los Angeles Angels",
-    "timestamp": "2026-03-19T20:05:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ii3rz81554031260.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/vswsvx1432577476.png"
   },
   {
     "league": "MLB",
@@ -23168,6 +23161,13 @@
     "timestamp": "2026-03-20T01:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/9v9c5p1751703267.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/olhug01621594702.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Kansas City Royals vs Los Angeles Angels",
+    "timestamp": "2026-03-20T01:05:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ii3rz81554031260.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/vswsvx1432577476.png"
   },
   {
     "league": "MLB",
@@ -23445,7 +23445,7 @@
   {
     "league": "MLB",
     "title": "Texas Rangers vs San Francisco Giants",
-    "timestamp": "2026-03-21T03:05:00",
+    "timestamp": "2026-03-21T04:05:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/qt9qki1521893151.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/mq81yb1521896622.png"
   },
@@ -23611,13 +23611,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/6wt1cn1617527530.png"
   },
   {
-    "league": "MLB",
-    "title": "Seattle Mariners vs Chicago Cubs",
-    "timestamp": "2026-03-21T20:10:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/39x9ph1521903933.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png"
-  },
-  {
     "league": "NHL",
     "title": "Columbus Blue Jackets vs Seattle Kraken",
     "timestamp": "2026-03-21T21:00:00",
@@ -23714,6 +23707,13 @@
     "timestamp": "2026-03-22T01:05:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wspusr1431538832.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yyz5dh1554140884.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Seattle Mariners vs Chicago Cubs",
+    "timestamp": "2026-03-22T01:10:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/39x9ph1521903933.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png"
   },
   {
     "league": "NBA",
