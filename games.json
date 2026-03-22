@@ -23856,13 +23856,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/cyvrv31741640777.png"
   },
   {
-    "league": "MLB",
-    "title": "San Diego Padres vs Arizona Diamondbacks",
-    "timestamp": "2026-03-22T20:10:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/6wt1cn1617527530.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xe5wlo1713861863.png"
-  },
-  {
     "league": "NBA",
     "title": "Denver Nuggets vs Portland Trail Blazers",
     "timestamp": "2026-03-22T21:00:00",
@@ -23945,6 +23938,13 @@
     "timestamp": "2026-03-23T01:07:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/vswsvx1432577476.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/p2oj631663889783.png"
+  },
+  {
+    "league": "MLB",
+    "title": "San Diego Padres vs Arizona Diamondbacks",
+    "timestamp": "2026-03-23T01:10:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/6wt1cn1617527530.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xe5wlo1713861863.png"
   },
   {
     "league": "MLB",
