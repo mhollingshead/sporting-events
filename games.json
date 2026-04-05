@@ -22975,6 +22975,13 @@
   },
   {
     "league": "MLB",
+    "title": "Kansas City Royals vs Milwaukee Brewers",
+    "timestamp": "2026-04-04T18:10:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ii3rz81554031260.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/08kh2a1595775193.png"
+  },
+  {
+    "league": "MLB",
     "title": "Chicago White Sox vs Toronto Blue Jays",
     "timestamp": "2026-04-04T18:10:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/yyz5dh1554140884.png",
@@ -23021,13 +23028,6 @@
     "timestamp": "2026-04-04T20:05:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/cyvrv31741640777.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/miwigx1521893583.png"
-  },
-  {
-    "league": "MLB",
-    "title": "Kansas City Royals vs Milwaukee Brewers",
-    "timestamp": "2026-04-04T20:10:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ii3rz81554031260.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/08kh2a1595775193.png"
   },
   {
     "league": "MLB",
@@ -23129,13 +23129,6 @@
   },
   {
     "league": "MLB",
-    "title": "Cleveland Guardians vs Chicago Cubs",
-    "timestamp": "2026-04-04T23:15:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3zvzao1640964590.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png"
-  },
-  {
-    "league": "MLB",
     "title": "Arizona Diamondbacks vs Atlanta Braves",
     "timestamp": "2026-04-04T23:15:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xe5wlo1713861863.png",
@@ -23199,6 +23192,13 @@
   },
   {
     "league": "MLB",
+    "title": "Cleveland Guardians vs Chicago Cubs",
+    "timestamp": "2026-04-05T17:10:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3zvzao1640964590.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png"
+  },
+  {
+    "league": "MLB",
     "title": "Washington Nationals vs Los Angeles Dodgers",
     "timestamp": "2026-04-05T17:35:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wpqrut1423694764.png",
@@ -23224,13 +23224,6 @@
     "timestamp": "2026-04-05T17:35:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/stpsus1425120215.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/6wt1cn1617527530.png"
-  },
-  {
-    "league": "MLB",
-    "title": "Cleveland Guardians vs Chicago Cubs",
-    "timestamp": "2026-04-05T17:40:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3zvzao1640964590.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png"
   },
   {
     "league": "MLB",
@@ -23329,6 +23322,13 @@
     "timestamp": "2026-04-05T20:07:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/vswsvx1432577476.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/39x9ph1521903933.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Cleveland Guardians vs Chicago Cubs",
+    "timestamp": "2026-04-05T20:10:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3zvzao1640964590.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png"
   },
   {
     "league": "MLB",
@@ -31333,17 +31333,17 @@
   },
   {
     "league": "MLB",
-    "title": "Athletics vs Colorado Rockies",
-    "timestamp": "2026-06-14T02:05:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/cyvrv31741640777.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/r7q6ko1687608395.png"
-  },
-  {
-    "league": "MLB",
     "title": "San Francisco Giants vs Chicago Cubs",
     "timestamp": "2026-06-14T02:05:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/mq81yb1521896622.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Athletics vs Colorado Rockies",
+    "timestamp": "2026-06-14T02:05:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/cyvrv31741640777.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/r7q6ko1687608395.png"
   },
   {
     "league": "MLB",
