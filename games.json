@@ -31214,17 +31214,17 @@
   },
   {
     "league": "MLB",
-    "title": "Minnesota Twins vs St. Louis Cardinals",
-    "timestamp": "2026-06-13T00:10:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/necd5v1521905719.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uvyvyr1424003273.png"
-  },
-  {
-    "league": "MLB",
     "title": "Kansas City Royals vs Houston Astros",
     "timestamp": "2026-06-13T00:10:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ii3rz81554031260.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/miwigx1521893583.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Minnesota Twins vs St. Louis Cardinals",
+    "timestamp": "2026-06-13T00:10:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/necd5v1521905719.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uvyvyr1424003273.png"
   },
   {
     "league": "MLB",
