@@ -25439,17 +25439,17 @@
   },
   {
     "league": "NHL",
+    "title": "Utah Mammoth vs St. Louis Blues",
+    "timestamp": "2026-04-16T23:30:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/w5m2ab1746690303.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rsqtwx1422053715.png"
+  },
+  {
+    "league": "NHL",
     "title": "Nashville Predators vs Anaheim Ducks",
     "timestamp": "2026-04-17T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/twqyvy1422052908.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/1d465t1719573796.png"
-  },
-  {
-    "league": "NHL",
-    "title": "Utah Mammoth vs St. Louis Blues",
-    "timestamp": "2026-04-17T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/w5m2ab1746690303.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rsqtwx1422053715.png"
   },
   {
     "league": "NHL",
@@ -25489,7 +25489,7 @@
   {
     "league": "NHL",
     "title": "Colorado Avalanche vs Seattle Kraken",
-    "timestamp": "2026-04-17T02:30:00",
+    "timestamp": "2026-04-17T02:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqutut1421173572.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/zsx49m1595775836.png"
   },
@@ -31214,17 +31214,17 @@
   },
   {
     "league": "MLB",
-    "title": "Kansas City Royals vs Houston Astros",
-    "timestamp": "2026-06-13T00:10:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ii3rz81554031260.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/miwigx1521893583.png"
-  },
-  {
-    "league": "MLB",
     "title": "Minnesota Twins vs St. Louis Cardinals",
     "timestamp": "2026-06-13T00:10:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/necd5v1521905719.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uvyvyr1424003273.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Kansas City Royals vs Houston Astros",
+    "timestamp": "2026-06-13T00:10:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ii3rz81554031260.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/miwigx1521893583.png"
   },
   {
     "league": "MLB",
