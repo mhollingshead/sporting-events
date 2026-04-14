@@ -25697,6 +25697,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ytywvu1431257088.png"
   },
   {
+    "league": "NHL",
+    "title": "Dallas Stars vs Minnesota Wild",
+    "timestamp": "2026-04-18T23:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/qrvywq1422042125.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/swtsxs1422042685.png"
+  },
+  {
     "league": "MLB",
     "title": "Houston Astros vs St. Louis Cardinals",
     "timestamp": "2026-04-18T23:10:00",
@@ -25912,6 +25919,13 @@
     "timestamp": "2026-04-20T22:45:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wpqrut1423694764.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yjs76e1617811496.png"
+  },
+  {
+    "league": "NHL",
+    "title": "Dallas Stars vs Minnesota Wild",
+    "timestamp": "2026-04-20T23:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/qrvywq1422042125.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/swtsxs1422042685.png"
   },
   {
     "league": "MLB",
@@ -26138,6 +26152,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqwwxx1423478766.png"
   },
   {
+    "league": "NHL",
+    "title": "Minnesota Wild vs Dallas Stars",
+    "timestamp": "2026-04-22T23:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/swtsxs1422042685.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/qrvywq1422042125.png"
+  },
+  {
     "league": "MLB",
     "title": "New York Mets vs Minnesota Twins",
     "timestamp": "2026-04-22T23:10:00",
@@ -26255,6 +26276,13 @@
     "timestamp": "2026-04-24T22:40:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wspusr1431538832.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/9dib6o1554032173.png"
+  },
+  {
+    "league": "NHL",
+    "title": "Minnesota Wild vs Dallas Stars",
+    "timestamp": "2026-04-24T23:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/swtsxs1422042685.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/qrvywq1422042125.png"
   },
   {
     "league": "MLB",
