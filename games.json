@@ -38046,6 +38046,13 @@
   },
   {
     "league": "MLB",
+    "title": "Seattle Mariners vs Chicago Cubs",
+    "timestamp": "2026-08-22T23:15:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/39x9ph1521903933.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png"
+  },
+  {
+    "league": "MLB",
     "title": "Boston Red Sox vs San Francisco Giants",
     "timestamp": "2026-08-22T23:15:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/stpsus1425120215.png",
@@ -38085,13 +38092,6 @@
     "timestamp": "2026-08-23T01:10:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/p2oj631663889783.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/kw6uqr1617527138.png"
-  },
-  {
-    "league": "MLB",
-    "title": "Seattle Mariners vs Chicago Cubs",
-    "timestamp": "2026-08-23T01:40:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/39x9ph1521903933.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png"
   },
   {
     "league": "MLB",
