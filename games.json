@@ -2367,6 +2367,13 @@
   },
   {
     "league": "NBA",
+    "title": "Milwaukee Bucks vs Detroit Pistons",
+    "timestamp": "2025-10-10T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/olhug01621594702.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/lg7qrc1621594751.png"
+  },
+  {
+    "league": "NBA",
     "title": "Chicago Bulls vs Cleveland Cavaliers",
     "timestamp": "2025-10-10T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/yk7swg1547214677.png",
@@ -2378,13 +2385,6 @@
     "timestamp": "2025-10-10T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/27v8861746610370.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xqtvvp1422380623.png"
-  },
-  {
-    "league": "NBA",
-    "title": "Milwaukee Bucks vs Detroit Pistons",
-    "timestamp": "2025-10-10T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/olhug01621594702.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/lg7qrc1621594751.png"
   },
   {
     "league": "NFL",
@@ -2696,17 +2696,17 @@
   },
   {
     "league": "NBA",
-    "title": "Chicago Bulls vs Milwaukee Bucks",
-    "timestamp": "2025-10-12T23:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/yk7swg1547214677.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/olhug01621594702.png"
-  },
-  {
-    "league": "NBA",
     "title": "Boston Celtics vs Cleveland Cavaliers",
     "timestamp": "2025-10-12T23:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/4j85bn1667936589.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/tys75k1664478652.png"
+  },
+  {
+    "league": "NBA",
+    "title": "Chicago Bulls vs Milwaukee Bucks",
+    "timestamp": "2025-10-12T23:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/yk7swg1547214677.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/olhug01621594702.png"
   },
   {
     "league": "NFL",
@@ -2878,17 +2878,17 @@
   },
   {
     "league": "NBA",
-    "title": "Milwaukee Bucks vs Oklahoma City Thunder",
-    "timestamp": "2025-10-15T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/olhug01621594702.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/27v8861746610370.png"
-  },
-  {
-    "league": "NBA",
     "title": "New Orleans Pelicans vs Houston Rockets",
     "timestamp": "2025-10-15T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/cak6261696446261.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yezpho1597486052.png"
+  },
+  {
+    "league": "NBA",
+    "title": "Milwaukee Bucks vs Oklahoma City Thunder",
+    "timestamp": "2025-10-15T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/olhug01621594702.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/27v8861746610370.png"
   },
   {
     "league": "NHL",
@@ -3039,17 +3039,17 @@
   },
   {
     "league": "NBA",
-    "title": "Orlando Magic vs New Orleans Pelicans",
-    "timestamp": "2025-10-16T23:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/sjsv3b1748974231.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/cak6261696446261.png"
-  },
-  {
-    "league": "NBA",
     "title": "Detroit Pistons vs Washington Wizards",
     "timestamp": "2025-10-16T23:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/lg7qrc1621594751.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rhxi9w1621594729.png"
+  },
+  {
+    "league": "NBA",
+    "title": "Orlando Magic vs New Orleans Pelicans",
+    "timestamp": "2025-10-16T23:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/sjsv3b1748974231.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/cak6261696446261.png"
   },
   {
     "league": "NHL",
@@ -27541,8 +27541,8 @@
     "league": "NHL",
     "title": "Anaheim Ducks vs Edmonton Oilers",
     "timestamp": "2026-05-01T02:00:00",
-    "homeBadge": null,
-    "awayBadge": null
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/1d465t1719573796.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uxxsyw1421618428.png"
   },
   {
     "league": "MLB",
@@ -27557,13 +27557,6 @@
     "timestamp": "2026-05-01T19:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ql7nl31686893820.png"
-  },
-  {
-    "league": "NBA",
-    "title": "Toronto Raptors vs Cleveland Cavaliers",
-    "timestamp": "2026-05-01T20:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ax36vz1635070057.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/tys75k1664478652.png"
   },
   {
     "league": "MLB",
@@ -27592,6 +27585,13 @@
     "timestamp": "2026-05-01T23:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/stpryx1421791753.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/swysut1421791822.png"
+  },
+  {
+    "league": "NBA",
+    "title": "Orlando Magic vs Detroit Pistons",
+    "timestamp": "2026-05-01T23:00:00",
+    "homeBadge": null,
+    "awayBadge": null
   },
   {
     "league": "MLB",
@@ -27629,6 +27629,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/3m3jhp1619536655.png"
   },
   {
+    "league": "NBA",
+    "title": "Toronto Raptors vs Cleveland Cavaliers",
+    "timestamp": "2026-05-01T23:30:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ax36vz1635070057.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/tys75k1664478652.png"
+  },
+  {
     "league": "MLB",
     "title": "Minnesota Twins vs Toronto Blue Jays",
     "timestamp": "2026-05-02T00:10:00",
@@ -27648,6 +27655,13 @@
     "timestamp": "2026-05-02T00:40:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/r7q6ko1687608395.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yjs76e1617811496.png"
+  },
+  {
+    "league": "NBA",
+    "title": "Houston Rockets vs Los Angeles Lakers",
+    "timestamp": "2026-05-02T01:30:00",
+    "homeBadge": null,
+    "awayBadge": null
   },
   {
     "league": "MLB",
@@ -27732,6 +27746,13 @@
     "timestamp": "2026-05-02T18:20:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xe5wlo1713861863.png"
+  },
+  {
+    "league": "NBA",
+    "title": "Boston Celtics vs Philadelphia 76ers",
+    "timestamp": "2026-05-02T20:00:00",
+    "homeBadge": null,
+    "awayBadge": null
   },
   {
     "league": "MLB",
