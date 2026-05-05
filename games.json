@@ -28161,6 +28161,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/necd5v1521905719.png"
   },
   {
+    "league": "NBA",
+    "title": "Detroit Pistons vs Cleveland Cavaliers",
+    "timestamp": "2026-05-05T23:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/lg7qrc1621594751.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/tys75k1664478652.png"
+  },
+  {
     "league": "MLB",
     "title": "New York Yankees vs Texas Rangers",
     "timestamp": "2026-05-05T23:05:00",
@@ -28427,6 +28434,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ytywvu1431257088.png"
   },
   {
+    "league": "NBA",
+    "title": "Detroit Pistons vs Cleveland Cavaliers",
+    "timestamp": "2026-05-07T23:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/lg7qrc1621594751.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/tys75k1664478652.png"
+  },
+  {
     "league": "MLB",
     "title": "Boston Red Sox vs Tampa Bay Rays",
     "timestamp": "2026-05-07T23:10:00",
@@ -28621,6 +28635,13 @@
     "timestamp": "2026-05-09T16:30:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png"
+  },
+  {
+    "league": "NBA",
+    "title": "Cleveland Cavaliers vs Detroit Pistons",
+    "timestamp": "2026-05-09T19:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/tys75k1664478652.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/lg7qrc1621594751.png"
   },
   {
     "league": "MLB",
@@ -28936,6 +28957,13 @@
     "timestamp": "2026-05-11T23:07:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/f9zk3l1617527686.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/littyt1554031623.png"
+  },
+  {
+    "league": "NBA",
+    "title": "Cleveland Cavaliers vs Detroit Pistons",
+    "timestamp": "2026-05-12T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/tys75k1664478652.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/lg7qrc1621594751.png"
   },
   {
     "league": "MLB",
