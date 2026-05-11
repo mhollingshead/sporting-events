@@ -28665,13 +28665,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/miwigx1521893583.png"
   },
   {
-    "league": "MLB",
-    "title": "Boston Red Sox vs Tampa Bay Rays",
-    "timestamp": "2026-05-09T20:10:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/stpsus1425120215.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/littyt1554031623.png"
-  },
-  {
     "league": "NHL",
     "title": "Philadelphia Flyers vs Carolina Hurricanes",
     "timestamp": "2026-05-09T22:00:00",
@@ -29165,8 +29158,8 @@
     "league": "NBA",
     "title": "Detroit Pistons vs Cleveland Cavaliers",
     "timestamp": "2026-05-13T23:00:00",
-    "homeBadge": null,
-    "awayBadge": null
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/lg7qrc1621594751.png",
+    "awayBadge": "https://www.thesportsdb.com/images/media/team/badge/pch9ct1778195828.png"
   },
   {
     "league": "MLB",
@@ -29323,6 +29316,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ii3rz81554031260.png"
   },
   {
+    "league": "NHL",
+    "title": "Anaheim Ducks vs Vegas Golden Knights",
+    "timestamp": "2026-05-15T01:30:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/1d465t1719573796.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/7fd4521619536689.png"
+  },
+  {
     "league": "MLB",
     "title": "Los Angeles Dodgers vs San Francisco Giants",
     "timestamp": "2026-05-15T02:10:00",
@@ -29335,6 +29335,13 @@
     "timestamp": "2026-05-15T19:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png"
+  },
+  {
+    "league": "NBA",
+    "title": "Minnesota Timberwolves vs San Antonio Spurs",
+    "timestamp": "2026-05-15T20:00:00",
+    "homeBadge": null,
+    "awayBadge": null
   },
   {
     "league": "MLB",
@@ -29594,6 +29601,13 @@
     "timestamp": "2026-05-17T16:30:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yutyxs1467459956.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Boston Red Sox vs Tampa Bay Rays",
+    "timestamp": "2026-05-17T17:35:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/stpsus1425120215.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/littyt1554031623.png"
   },
   {
     "league": "MLB",
