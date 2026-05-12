@@ -28987,13 +28987,6 @@
     "awayBadge": "https://www.thesportsdb.com/images/media/team/badge/bkhj5p1778199006.png"
   },
   {
-    "league": "NBA",
-    "title": "San Antonio Spurs vs Minnesota Timberwolves",
-    "timestamp": "2026-05-12T20:00:00",
-    "homeBadge": "https://www.thesportsdb.com/images/media/team/badge/89mwqb1778227087.png",
-    "awayBadge": "https://www.thesportsdb.com/images/media/team/badge/jkf7951778197850.png"
-  },
-  {
     "league": "MLB",
     "title": "Cleveland Guardians vs Los Angeles Angels",
     "timestamp": "2026-05-12T22:10:00",
@@ -29076,6 +29069,13 @@
     "timestamp": "2026-05-12T23:40:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/yyz5dh1554140884.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ii3rz81554031260.png"
+  },
+  {
+    "league": "NBA",
+    "title": "San Antonio Spurs vs Minnesota Timberwolves",
+    "timestamp": "2026-05-13T00:00:00",
+    "homeBadge": "https://www.thesportsdb.com/images/media/team/badge/89mwqb1778227087.png",
+    "awayBadge": "https://www.thesportsdb.com/images/media/team/badge/jkf7951778197850.png"
   },
   {
     "league": "MLB",
@@ -29340,8 +29340,8 @@
     "league": "NBA",
     "title": "Minnesota Timberwolves vs San Antonio Spurs",
     "timestamp": "2026-05-15T20:00:00",
-    "homeBadge": null,
-    "awayBadge": null
+    "homeBadge": "https://www.thesportsdb.com/images/media/team/badge/jkf7951778197850.png",
+    "awayBadge": "https://www.thesportsdb.com/images/media/team/badge/89mwqb1778227087.png"
   },
   {
     "league": "MLB",
