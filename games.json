@@ -27786,8 +27786,8 @@
     "league": "NHL",
     "title": "Carolina Hurricanes vs Montreal Canadiens",
     "timestamp": "2026-05-22T00:00:00",
-    "homeBadge": null,
-    "awayBadge": null
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/v07m3x1547232585.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/stpryx1421791753.png"
   },
   {
     "league": "NBA",
@@ -28003,8 +28003,8 @@
     "league": "NHL",
     "title": "Carolina Hurricanes vs Montreal Canadiens",
     "timestamp": "2026-05-23T23:00:00",
-    "homeBadge": null,
-    "awayBadge": null
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/v07m3x1547232585.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/stpryx1421791753.png"
   },
   {
     "league": "MLB",
@@ -28318,8 +28318,8 @@
     "league": "NHL",
     "title": "Montreal Canadiens vs Carolina Hurricanes",
     "timestamp": "2026-05-26T00:00:00",
-    "homeBadge": null,
-    "awayBadge": null
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/stpryx1421791753.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/v07m3x1547232585.png"
   },
   {
     "league": "NBA",
@@ -28549,8 +28549,8 @@
     "league": "NHL",
     "title": "Montreal Canadiens vs Carolina Hurricanes",
     "timestamp": "2026-05-28T00:00:00",
-    "homeBadge": null,
-    "awayBadge": null
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/stpryx1421791753.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/v07m3x1547232585.png"
   },
   {
     "league": "MLB",
@@ -32663,6 +32663,13 @@
   },
   {
     "league": "MLB",
+    "title": "Chicago White Sox vs Athletics",
+    "timestamp": "2026-07-11T18:10:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/yyz5dh1554140884.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/cyvrv31741640777.png"
+  },
+  {
+    "league": "MLB",
     "title": "Washington Nationals vs New York Yankees",
     "timestamp": "2026-07-11T20:05:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wpqrut1423694764.png",
@@ -32702,13 +32709,6 @@
     "timestamp": "2026-07-11T20:10:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/0722fs1546001701.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/3zvzao1640964590.png"
-  },
-  {
-    "league": "MLB",
-    "title": "Chicago White Sox vs Athletics",
-    "timestamp": "2026-07-11T20:10:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/yyz5dh1554140884.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/cyvrv31741640777.png"
   },
   {
     "league": "MLB",
