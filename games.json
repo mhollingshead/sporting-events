@@ -27826,13 +27826,6 @@
   },
   {
     "league": "MLB",
-    "title": "Cincinnati Reds vs St. Louis Cardinals",
-    "timestamp": "2026-05-22T22:40:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wspusr1431538832.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uvyvyr1424003273.png"
-  },
-  {
-    "league": "MLB",
     "title": "New York Yankees vs Tampa Bay Rays",
     "timestamp": "2026-05-22T23:05:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqwwxx1423478766.png",
@@ -27928,6 +27921,13 @@
     "timestamp": "2026-05-23T02:15:00",
     "homeBadge": "https://www.thesportsdb.com/images/media/team/badge/ov3qi41778132254.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yyz5dh1554140884.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Cincinnati Reds vs St. Louis Cardinals",
+    "timestamp": "2026-05-23T17:10:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wspusr1431538832.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uvyvyr1424003273.png"
   },
   {
     "league": "MLB",
