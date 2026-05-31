@@ -28808,8 +28808,8 @@
     "league": "NBA",
     "title": "Oklahoma City Thunder vs San Antonio Spurs",
     "timestamp": "2026-05-31T00:00:00",
-    "homeBadge": null,
-    "awayBadge": null
+    "homeBadge": "https://www.thesportsdb.com/images/media/team/badge/bkhj5p1778199006.png",
+    "awayBadge": "https://www.thesportsdb.com/images/media/team/badge/89mwqb1778227087.png"
   },
   {
     "league": "MLB",
@@ -29078,6 +29078,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/qt9qki1521893151.png"
   },
   {
+    "league": "NHL",
+    "title": "Carolina Hurricanes vs Vegas Golden Knights",
+    "timestamp": "2026-06-03T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/v07m3x1547232585.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/7fd4521619536689.png"
+  },
+  {
     "league": "MLB",
     "title": "Chicago Cubs vs Athletics",
     "timestamp": "2026-06-03T00:05:00",
@@ -29204,6 +29211,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/kw6uqr1617527138.png"
   },
   {
+    "league": "NBA",
+    "title": "San Antonio Spurs vs New York Knicks",
+    "timestamp": "2026-06-04T00:30:00",
+    "homeBadge": null,
+    "awayBadge": null
+  },
+  {
     "league": "MLB",
     "title": "Los Angeles Angels vs Colorado Rockies",
     "timestamp": "2026-06-04T01:38:00",
@@ -29258,6 +29272,13 @@
     "timestamp": "2026-06-04T23:40:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/necd5v1521905719.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ii3rz81554031260.png"
+  },
+  {
+    "league": "NHL",
+    "title": "Carolina Hurricanes vs Vegas Golden Knights",
+    "timestamp": "2026-06-05T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/v07m3x1547232585.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/7fd4521619536689.png"
   },
   {
     "league": "MLB",
@@ -29356,6 +29377,13 @@
     "timestamp": "2026-06-06T00:15:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/uvyvyr1424003273.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wspusr1431538832.png"
+  },
+  {
+    "league": "NBA",
+    "title": "San Antonio Spurs vs New York Knicks",
+    "timestamp": "2026-06-06T00:30:00",
+    "homeBadge": null,
+    "awayBadge": null
   },
   {
     "league": "MLB",
@@ -29468,6 +29496,13 @@
     "timestamp": "2026-06-06T23:35:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqwwxx1423478766.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/stpsus1425120215.png"
+  },
+  {
+    "league": "NHL",
+    "title": "Vegas Golden Knights vs Carolina Hurricanes",
+    "timestamp": "2026-06-07T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/7fd4521619536689.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/v07m3x1547232585.png"
   },
   {
     "league": "MLB",
@@ -29624,6 +29659,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/3xrldf1617528682.png"
   },
   {
+    "league": "NBA",
+    "title": "New York Knicks vs San Antonio Spurs",
+    "timestamp": "2026-06-09T00:30:00",
+    "homeBadge": null,
+    "awayBadge": null
+  },
+  {
     "league": "MLB",
     "title": "Los Angeles Angels vs Houston Astros",
     "timestamp": "2026-06-09T01:38:00",
@@ -29720,6 +29762,13 @@
     "timestamp": "2026-06-09T23:40:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/yyz5dh1554140884.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yjs76e1617811496.png"
+  },
+  {
+    "league": "NHL",
+    "title": "Vegas Golden Knights vs Carolina Hurricanes",
+    "timestamp": "2026-06-10T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/7fd4521619536689.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/v07m3x1547232585.png"
   },
   {
     "league": "MLB",
@@ -29839,6 +29888,13 @@
     "timestamp": "2026-06-10T23:40:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ii3rz81554031260.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/qt9qki1521893151.png"
+  },
+  {
+    "league": "NBA",
+    "title": "New York Knicks vs San Antonio Spurs",
+    "timestamp": "2026-06-11T00:30:00",
+    "homeBadge": null,
+    "awayBadge": null
   },
   {
     "league": "MLB",
