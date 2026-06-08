@@ -29491,13 +29491,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/3zvzao1640964590.png"
   },
   {
-    "league": "MLB",
-    "title": "New York Yankees vs Boston Red Sox",
-    "timestamp": "2026-06-06T23:35:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqwwxx1423478766.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/stpsus1425120215.png"
-  },
-  {
     "league": "NHL",
     "title": "Vegas Golden Knights vs Carolina Hurricanes",
     "timestamp": "2026-06-07T00:00:00",
@@ -37329,6 +37322,13 @@
     "timestamp": "2026-08-29T02:15:00",
     "homeBadge": "https://www.thesportsdb.com/images/media/team/badge/ov3qi41778132254.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xe5wlo1713861863.png"
+  },
+  {
+    "league": "MLB",
+    "title": "New York Yankees vs Boston Red Sox",
+    "timestamp": "2026-08-29T17:05:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqwwxx1423478766.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/stpsus1425120215.png"
   },
   {
     "league": "MLB",
