@@ -29939,6 +29939,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/qt9qki1521893151.png"
   },
   {
+    "league": "FIFA World Cup",
+    "title": "Mexico vs South Africa",
+    "timestamp": "2026-06-11T19:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3rmosi1748525208.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xjz9j91553368824.png"
+  },
+  {
     "league": "MLB",
     "title": "Colorado Rockies vs Chicago Cubs",
     "timestamp": "2026-06-11T19:10:00",
@@ -29972,6 +29979,20 @@
     "timestamp": "2026-06-12T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/v07m3x1547232585.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/7fd4521619536689.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "South Korea vs Czech Republic",
+    "timestamp": "2026-06-12T02:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/a8nqfs1589564916.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/1o0cx31654205806.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "Canada vs Bosnia-Herzegovina",
+    "timestamp": "2026-06-12T19:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/2t631f1595154867.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wtqqst1455463120.png"
   },
   {
     "league": "MLB",
@@ -30058,6 +30079,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/miwigx1521893583.png"
   },
   {
+    "league": "FIFA World Cup",
+    "title": "USA vs Paraguay",
+    "timestamp": "2026-06-13T01:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/21f0oi1597948195.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/khgav41553419195.png"
+  },
+  {
     "league": "MLB",
     "title": "Los Angeles Angels vs Tampa Bay Rays",
     "timestamp": "2026-06-13T01:38:00",
@@ -30084,6 +30112,13 @@
     "timestamp": "2026-06-13T18:10:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/necd5v1521905719.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uvyvyr1424003273.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "Qatar vs Switzerland",
+    "timestamp": "2026-06-13T19:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/rs3ir31642708685.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/mb7yqe1717365808.png"
   },
   {
     "league": "MLB",
@@ -30149,6 +30184,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/9dib6o1554032173.png"
   },
   {
+    "league": "FIFA World Cup",
+    "title": "Brazil vs Morocco",
+    "timestamp": "2026-06-13T22:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/jl6dip1726167280.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/hbmwkj1731791275.png"
+  },
+  {
     "league": "MLB",
     "title": "Milwaukee Brewers vs Philadelphia Phillies",
     "timestamp": "2026-06-13T23:10:00",
@@ -30168,6 +30210,13 @@
     "timestamp": "2026-06-14T00:30:00",
     "homeBadge": "https://www.thesportsdb.com/images/media/team/badge/89mwqb1778227087.png",
     "awayBadge": "https://www.thesportsdb.com/images/media/team/badge/4k8obt1778226764.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "Haiti vs Scotland",
+    "timestamp": "2026-06-14T01:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/gml8wx1598135302.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/3691i11552945146.png"
   },
   {
     "league": "MLB",
@@ -30191,11 +30240,25 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/littyt1554031623.png"
   },
   {
+    "league": "FIFA World Cup",
+    "title": "Australia vs Turkey",
+    "timestamp": "2026-06-14T04:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/lark6k1661780848.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/70c4oo1591982459.png"
+  },
+  {
     "league": "MLB",
     "title": "Pittsburgh Pirates vs Miami Marlins",
     "timestamp": "2026-06-14T16:15:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/kw6uqr1617527138.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/0722fs1546001701.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "Germany vs Curaçao",
+    "timestamp": "2026-06-14T17:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/1xysi51726167152.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/itygvb1600955363.png"
   },
   {
     "league": "MLB",
@@ -30282,11 +30345,25 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png"
   },
   {
+    "league": "FIFA World Cup",
+    "title": "Netherlands vs Japan",
+    "timestamp": "2026-06-14T20:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/1p0hr41593787110.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ffsyxz1591989843.png"
+  },
+  {
     "league": "MLB",
     "title": "Los Angeles Angels vs Tampa Bay Rays",
     "timestamp": "2026-06-14T20:07:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/vswsvx1432577476.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/littyt1554031623.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "Ivory Coast vs Ecuador",
+    "timestamp": "2026-06-14T23:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/rwxuuu1455465643.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/47wv2y1591989301.png"
   },
   {
     "league": "MLB",
@@ -30299,8 +30376,36 @@
     "league": "NHL",
     "title": "Vegas Golden Knights vs Carolina Hurricanes",
     "timestamp": "2026-06-15T00:00:00",
-    "homeBadge": null,
-    "awayBadge": null
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/7fd4521619536689.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/v07m3x1547232585.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "Sweden vs Tunisia",
+    "timestamp": "2026-06-15T02:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/h5adzg1591981772.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/7r89rg1526727277.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "Spain vs Cape Verde",
+    "timestamp": "2026-06-15T16:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ncgqyr1726166942.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/5jn0o71593280376.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "Belgium vs Egypt",
+    "timestamp": "2026-06-15T19:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/8xlvxv1592062265.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uheyzo1742102234.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "Saudi Arabia vs Uruguay",
+    "timestamp": "2026-06-15T22:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/24xwpq1594125742.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/6vjbr11726167756.png"
   },
   {
     "league": "MLB",
@@ -30352,6 +30457,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/9dib6o1554032173.png"
   },
   {
+    "league": "FIFA World Cup",
+    "title": "Iran vs New Zealand",
+    "timestamp": "2026-06-16T01:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/uttpvw1455465617.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/91xpk81742982935.png"
+  },
+  {
     "league": "MLB",
     "title": "Athletics vs Pittsburgh Pirates",
     "timestamp": "2026-06-16T01:40:00",
@@ -30371,6 +30483,20 @@
     "timestamp": "2026-06-16T02:10:00",
     "homeBadge": "https://www.thesportsdb.com/images/media/team/badge/32uxn21778269451.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/littyt1554031623.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "France vs Senegal",
+    "timestamp": "2026-06-16T19:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/p3n0z51726166851.png",
+    "awayBadge": "https://www.thesportsdb.com/images/media/team/badge/slayb01780546342.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "Iraq vs Norway",
+    "timestamp": "2026-06-16T22:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/aqidfn1742100110.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/gyfn811591973155.png"
   },
   {
     "league": "MLB",
@@ -30450,6 +30576,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/9dib6o1554032173.png"
   },
   {
+    "league": "FIFA World Cup",
+    "title": "Argentina vs Algeria",
+    "timestamp": "2026-06-17T01:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3zplhu1726167477.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rrwpry1455460218.png"
+  },
+  {
     "league": "MLB",
     "title": "Seattle Mariners vs Baltimore Orioles",
     "timestamp": "2026-06-17T01:40:00",
@@ -30478,11 +30611,25 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/littyt1554031623.png"
   },
   {
+    "league": "FIFA World Cup",
+    "title": "Austria vs Jordan",
+    "timestamp": "2026-06-17T04:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/874p631628721400.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/59fo2s1742100034.png"
+  },
+  {
     "league": "MLB",
     "title": "Cincinnati Reds vs New York Mets",
     "timestamp": "2026-06-17T16:40:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wspusr1431538832.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rxqspq1431540337.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "Portugal vs DR Congo",
+    "timestamp": "2026-06-17T17:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/swqvpy1455466083.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/s85jjw1728749022.png"
   },
   {
     "league": "MLB",
@@ -30527,11 +30674,25 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/vswsvx1432577476.png"
   },
   {
+    "league": "FIFA World Cup",
+    "title": "England vs Croatia",
+    "timestamp": "2026-06-17T20:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/vf5ttc1726166739.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/vvtsyu1455465317.png"
+  },
+  {
     "league": "MLB",
     "title": "Boston Red Sox vs Toronto Blue Jays",
     "timestamp": "2026-06-17T22:45:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/stpsus1425120215.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/f9zk3l1617527686.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "Ghana vs Panama",
+    "timestamp": "2026-06-17T23:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/j589xw1751526124.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/asp2ck1715849700.png"
   },
   {
     "league": "MLB",
@@ -30576,6 +30737,20 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/kw6uqr1617527138.png"
   },
   {
+    "league": "FIFA World Cup",
+    "title": "Uzbekistan vs Colombia",
+    "timestamp": "2026-06-18T02:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/u5bgze1597943605.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/4ymyku1691180081.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "Czech Republic vs South Africa",
+    "timestamp": "2026-06-18T16:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/1o0cx31654205806.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xjz9j91553368824.png"
+  },
+  {
     "league": "MLB",
     "title": "Boston Red Sox vs Toronto Blue Jays",
     "timestamp": "2026-06-18T17:35:00",
@@ -30597,11 +30772,25 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/necd5v1521905719.png"
   },
   {
+    "league": "FIFA World Cup",
+    "title": "Switzerland vs Bosnia-Herzegovina",
+    "timestamp": "2026-06-18T19:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/mb7yqe1717365808.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wtqqst1455463120.png"
+  },
+  {
     "league": "MLB",
     "title": "Seattle Mariners vs Baltimore Orioles",
     "timestamp": "2026-06-18T20:10:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/39x9ph1521903933.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ytywvu1431257088.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "Canada vs Qatar",
+    "timestamp": "2026-06-18T22:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/2t631f1595154867.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rs3ir31642708685.png"
   },
   {
     "league": "MLB",
@@ -30632,6 +30821,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uvyvyr1424003273.png"
   },
   {
+    "league": "FIFA World Cup",
+    "title": "Mexico vs South Korea",
+    "timestamp": "2026-06-19T01:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3rmosi1748525208.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/a8nqfs1589564916.png"
+  },
+  {
     "league": "MLB",
     "title": "Athletics vs Los Angeles Angels",
     "timestamp": "2026-06-19T01:40:00",
@@ -30644,6 +30840,20 @@
     "timestamp": "2026-06-19T18:20:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/f9zk3l1617527686.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "USA vs Australia",
+    "timestamp": "2026-06-19T19:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/21f0oi1597948195.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/lark6k1661780848.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "Scotland vs Morocco",
+    "timestamp": "2026-06-19T22:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3691i11552945146.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/hbmwkj1731791275.png"
   },
   {
     "league": "MLB",
@@ -30702,6 +30912,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uvyvyr1424003273.png"
   },
   {
+    "league": "FIFA World Cup",
+    "title": "Brazil vs Haiti",
+    "timestamp": "2026-06-20T00:30:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/jl6dip1726167280.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/gml8wx1598135302.png"
+  },
+  {
     "league": "MLB",
     "title": "Colorado Rockies vs Pittsburgh Pirates",
     "timestamp": "2026-06-20T00:40:00",
@@ -30737,6 +30954,20 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/stpsus1425120215.png"
   },
   {
+    "league": "FIFA World Cup",
+    "title": "Turkey vs Paraguay",
+    "timestamp": "2026-06-20T03:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/70c4oo1591982459.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/khgav41553419195.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "Netherlands vs Sweden",
+    "timestamp": "2026-06-20T17:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/1p0hr41593787110.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/h5adzg1591981772.png"
+  },
+  {
     "league": "MLB",
     "title": "Detroit Tigers vs Chicago White Sox",
     "timestamp": "2026-06-20T17:10:00",
@@ -30756,6 +30987,13 @@
     "timestamp": "2026-06-20T18:20:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/f9zk3l1617527686.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "Germany vs Ivory Coast",
+    "timestamp": "2026-06-20T20:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/1xysi51726167152.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rwxuuu1455465643.png"
   },
   {
     "league": "MLB",
@@ -30800,6 +31038,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/3zvzao1640964590.png"
   },
   {
+    "league": "FIFA World Cup",
+    "title": "Ecuador vs Curaçao",
+    "timestamp": "2026-06-21T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/47wv2y1591989301.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/itygvb1600955363.png"
+  },
+  {
     "league": "MLB",
     "title": "Colorado Rockies vs Pittsburgh Pirates",
     "timestamp": "2026-06-21T01:10:00",
@@ -30833,6 +31078,20 @@
     "timestamp": "2026-06-21T02:10:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/39x9ph1521903933.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/stpsus1425120215.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "Tunisia vs Japan",
+    "timestamp": "2026-06-21T04:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/7r89rg1526727277.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ffsyxz1591989843.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "Spain vs Saudi Arabia",
+    "timestamp": "2026-06-21T16:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ncgqyr1726166942.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/24xwpq1594125742.png"
   },
   {
     "league": "MLB",
@@ -30898,6 +31157,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/6wt1cn1617527530.png"
   },
   {
+    "league": "FIFA World Cup",
+    "title": "Belgium vs Iran",
+    "timestamp": "2026-06-21T19:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/8xlvxv1592062265.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uttpvw1455465617.png"
+  },
+  {
     "league": "MLB",
     "title": "Colorado Rockies vs Pittsburgh Pirates",
     "timestamp": "2026-06-21T19:10:00",
@@ -30933,11 +31199,39 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/stpsus1425120215.png"
   },
   {
+    "league": "FIFA World Cup",
+    "title": "Uruguay vs Cape Verde",
+    "timestamp": "2026-06-21T22:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/6vjbr11726167756.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/5jn0o71593280376.png"
+  },
+  {
     "league": "MLB",
     "title": "Philadelphia Phillies vs New York Mets",
     "timestamp": "2026-06-21T23:20:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3xrldf1617528682.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rxqspq1431540337.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "New Zealand vs Egypt",
+    "timestamp": "2026-06-22T01:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/91xpk81742982935.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uheyzo1742102234.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "Argentina vs Austria",
+    "timestamp": "2026-06-22T17:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3zplhu1726167477.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/874p631628721400.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "France vs Iraq",
+    "timestamp": "2026-06-22T21:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/p3n0z51726166851.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/aqidfn1742100110.png"
   },
   {
     "league": "MLB",
@@ -31010,6 +31304,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xe5wlo1713861863.png"
   },
   {
+    "league": "FIFA World Cup",
+    "title": "Norway vs Senegal",
+    "timestamp": "2026-06-23T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/gyfn811591973155.png",
+    "awayBadge": "https://www.thesportsdb.com/images/media/team/badge/slayb01780546342.png"
+  },
+  {
     "league": "MLB",
     "title": "Colorado Rockies vs Boston Red Sox",
     "timestamp": "2026-06-23T00:40:00",
@@ -31029,6 +31330,27 @@
     "timestamp": "2026-06-23T02:10:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/6wt1cn1617527530.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yjs76e1617811496.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "Jordan vs Algeria",
+    "timestamp": "2026-06-23T03:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/59fo2s1742100034.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rrwpry1455460218.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "Portugal vs Uzbekistan",
+    "timestamp": "2026-06-23T17:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/swqvpy1455466083.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/u5bgze1597943605.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "England vs Ghana",
+    "timestamp": "2026-06-23T20:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/vf5ttc1726166739.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/j589xw1751526124.png"
   },
   {
     "league": "MLB",
@@ -31071,6 +31393,13 @@
     "timestamp": "2026-06-23T22:45:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wpqrut1423694764.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/3xrldf1617528682.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "Panama vs Croatia",
+    "timestamp": "2026-06-23T23:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/asp2ck1715849700.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/vvtsyu1455465317.png"
   },
   {
     "league": "MLB",
@@ -31136,6 +31465,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/cyvrv31741640777.png"
   },
   {
+    "league": "FIFA World Cup",
+    "title": "Colombia vs DR Congo",
+    "timestamp": "2026-06-24T02:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/4ymyku1691180081.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/s85jjw1728749022.png"
+  },
+  {
     "league": "MLB",
     "title": "Miami Marlins vs Texas Rangers",
     "timestamp": "2026-06-24T16:10:00",
@@ -31150,6 +31486,20 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/3zvzao1640964590.png"
   },
   {
+    "league": "FIFA World Cup",
+    "title": "Switzerland vs Canada",
+    "timestamp": "2026-06-24T19:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/mb7yqe1717365808.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/2t631f1595154867.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "Bosnia-Herzegovina vs Qatar",
+    "timestamp": "2026-06-24T19:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wtqqst1455463120.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rs3ir31642708685.png"
+  },
+  {
     "league": "MLB",
     "title": "Colorado Rockies vs Boston Red Sox",
     "timestamp": "2026-06-24T19:10:00",
@@ -31162,6 +31512,20 @@
     "timestamp": "2026-06-24T20:07:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/vswsvx1432577476.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ytywvu1431257088.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "Morocco vs Haiti",
+    "timestamp": "2026-06-24T22:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/hbmwkj1731791275.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/gml8wx1598135302.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "Scotland vs Brazil",
+    "timestamp": "2026-06-24T22:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3691i11552945146.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/jl6dip1726167280.png"
   },
   {
     "league": "MLB",
@@ -31234,6 +31598,20 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yjs76e1617811496.png"
   },
   {
+    "league": "FIFA World Cup",
+    "title": "South Africa vs South Korea",
+    "timestamp": "2026-06-25T01:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xjz9j91553368824.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/a8nqfs1589564916.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "Czech Republic vs Mexico",
+    "timestamp": "2026-06-25T01:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/1o0cx31654205806.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/3rmosi1748525208.png"
+  },
+  {
     "league": "MLB",
     "title": "San Francisco Giants vs Athletics",
     "timestamp": "2026-06-25T01:45:00",
@@ -31262,6 +31640,20 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/cyvrv31741640777.png"
   },
   {
+    "league": "FIFA World Cup",
+    "title": "Curaçao vs Ivory Coast",
+    "timestamp": "2026-06-25T20:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/itygvb1600955363.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rwxuuu1455465643.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "Ecuador vs Germany",
+    "timestamp": "2026-06-25T20:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/47wv2y1591989301.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/1xysi51726167152.png"
+  },
+  {
     "league": "MLB",
     "title": "Detroit Tigers vs Houston Astros",
     "timestamp": "2026-06-25T22:40:00",
@@ -31274,6 +31666,20 @@
     "timestamp": "2026-06-25T22:45:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wpqrut1423694764.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/3xrldf1617528682.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "Tunisia vs Netherlands",
+    "timestamp": "2026-06-25T23:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/7r89rg1526727277.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/1p0hr41593787110.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "Japan vs Sweden",
+    "timestamp": "2026-06-25T23:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ffsyxz1591989843.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/h5adzg1591981772.png"
   },
   {
     "league": "MLB",
@@ -31302,6 +31708,34 @@
     "timestamp": "2026-06-25T23:45:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/uvyvyr1424003273.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xe5wlo1713861863.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "Paraguay vs Australia",
+    "timestamp": "2026-06-26T02:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/khgav41553419195.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/lark6k1661780848.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "Turkey vs USA",
+    "timestamp": "2026-06-26T02:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/70c4oo1591982459.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/21f0oi1597948195.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "Norway vs France",
+    "timestamp": "2026-06-26T19:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/gyfn811591973155.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/p3n0z51726166851.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "Senegal vs Iraq",
+    "timestamp": "2026-06-26T19:00:00",
+    "homeBadge": "https://www.thesportsdb.com/images/media/team/badge/slayb01780546342.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/aqidfn1742100110.png"
   },
   {
     "league": "MLB",
@@ -31374,6 +31808,20 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png"
   },
   {
+    "league": "FIFA World Cup",
+    "title": "Cape Verde vs Saudi Arabia",
+    "timestamp": "2026-06-27T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/5jn0o71593280376.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/24xwpq1594125742.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "Uruguay vs Spain",
+    "timestamp": "2026-06-27T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/6vjbr11726167756.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ncgqyr1726166942.png"
+  },
+  {
     "league": "MLB",
     "title": "Minnesota Twins vs Colorado Rockies",
     "timestamp": "2026-06-27T00:10:00",
@@ -31407,6 +31855,20 @@
     "timestamp": "2026-06-27T02:15:00",
     "homeBadge": "https://www.thesportsdb.com/images/media/team/badge/ov3qi41778132254.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yjs76e1617811496.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "Egypt vs Iran",
+    "timestamp": "2026-06-27T03:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/uheyzo1742102234.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uttpvw1455465617.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "New Zealand vs Belgium",
+    "timestamp": "2026-06-27T03:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/91xpk81742982935.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/8xlvxv1592062265.png"
   },
   {
     "league": "MLB",
@@ -31451,6 +31913,20 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ii3rz81554031260.png"
   },
   {
+    "league": "FIFA World Cup",
+    "title": "Croatia vs Ghana",
+    "timestamp": "2026-06-27T21:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/vvtsyu1455465317.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/j589xw1751526124.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "Panama vs England",
+    "timestamp": "2026-06-27T21:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/asp2ck1715849700.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/vf5ttc1726166739.png"
+  },
+  {
     "league": "MLB",
     "title": "Tampa Bay Rays vs Arizona Diamondbacks",
     "timestamp": "2026-06-27T22:10:00",
@@ -31493,6 +31969,20 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/0722fs1546001701.png"
   },
   {
+    "league": "FIFA World Cup",
+    "title": "Colombia vs Portugal",
+    "timestamp": "2026-06-27T23:30:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/4ymyku1691180081.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/swqvpy1455466083.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "DR Congo vs Uzbekistan",
+    "timestamp": "2026-06-27T23:30:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/s85jjw1728749022.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/u5bgze1597943605.png"
+  },
+  {
     "league": "MLB",
     "title": "San Diego Padres vs Los Angeles Dodgers",
     "timestamp": "2026-06-28T00:40:00",
@@ -31512,6 +32002,20 @@
     "timestamp": "2026-06-28T01:38:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/vswsvx1432577476.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/cyvrv31741640777.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "Algeria vs Austria",
+    "timestamp": "2026-06-28T02:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/rrwpry1455460218.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/874p631628721400.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "Jordan vs Argentina",
+    "timestamp": "2026-06-28T02:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/59fo2s1742100034.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/3zplhu1726167477.png"
   },
   {
     "league": "MLB",
@@ -35632,14 +36136,14 @@
   {
     "league": "NFL",
     "title": "Las Vegas Raiders vs Arizona Cardinals",
-    "timestamp": "2026-08-14T01:00:00",
+    "timestamp": "2026-08-14T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xqusqy1421724291.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xvuwtw1420646838.png"
   },
   {
     "league": "NFL",
     "title": "San Francisco 49ers vs Tennessee Titans",
-    "timestamp": "2026-08-14T02:00:00",
+    "timestamp": "2026-08-14T01:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/bqbtg61539537328.png",
     "awayBadge": "https://www.thesportsdb.com/images/media/team/badge/3td0f41779180767.png"
   },
@@ -35791,18 +36295,18 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/qstqqr1421609163.png"
   },
   {
+    "league": "NFL",
+    "title": "Chicago Bears vs Cleveland Browns",
+    "timestamp": "2026-08-15T17:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ji22531698678538.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/squvxy1420942389.png"
+  },
+  {
     "league": "MLB",
     "title": "Detroit Tigers vs Chicago White Sox",
     "timestamp": "2026-08-15T17:10:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/9dib6o1554032173.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yyz5dh1554140884.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Chicago Bears vs Cleveland Browns",
-    "timestamp": "2026-08-15T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ji22531698678538.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/squvxy1420942389.png"
   },
   {
     "league": "MLB",
@@ -36484,6 +36988,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/3zvzao1640964590.png"
   },
   {
+    "league": "NFL",
+    "title": "Denver Broncos vs Green Bay Packers",
+    "timestamp": "2026-08-22T01:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/upsspx1421635647.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rqpwtr1421434717.png"
+  },
+  {
     "league": "MLB",
     "title": "San Diego Padres vs Minnesota Twins",
     "timestamp": "2026-08-22T01:40:00",
@@ -36498,13 +37009,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wspusr1431538832.png"
   },
   {
-    "league": "NFL",
-    "title": "Denver Broncos vs Green Bay Packers",
-    "timestamp": "2026-08-22T02:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/upsspx1421635647.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rqpwtr1421434717.png"
-  },
-  {
     "league": "MLB",
     "title": "Seattle Mariners vs Chicago Cubs",
     "timestamp": "2026-08-22T02:10:00",
@@ -36517,6 +37021,13 @@
     "timestamp": "2026-08-22T02:10:00",
     "homeBadge": "https://www.thesportsdb.com/images/media/team/badge/32uxn21778269451.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/kw6uqr1617527138.png"
+  },
+  {
+    "league": "NFL",
+    "title": "Detroit Lions vs Washington Commanders",
+    "timestamp": "2026-08-22T16:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/lgsgkr1546168257.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rn0c7v1643826119.png"
   },
   {
     "league": "NFL",
@@ -36538,13 +37049,6 @@
     "timestamp": "2026-08-22T17:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/qstqqr1421609163.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/einz3p1546172463.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Detroit Lions vs Washington Commanders",
-    "timestamp": "2026-08-22T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/lgsgkr1546168257.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rn0c7v1643826119.png"
   },
   {
     "league": "MLB",
@@ -36689,7 +37193,7 @@
   {
     "league": "NFL",
     "title": "Arizona Cardinals vs Dallas Cowboys",
-    "timestamp": "2026-08-23T03:00:00",
+    "timestamp": "2026-08-23T02:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xvuwtw1420646838.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wrxssu1450018209.png"
   },
@@ -37144,7 +37648,7 @@
   {
     "league": "NFL",
     "title": "Las Vegas Raiders vs San Francisco 49ers",
-    "timestamp": "2026-08-28T01:00:00",
+    "timestamp": "2026-08-28T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xqusqy1421724291.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/bqbtg61539537328.png"
   },
@@ -37168,6 +37672,13 @@
     "timestamp": "2026-08-28T18:20:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wspusr1431538832.png"
+  },
+  {
+    "league": "NFL",
+    "title": "Baltimore Ravens vs Washington Commanders",
+    "timestamp": "2026-08-28T22:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/einz3p1546172463.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rn0c7v1643826119.png"
   },
   {
     "league": "MLB",
@@ -37196,13 +37707,6 @@
     "timestamp": "2026-08-28T23:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xxyvvy1420940478.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqyryy1421436627.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Baltimore Ravens vs Washington Commanders",
-    "timestamp": "2026-08-28T23:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/einz3p1546172463.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rn0c7v1643826119.png"
   },
   {
     "league": "MLB",
@@ -37282,6 +37786,20 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/qqtwwv1420941670.png"
   },
   {
+    "league": "NFL",
+    "title": "Dallas Cowboys vs New Orleans Saints",
+    "timestamp": "2026-08-29T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wrxssu1450018209.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/nd46c71537821337.png"
+  },
+  {
+    "league": "NFL",
+    "title": "Green Bay Packers vs Arizona Cardinals",
+    "timestamp": "2026-08-29T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/rqpwtr1421434717.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xvuwtw1420646838.png"
+  },
+  {
     "league": "MLB",
     "title": "Minnesota Twins vs Chicago White Sox",
     "timestamp": "2026-08-29T00:10:00",
@@ -37297,17 +37815,10 @@
   },
   {
     "league": "NFL",
-    "title": "Dallas Cowboys vs New Orleans Saints",
+    "title": "Denver Broncos vs Minnesota Vikings",
     "timestamp": "2026-08-29T01:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wrxssu1450018209.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/nd46c71537821337.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Green Bay Packers vs Arizona Cardinals",
-    "timestamp": "2026-08-29T01:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/rqpwtr1421434717.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xvuwtw1420646838.png"
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/upsspx1421635647.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/qstqqr1421609163.png"
   },
   {
     "league": "MLB",
@@ -37324,18 +37835,18 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ytywvu1431257088.png"
   },
   {
-    "league": "NFL",
-    "title": "Denver Broncos vs Minnesota Vikings",
-    "timestamp": "2026-08-29T02:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/upsspx1421635647.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/qstqqr1421609163.png"
-  },
-  {
     "league": "MLB",
     "title": "San Francisco Giants vs Arizona Diamondbacks",
     "timestamp": "2026-08-29T02:15:00",
     "homeBadge": "https://www.thesportsdb.com/images/media/team/badge/ov3qi41778132254.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xe5wlo1713861863.png"
+  },
+  {
+    "league": "NFL",
+    "title": "Indianapolis Colts vs Detroit Lions",
+    "timestamp": "2026-08-29T17:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqqvpx1421434058.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/lgsgkr1546168257.png"
   },
   {
     "league": "MLB",
@@ -37371,13 +37882,6 @@
     "timestamp": "2026-08-29T18:20:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wspusr1431538832.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Indianapolis Colts vs Detroit Lions",
-    "timestamp": "2026-08-29T19:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqqvpx1421434058.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/lgsgkr1546168257.png"
   },
   {
     "league": "MLB",
@@ -37424,7 +37928,7 @@
   {
     "league": "NFL",
     "title": "Tennessee Titans vs Chicago Bears",
-    "timestamp": "2026-08-29T23:00:00",
+    "timestamp": "2026-08-29T22:00:00",
     "homeBadge": "https://www.thesportsdb.com/images/media/team/badge/3td0f41779180767.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ji22531698678538.png"
   },
@@ -39887,6 +40391,34 @@
   },
   {
     "league": "NFL",
+    "title": "Atlanta Falcons vs Tampa Bay Buccaneers",
+    "timestamp": "2026-12-27T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/rrpvpr1420658174.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/2dfpdl1537820969.png"
+  },
+  {
+    "league": "NFL",
+    "title": "Indianapolis Colts vs Cincinnati Bengals",
+    "timestamp": "2026-12-27T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqqvpx1421434058.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/qqtwwv1420941670.png"
+  },
+  {
+    "league": "NFL",
+    "title": "Minnesota Vikings vs Washington Commanders",
+    "timestamp": "2026-12-27T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/qstqqr1421609163.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rn0c7v1643826119.png"
+  },
+  {
+    "league": "NFL",
+    "title": "Pittsburgh Steelers vs Carolina Panthers",
+    "timestamp": "2026-12-27T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/2975411515853129.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xxyvvy1420940478.png"
+  },
+  {
+    "league": "NFL",
     "title": "Miami Dolphins vs Los Angeles Chargers",
     "timestamp": "2026-12-27T18:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/trtusv1421435081.png",
@@ -39912,34 +40444,6 @@
     "timestamp": "2026-12-27T18:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/einz3p1546172463.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/squvxy1420942389.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Atlanta Falcons vs Tampa Bay Buccaneers",
-    "timestamp": "2026-12-27T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/rrpvpr1420658174.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/2dfpdl1537820969.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Indianapolis Colts vs Cincinnati Bengals",
-    "timestamp": "2026-12-27T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqqvpx1421434058.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/qqtwwv1420941670.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Minnesota Vikings vs Washington Commanders",
-    "timestamp": "2026-12-27T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/qstqqr1421609163.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rn0c7v1643826119.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Pittsburgh Steelers vs Carolina Panthers",
-    "timestamp": "2026-12-27T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/2975411515853129.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xxyvvy1420940478.png"
   },
   {
     "league": "NFL",
@@ -39975,6 +40479,34 @@
     "timestamp": "2027-01-01T01:15:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/qqtwwv1420941670.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/einz3p1546172463.png"
+  },
+  {
+    "league": "NFL",
+    "title": "New England Patriots vs Denver Broncos",
+    "timestamp": "2027-01-03T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xtwxyt1421431860.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/upsspx1421635647.png"
+  },
+  {
+    "league": "NFL",
+    "title": "Los Angeles Chargers vs Kansas City Chiefs",
+    "timestamp": "2027-01-03T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/vrqanp1687734910.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/936t161515847222.png"
+  },
+  {
+    "league": "NFL",
+    "title": "Tampa Bay Buccaneers vs Los Angeles Rams",
+    "timestamp": "2027-01-03T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/2dfpdl1537820969.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/8e8v4i1599764614.png"
+  },
+  {
+    "league": "NFL",
+    "title": "Jacksonville Jaguars vs Washington Commanders",
+    "timestamp": "2027-01-03T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/0mrsd41546427902.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rn0c7v1643826119.png"
   },
   {
     "league": "NFL",
@@ -40027,34 +40559,6 @@
   },
   {
     "league": "NFL",
-    "title": "New England Patriots vs Denver Broncos",
-    "timestamp": "2027-01-03T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xtwxyt1421431860.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/upsspx1421635647.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Los Angeles Chargers vs Kansas City Chiefs",
-    "timestamp": "2027-01-03T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/vrqanp1687734910.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/936t161515847222.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Tampa Bay Buccaneers vs Los Angeles Rams",
-    "timestamp": "2027-01-03T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/2dfpdl1537820969.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/8e8v4i1599764614.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Jacksonville Jaguars vs Washington Commanders",
-    "timestamp": "2027-01-03T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/0mrsd41546427902.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rn0c7v1643826119.png"
-  },
-  {
-    "league": "NFL",
     "title": "Arizona Cardinals vs Las Vegas Raiders",
     "timestamp": "2027-01-03T21:05:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xvuwtw1420646838.png",
@@ -40084,112 +40588,112 @@
   {
     "league": "NFL",
     "title": "Buffalo Bills vs New York Jets",
-    "timestamp": "2027-01-10T18:00:00",
+    "timestamp": "2027-01-10T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/6pb37b1515849026.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/hz92od1607953467.png"
   },
   {
     "league": "NFL",
     "title": "Cincinnati Bengals vs Cleveland Browns",
-    "timestamp": "2027-01-10T18:00:00",
+    "timestamp": "2027-01-10T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/qqtwwv1420941670.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/squvxy1420942389.png"
   },
   {
     "league": "NFL",
     "title": "Denver Broncos vs Los Angeles Chargers",
-    "timestamp": "2027-01-10T18:00:00",
+    "timestamp": "2027-01-10T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/upsspx1421635647.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/vrqanp1687734910.png"
   },
   {
     "league": "NFL",
     "title": "Green Bay Packers vs Detroit Lions",
-    "timestamp": "2027-01-10T18:00:00",
+    "timestamp": "2027-01-10T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/rqpwtr1421434717.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/lgsgkr1546168257.png"
   },
   {
     "league": "NFL",
     "title": "Indianapolis Colts vs Jacksonville Jaguars",
-    "timestamp": "2027-01-10T18:00:00",
+    "timestamp": "2027-01-10T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqqvpx1421434058.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/0mrsd41546427902.png"
   },
   {
     "league": "NFL",
     "title": "Kansas City Chiefs vs Las Vegas Raiders",
-    "timestamp": "2027-01-10T18:00:00",
+    "timestamp": "2027-01-10T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/936t161515847222.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xqusqy1421724291.png"
   },
   {
     "league": "NFL",
     "title": "Los Angeles Rams vs Seattle Seahawks",
-    "timestamp": "2027-01-10T18:00:00",
+    "timestamp": "2027-01-10T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/8e8v4i1599764614.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wwuqyr1421434817.png"
   },
   {
     "league": "NFL",
     "title": "Minnesota Vikings vs Chicago Bears",
-    "timestamp": "2027-01-10T18:00:00",
+    "timestamp": "2027-01-10T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/qstqqr1421609163.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ji22531698678538.png"
   },
   {
     "league": "NFL",
     "title": "New England Patriots vs Miami Dolphins",
-    "timestamp": "2027-01-10T18:00:00",
+    "timestamp": "2027-01-10T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xtwxyt1421431860.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/trtusv1421435081.png"
   },
   {
     "league": "NFL",
     "title": "New Orleans Saints vs Tampa Bay Buccaneers",
-    "timestamp": "2027-01-10T18:00:00",
+    "timestamp": "2027-01-10T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/nd46c71537821337.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/2dfpdl1537820969.png"
   },
   {
     "league": "NFL",
     "title": "New York Giants vs Philadelphia Eagles",
-    "timestamp": "2027-01-10T18:00:00",
+    "timestamp": "2027-01-10T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/vxppup1423669459.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/pnpybf1515852421.png"
   },
   {
     "league": "NFL",
     "title": "Arizona Cardinals vs San Francisco 49ers",
-    "timestamp": "2027-01-10T18:00:00",
+    "timestamp": "2027-01-10T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xvuwtw1420646838.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/bqbtg61539537328.png"
   },
   {
     "league": "NFL",
     "title": "Washington Commanders vs Dallas Cowboys",
-    "timestamp": "2027-01-10T18:00:00",
+    "timestamp": "2027-01-10T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/rn0c7v1643826119.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wrxssu1450018209.png"
   },
   {
     "league": "NFL",
     "title": "Carolina Panthers vs Atlanta Falcons",
-    "timestamp": "2027-01-10T18:00:00",
+    "timestamp": "2027-01-10T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xxyvvy1420940478.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rrpvpr1420658174.png"
   },
   {
     "league": "NFL",
     "title": "Baltimore Ravens vs Pittsburgh Steelers",
-    "timestamp": "2027-01-10T18:00:00",
+    "timestamp": "2027-01-10T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/einz3p1546172463.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/2975411515853129.png"
   },
   {
     "league": "NFL",
     "title": "Houston Texans vs Tennessee Titans",
-    "timestamp": "2027-01-10T18:00:00",
+    "timestamp": "2027-01-10T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqyryy1421436627.png",
     "awayBadge": "https://www.thesportsdb.com/images/media/team/badge/3td0f41779180767.png"
   }
