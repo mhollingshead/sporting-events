@@ -13,6 +13,7 @@ const leagues = {
     4387: "NBA",
     4391: "NFL",
     4424: "MLB",
+    4429: "FIFA World Cup",
 };
 
 const api = axios.create({
