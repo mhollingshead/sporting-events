@@ -29967,13 +29967,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/39x9ph1521903933.png"
   },
   {
-    "league": "MLB",
-    "title": "Chicago White Sox vs Atlanta Braves",
-    "timestamp": "2026-06-11T23:40:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/yyz5dh1554140884.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yjs76e1617811496.png"
-  },
-  {
     "league": "NHL",
     "title": "Carolina Hurricanes vs Vegas Golden Knights",
     "timestamp": "2026-06-12T00:00:00",
@@ -36853,6 +36846,13 @@
     "timestamp": "2026-08-20T18:10:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ii3rz81554031260.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/cyvrv31741640777.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Chicago White Sox vs Atlanta Braves",
+    "timestamp": "2026-08-20T18:10:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/yyz5dh1554140884.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yjs76e1617811496.png"
   },
   {
     "league": "MLB",
