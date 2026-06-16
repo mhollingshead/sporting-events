@@ -30283,13 +30283,6 @@
   },
   {
     "league": "MLB",
-    "title": "Cleveland Guardians vs Detroit Tigers",
-    "timestamp": "2026-06-14T17:40:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3zvzao1640964590.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/9dib6o1554032173.png"
-  },
-  {
-    "league": "MLB",
     "title": "Cincinnati Reds vs Arizona Diamondbacks",
     "timestamp": "2026-06-14T17:40:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wspusr1431538832.png",
@@ -35617,13 +35610,6 @@
   },
   {
     "league": "MLB",
-    "title": "Chicago White Sox vs Cleveland Guardians",
-    "timestamp": "2026-08-08T23:10:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/yyz5dh1554140884.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/3zvzao1640964590.png"
-  },
-  {
-    "league": "MLB",
     "title": "Texas Rangers vs Baltimore Orioles",
     "timestamp": "2026-08-08T23:15:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/qt9qki1521893151.png",
@@ -35649,6 +35635,13 @@
     "timestamp": "2026-08-08T23:15:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/6wt1cn1617527530.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/miwigx1521893583.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Chicago White Sox vs Cleveland Guardians",
+    "timestamp": "2026-08-08T23:15:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/yyz5dh1554140884.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/3zvzao1640964590.png"
   },
   {
     "league": "MLB",
@@ -36352,13 +36345,6 @@
   },
   {
     "league": "MLB",
-    "title": "Pittsburgh Pirates vs Boston Red Sox",
-    "timestamp": "2026-08-15T22:40:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/kw6uqr1617527138.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/stpsus1425120215.png"
-  },
-  {
-    "league": "MLB",
     "title": "Cincinnati Reds vs Miami Marlins",
     "timestamp": "2026-08-15T22:40:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wspusr1431538832.png",
@@ -36398,6 +36384,13 @@
     "timestamp": "2026-08-15T23:15:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/32uxn21778269451.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/08kh2a1595775193.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Pittsburgh Pirates vs Boston Red Sox",
+    "timestamp": "2026-08-15T23:15:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/kw6uqr1617527138.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/stpsus1425120215.png"
   },
   {
     "league": "MLB",
@@ -38424,6 +38417,13 @@
   },
   {
     "league": "MLB",
+    "title": "Cleveland Guardians vs Detroit Tigers",
+    "timestamp": "2026-09-04T18:10:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3zvzao1640964590.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/9dib6o1554032173.png"
+  },
+  {
+    "league": "MLB",
     "title": "Cincinnati Reds vs Milwaukee Brewers",
     "timestamp": "2026-09-04T22:10:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wspusr1431538832.png",
@@ -38606,17 +38606,17 @@
   },
   {
     "league": "MLB",
+    "title": "San Diego Padres vs New York Yankees",
+    "timestamp": "2026-09-05T23:15:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/6wt1cn1617527530.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqwwxx1423478766.png"
+  },
+  {
+    "league": "MLB",
     "title": "Colorado Rockies vs St. Louis Cardinals",
     "timestamp": "2026-09-06T00:10:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/r7q6ko1687608395.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uvyvyr1424003273.png"
-  },
-  {
-    "league": "MLB",
-    "title": "San Diego Padres vs New York Yankees",
-    "timestamp": "2026-09-06T00:40:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/6wt1cn1617527530.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqwwxx1423478766.png"
   },
   {
     "league": "MLB",
