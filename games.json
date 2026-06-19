@@ -30794,13 +30794,6 @@
   },
   {
     "league": "MLB",
-    "title": "Atlanta Braves vs San Francisco Giants",
-    "timestamp": "2026-06-18T23:15:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/yjs76e1617811496.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ov3qi41778132254.png"
-  },
-  {
-    "league": "MLB",
     "title": "Kansas City Royals vs St. Louis Cardinals",
     "timestamp": "2026-06-18T23:40:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ii3rz81554031260.png",
@@ -31221,6 +31214,13 @@
   },
   {
     "league": "MLB",
+    "title": "Detroit Tigers vs New York Yankees",
+    "timestamp": "2026-06-22T22:10:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/9dib6o1554032173.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqwwxx1423478766.png"
+  },
+  {
+    "league": "MLB",
     "title": "Tampa Bay Rays vs Kansas City Royals",
     "timestamp": "2026-06-22T22:40:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/littyt1554031623.png",
@@ -31232,13 +31232,6 @@
     "timestamp": "2026-06-22T22:40:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/0722fs1546001701.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/qt9qki1521893151.png"
-  },
-  {
-    "league": "MLB",
-    "title": "Detroit Tigers vs New York Yankees",
-    "timestamp": "2026-06-22T22:40:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/9dib6o1554032173.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqwwxx1423478766.png"
   },
   {
     "league": "MLB",
@@ -38064,6 +38057,13 @@
     "timestamp": "2026-08-30T23:20:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/rxqspq1431540337.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/miwigx1521893583.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Atlanta Braves vs San Francisco Giants",
+    "timestamp": "2026-08-31T22:05:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/yjs76e1617811496.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ov3qi41778132254.png"
   },
   {
     "league": "MLB",
