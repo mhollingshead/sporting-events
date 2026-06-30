@@ -19509,6 +19509,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/kw6uqr1617527138.png"
   },
   {
+    "league": "FIFA World Cup",
+    "title": "Canada vs Morocco",
+    "timestamp": "2026-07-04T17:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/2t631f1595154867.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/hbmwkj1731791275.png"
+  },
+  {
     "league": "MLB",
     "title": "New York Yankees vs Minnesota Twins",
     "timestamp": "2026-07-04T17:35:00",
@@ -19679,7 +19686,7 @@
   {
     "league": "MLB",
     "title": "Arizona Diamondbacks vs Milwaukee Brewers",
-    "timestamp": "2026-07-05T20:10:00",
+    "timestamp": "2026-07-05T20:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xe5wlo1713861863.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/08kh2a1595775193.png"
   },
