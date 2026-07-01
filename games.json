@@ -19537,6 +19537,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/f9zk3l1617527686.png"
   },
   {
+    "league": "FIFA World Cup",
+    "title": "Paraguay vs France",
+    "timestamp": "2026-07-04T21:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/khgav41553419195.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/p3n0z51726166851.png"
+  },
+  {
     "league": "MLB",
     "title": "Houston Astros vs Tampa Bay Rays",
     "timestamp": "2026-07-04T23:10:00",
@@ -19689,6 +19696,13 @@
     "timestamp": "2026-07-05T20:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xe5wlo1713861863.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/08kh2a1595775193.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "Brazil vs Norway",
+    "timestamp": "2026-07-05T20:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/jl6dip1726167280.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/gyfn811591973155.png"
   },
   {
     "league": "MLB",
