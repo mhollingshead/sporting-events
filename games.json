@@ -19726,6 +19726,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/6wt1cn1617527530.png"
   },
   {
+    "league": "FIFA World Cup",
+    "title": "Mexico vs England",
+    "timestamp": "2026-07-06T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3rmosi1748525208.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/vf5ttc1726166739.png"
+  },
+  {
     "league": "MLB",
     "title": "Los Angeles Angels vs Boston Red Sox",
     "timestamp": "2026-07-06T01:30:00",
@@ -19766,6 +19773,13 @@
     "timestamp": "2026-07-06T23:45:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/uvyvyr1424003273.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/08kh2a1595775193.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "USA vs Belgium",
+    "timestamp": "2026-07-07T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/21f0oi1597948195.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/8xlvxv1592062265.png"
   },
   {
     "league": "MLB",
@@ -21037,7 +21051,7 @@
   {
     "league": "MLB",
     "title": "Chicago Cubs vs Detroit Tigers",
-    "timestamp": "2026-07-23T00:05:00",
+    "timestamp": "2026-07-23T00:10:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/9dib6o1554032173.png"
   },
