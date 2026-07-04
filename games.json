@@ -19810,11 +19810,25 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/r7q6ko1687608395.png"
   },
   {
+    "league": "FIFA World Cup",
+    "title": "Argentina vs Egypt",
+    "timestamp": "2026-07-07T16:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3zplhu1726167477.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uheyzo1742102234.png"
+  },
+  {
     "league": "MLB",
     "title": "St. Louis Cardinals vs Milwaukee Brewers",
     "timestamp": "2026-07-07T18:15:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/uvyvyr1424003273.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/08kh2a1595775193.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "Switzerland vs Colombia",
+    "timestamp": "2026-07-07T20:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/mb7yqe1717365808.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/4ymyku1691180081.png"
   },
   {
     "league": "MLB",
