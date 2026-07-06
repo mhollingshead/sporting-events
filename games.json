@@ -19726,18 +19726,18 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/6wt1cn1617527530.png"
   },
   {
-    "league": "FIFA World Cup",
-    "title": "Mexico vs England",
-    "timestamp": "2026-07-06T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3rmosi1748525208.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/vf5ttc1726166739.png"
-  },
-  {
     "league": "MLB",
     "title": "Los Angeles Angels vs Boston Red Sox",
     "timestamp": "2026-07-06T01:30:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/vswsvx1432577476.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/stpsus1425120215.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "Mexico vs England",
+    "timestamp": "2026-07-06T02:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3rmosi1748525208.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/vf5ttc1726166739.png"
   },
   {
     "league": "MLB",
@@ -20298,6 +20298,13 @@
     "timestamp": "2026-07-11T20:10:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/0722fs1546001701.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/3zvzao1640964590.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "Norway vs England",
+    "timestamp": "2026-07-11T21:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/gyfn811591973155.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/vf5ttc1726166739.png"
   },
   {
     "league": "MLB",
