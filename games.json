@@ -20147,13 +20147,6 @@
   },
   {
     "league": "MLB",
-    "title": "Pittsburgh Pirates vs Milwaukee Brewers",
-    "timestamp": "2026-07-10T22:40:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/kw6uqr1617527138.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/08kh2a1595775193.png"
-  },
-  {
-    "league": "MLB",
     "title": "Detroit Tigers vs Philadelphia Phillies",
     "timestamp": "2026-07-10T22:40:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/9dib6o1554032173.png",
@@ -20249,6 +20242,13 @@
     "timestamp": "2026-07-11T02:15:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ov3qi41778132254.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/r7q6ko1687608395.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Pittsburgh Pirates vs Milwaukee Brewers",
+    "timestamp": "2026-07-11T16:05:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/kw6uqr1617527138.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/08kh2a1595775193.png"
   },
   {
     "league": "MLB",
@@ -20473,6 +20473,13 @@
     "timestamp": "2026-07-12T20:10:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/32uxn21778269451.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xe5wlo1713861863.png"
+  },
+  {
+    "league": "FIFA World Cup",
+    "title": "France vs Spain",
+    "timestamp": "2026-07-14T19:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/p3n0z51726166851.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ncgqyr1726166942.png"
   },
   {
     "league": "MLB",
