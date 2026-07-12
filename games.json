@@ -20482,6 +20482,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ncgqyr1726166942.png"
   },
   {
+    "league": "FIFA World Cup",
+    "title": "England vs Argentina",
+    "timestamp": "2026-07-15T19:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/vf5ttc1726166739.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/3zplhu1726167477.png"
+  },
+  {
     "league": "MLB",
     "title": "Philadelphia Phillies vs New York Mets",
     "timestamp": "2026-07-16T23:10:00",
