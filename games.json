@@ -20609,6 +20609,13 @@
   },
   {
     "league": "MLB",
+    "title": "Philadelphia Phillies vs New York Mets",
+    "timestamp": "2026-07-18T19:05:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3xrldf1617528682.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rxqspq1431540337.png"
+  },
+  {
+    "league": "MLB",
     "title": "Toronto Blue Jays vs Chicago White Sox",
     "timestamp": "2026-07-18T19:07:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/f9zk3l1617527686.png",
@@ -20620,13 +20627,6 @@
     "timestamp": "2026-07-18T19:10:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/r7q6ko1687608395.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wspusr1431538832.png"
-  },
-  {
-    "league": "MLB",
-    "title": "Philadelphia Phillies vs New York Mets",
-    "timestamp": "2026-07-18T20:05:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3xrldf1617528682.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rxqspq1431540337.png"
   },
   {
     "league": "MLB",
@@ -20693,13 +20693,6 @@
   },
   {
     "league": "MLB",
-    "title": "New York Yankees vs Los Angeles Dodgers",
-    "timestamp": "2026-07-19T00:08:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqwwxx1423478766.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/32uxn21778269451.png"
-  },
-  {
-    "league": "MLB",
     "title": "Athletics vs Washington Nationals",
     "timestamp": "2026-07-19T02:05:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/cyvrv31741640777.png",
@@ -20718,6 +20711,13 @@
     "timestamp": "2026-07-19T16:15:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/f9zk3l1617527686.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yyz5dh1554140884.png"
+  },
+  {
+    "league": "MLB",
+    "title": "New York Yankees vs Los Angeles Dodgers",
+    "timestamp": "2026-07-19T16:35:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqwwxx1423478766.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/32uxn21778269451.png"
   },
   {
     "league": "MLB",
