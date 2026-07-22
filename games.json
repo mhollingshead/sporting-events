@@ -20945,24 +20945,10 @@
   },
   {
     "league": "MLB",
-    "title": "New York Yankees vs Pittsburgh Pirates",
-    "timestamp": "2026-07-21T23:05:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqwwxx1423478766.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/kw6uqr1617527138.png"
-  },
-  {
-    "league": "MLB",
     "title": "Toronto Blue Jays vs Tampa Bay Rays",
     "timestamp": "2026-07-21T23:07:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/f9zk3l1617527686.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/littyt1554031623.png"
-  },
-  {
-    "league": "MLB",
-    "title": "Boston Red Sox vs Baltimore Orioles",
-    "timestamp": "2026-07-21T23:10:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/stpsus1425120215.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ytywvu1431257088.png"
   },
   {
     "league": "MLB",
@@ -21037,9 +21023,16 @@
   {
     "league": "MLB",
     "title": "New York Yankees vs Pittsburgh Pirates",
-    "timestamp": "2026-07-22T17:35:00",
+    "timestamp": "2026-07-22T17:05:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqwwxx1423478766.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/kw6uqr1617527138.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Boston Red Sox vs Baltimore Orioles",
+    "timestamp": "2026-07-22T17:35:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/stpsus1425120215.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ytywvu1431257088.png"
   },
   {
     "league": "MLB",
@@ -21096,6 +21089,13 @@
     "timestamp": "2026-07-22T22:40:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3zvzao1640964590.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/necd5v1521905719.png"
+  },
+  {
+    "league": "MLB",
+    "title": "New York Yankees vs Pittsburgh Pirates",
+    "timestamp": "2026-07-22T23:05:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqwwxx1423478766.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/kw6uqr1617527138.png"
   },
   {
     "league": "MLB",
@@ -24315,7 +24315,7 @@
     "title": "Brighton and Hove Albion vs Aston Villa",
     "timestamp": "2026-08-23T13:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ywypts1448810904.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png"
+    "awayBadge": "https://www.thesportsdb.com/images/media/team/badge/97mehy1784645865.png"
   },
   {
     "league": "Premier League",
@@ -25273,7 +25273,7 @@
     "league": "Premier League",
     "title": "Aston Villa vs Arsenal",
     "timestamp": "2026-08-31T19:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png",
+    "homeBadge": "https://www.thesportsdb.com/images/media/team/badge/97mehy1784645865.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png"
   },
   {
@@ -25799,7 +25799,7 @@
     "title": "Hull City vs Aston Villa",
     "timestamp": "2026-09-05T16:30:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/fbqqda1601726113.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png"
+    "awayBadge": "https://www.thesportsdb.com/images/media/team/badge/97mehy1784645865.png"
   },
   {
     "league": "MLB",
@@ -26498,7 +26498,7 @@
     "league": "Premier League",
     "title": "Aston Villa vs Nottingham Forest",
     "timestamp": "2026-09-12T14:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png",
+    "homeBadge": "https://www.thesportsdb.com/images/media/team/badge/97mehy1784645865.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/sar2y41781740886.png"
   },
   {
@@ -26744,7 +26744,7 @@
     "title": "Tottenham Hotspur vs Aston Villa",
     "timestamp": "2026-09-19T11:30:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png"
+    "awayBadge": "https://www.thesportsdb.com/images/media/team/badge/97mehy1784645865.png"
   },
   {
     "league": "Premier League",
@@ -27373,7 +27373,7 @@
     "league": "Premier League",
     "title": "Aston Villa vs Brentford",
     "timestamp": "2026-10-10T14:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png",
+    "homeBadge": "https://www.thesportsdb.com/images/media/team/badge/97mehy1784645865.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png"
   },
   {
@@ -27500,7 +27500,7 @@
     "title": "Newcastle United vs Aston Villa",
     "timestamp": "2026-10-17T14:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png"
+    "awayBadge": "https://www.thesportsdb.com/images/media/team/badge/97mehy1784645865.png"
   },
   {
     "league": "Premier League",
@@ -27716,7 +27716,7 @@
     "league": "Premier League",
     "title": "Aston Villa vs Manchester City",
     "timestamp": "2026-10-24T14:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png",
+    "homeBadge": "https://www.thesportsdb.com/images/media/team/badge/97mehy1784645865.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png"
   },
   {
@@ -27891,7 +27891,7 @@
     "league": "Premier League",
     "title": "Aston Villa vs Fulham",
     "timestamp": "2026-10-31T15:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png",
+    "homeBadge": "https://www.thesportsdb.com/images/media/team/badge/97mehy1784645865.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xwwvyt1448811086.png"
   },
   {
@@ -28004,7 +28004,7 @@
     "title": "Manchester United vs Aston Villa",
     "timestamp": "2026-11-07T15:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png"
+    "awayBadge": "https://www.thesportsdb.com/images/media/team/badge/97mehy1784645865.png"
   },
   {
     "league": "Premier League",
@@ -28332,7 +28332,7 @@
     "league": "Premier League",
     "title": "Aston Villa vs Sunderland",
     "timestamp": "2026-11-21T15:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png",
+    "homeBadge": "https://www.thesportsdb.com/images/media/team/badge/97mehy1784645865.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/tprtus1448813498.png"
   },
   {
@@ -28508,7 +28508,7 @@
     "title": "Ipswich Town vs Aston Villa",
     "timestamp": "2026-11-28T15:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/mdj1ey1634670785.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png"
+    "awayBadge": "https://www.thesportsdb.com/images/media/team/badge/97mehy1784645865.png"
   },
   {
     "league": "Premier League",
@@ -28668,7 +28668,7 @@
     "league": "Premier League",
     "title": "Aston Villa vs Everton",
     "timestamp": "2026-12-02T20:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png",
+    "homeBadge": "https://www.thesportsdb.com/images/media/team/badge/97mehy1784645865.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png"
   },
   {
@@ -28752,7 +28752,7 @@
     "league": "Premier League",
     "title": "Aston Villa vs Crystal Palace",
     "timestamp": "2026-12-05T15:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png",
+    "homeBadge": "https://www.thesportsdb.com/images/media/team/badge/97mehy1784645865.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png"
   },
   {
@@ -28921,7 +28921,7 @@
     "title": "Coventry City vs Aston Villa",
     "timestamp": "2026-12-12T15:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/uxyqys1424033798.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png"
+    "awayBadge": "https://www.thesportsdb.com/images/media/team/badge/97mehy1784645865.png"
   },
   {
     "league": "NFL",
@@ -29054,7 +29054,7 @@
     "title": "Chelsea vs Aston Villa",
     "timestamp": "2026-12-19T15:00:00",
     "homeBadge": "https://www.thesportsdb.com/images/media/team/badge/pbf4ul1782638263.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png"
+    "awayBadge": "https://www.thesportsdb.com/images/media/team/badge/97mehy1784645865.png"
   },
   {
     "league": "Premier League",
@@ -29291,7 +29291,7 @@
     "league": "Premier League",
     "title": "Aston Villa vs Leeds United",
     "timestamp": "2026-12-26T15:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png",
+    "homeBadge": "https://www.thesportsdb.com/images/media/team/badge/97mehy1784645865.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png"
   },
   {
@@ -29445,7 +29445,7 @@
     "league": "Premier League",
     "title": "Aston Villa vs Liverpool",
     "timestamp": "2026-12-30T20:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png",
+    "homeBadge": "https://www.thesportsdb.com/images/media/team/badge/97mehy1784645865.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png"
   },
   {
@@ -29467,7 +29467,7 @@
     "title": "Bournemouth vs Aston Villa",
     "timestamp": "2027-01-02T15:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/y08nak1534071116.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png"
+    "awayBadge": "https://www.thesportsdb.com/images/media/team/badge/97mehy1784645865.png"
   },
   {
     "league": "Premier League",
@@ -29663,7 +29663,7 @@
     "title": "Everton vs Aston Villa",
     "timestamp": "2027-01-06T20:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png"
+    "awayBadge": "https://www.thesportsdb.com/images/media/team/badge/97mehy1784645865.png"
   },
   {
     "league": "Premier League",
@@ -29879,7 +29879,7 @@
     "league": "Premier League",
     "title": "Aston Villa vs Manchester United",
     "timestamp": "2027-01-16T15:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png",
+    "homeBadge": "https://www.thesportsdb.com/images/media/team/badge/97mehy1784645865.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png"
   },
   {
@@ -29901,7 +29901,7 @@
     "title": "Fulham vs Aston Villa",
     "timestamp": "2027-01-23T15:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xwwvyt1448811086.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png"
+    "awayBadge": "https://www.thesportsdb.com/images/media/team/badge/97mehy1784645865.png"
   },
   {
     "league": "Premier League",
@@ -30019,7 +30019,7 @@
     "league": "Premier League",
     "title": "Aston Villa vs Ipswich Town",
     "timestamp": "2027-01-30T15:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png",
+    "homeBadge": "https://www.thesportsdb.com/images/media/team/badge/97mehy1784645865.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/mdj1ey1634670785.png"
   },
   {
@@ -30097,7 +30097,7 @@
     "title": "Sunderland vs Aston Villa",
     "timestamp": "2027-02-06T15:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/tprtus1448813498.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png"
+    "awayBadge": "https://www.thesportsdb.com/images/media/team/badge/97mehy1784645865.png"
   },
   {
     "league": "Premier League",
@@ -30159,7 +30159,7 @@
     "league": "Premier League",
     "title": "Aston Villa vs Bournemouth",
     "timestamp": "2027-02-10T20:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png",
+    "homeBadge": "https://www.thesportsdb.com/images/media/team/badge/97mehy1784645865.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/y08nak1534071116.png"
   },
   {
@@ -30223,7 +30223,7 @@
     "title": "Leeds United vs Aston Villa",
     "timestamp": "2027-02-20T15:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png"
+    "awayBadge": "https://www.thesportsdb.com/images/media/team/badge/97mehy1784645865.png"
   },
   {
     "league": "Premier League",
@@ -30299,7 +30299,7 @@
     "league": "Premier League",
     "title": "Aston Villa vs Chelsea",
     "timestamp": "2027-02-27T15:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png",
+    "homeBadge": "https://www.thesportsdb.com/images/media/team/badge/97mehy1784645865.png",
     "awayBadge": "https://www.thesportsdb.com/images/media/team/badge/pbf4ul1782638263.png"
   },
   {
@@ -30321,7 +30321,7 @@
     "title": "Liverpool vs Aston Villa",
     "timestamp": "2027-03-03T20:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png"
+    "awayBadge": "https://www.thesportsdb.com/images/media/team/badge/97mehy1784645865.png"
   },
   {
     "league": "Premier League",
@@ -30432,7 +30432,7 @@
     "league": "Premier League",
     "title": "Aston Villa vs Hull City",
     "timestamp": "2027-03-13T15:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png",
+    "homeBadge": "https://www.thesportsdb.com/images/media/team/badge/97mehy1784645865.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/fbqqda1601726113.png"
   },
   {
@@ -30517,7 +30517,7 @@
     "title": "Nottingham Forest vs Aston Villa",
     "timestamp": "2027-03-20T15:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/sar2y41781740886.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png"
+    "awayBadge": "https://www.thesportsdb.com/images/media/team/badge/97mehy1784645865.png"
   },
   {
     "league": "Premier League",
@@ -30572,7 +30572,7 @@
     "league": "Premier League",
     "title": "Aston Villa vs Brighton and Hove Albion",
     "timestamp": "2027-04-10T14:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png",
+    "homeBadge": "https://www.thesportsdb.com/images/media/team/badge/97mehy1784645865.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ywypts1448810904.png"
   },
   {
@@ -30608,7 +30608,7 @@
     "title": "Arsenal vs Aston Villa",
     "timestamp": "2027-04-17T14:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png"
+    "awayBadge": "https://www.thesportsdb.com/images/media/team/badge/97mehy1784645865.png"
   },
   {
     "league": "Premier League",
@@ -30726,7 +30726,7 @@
     "league": "Premier League",
     "title": "Aston Villa vs Coventry City",
     "timestamp": "2027-04-24T14:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png",
+    "homeBadge": "https://www.thesportsdb.com/images/media/team/badge/97mehy1784645865.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uxyqys1424033798.png"
   },
   {
@@ -30769,7 +30769,7 @@
     "title": "Crystal Palace vs Aston Villa",
     "timestamp": "2027-05-01T14:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png"
+    "awayBadge": "https://www.thesportsdb.com/images/media/team/badge/97mehy1784645865.png"
   },
   {
     "league": "Premier League",
@@ -30853,7 +30853,7 @@
     "title": "Brentford vs Aston Villa",
     "timestamp": "2027-05-08T14:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png"
+    "awayBadge": "https://www.thesportsdb.com/images/media/team/badge/97mehy1784645865.png"
   },
   {
     "league": "Premier League",
@@ -30922,7 +30922,7 @@
     "league": "Premier League",
     "title": "Aston Villa vs Newcastle United",
     "timestamp": "2027-05-15T14:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png",
+    "homeBadge": "https://www.thesportsdb.com/images/media/team/badge/97mehy1784645865.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png"
   },
   {
@@ -30979,7 +30979,7 @@
     "title": "Manchester City vs Aston Villa",
     "timestamp": "2027-05-23T14:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png"
+    "awayBadge": "https://www.thesportsdb.com/images/media/team/badge/97mehy1784645865.png"
   },
   {
     "league": "Premier League",
@@ -31062,7 +31062,7 @@
     "league": "Premier League",
     "title": "Aston Villa vs Tottenham Hotspur",
     "timestamp": "2027-05-30T15:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/jykrpv1717309891.png",
+    "homeBadge": "https://www.thesportsdb.com/images/media/team/badge/97mehy1784645865.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png"
   },
   {
