@@ -24249,6 +24249,13 @@
   },
   {
     "league": "MLB",
+    "title": "Los Angeles Dodgers vs Pittsburgh Pirates",
+    "timestamp": "2026-08-22T23:15:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/32uxn21778269451.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/kw6uqr1617527138.png"
+  },
+  {
+    "league": "MLB",
     "title": "Boston Red Sox vs San Francisco Giants",
     "timestamp": "2026-08-22T23:15:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/stpsus1425120215.png",
@@ -24288,13 +24295,6 @@
     "timestamp": "2026-08-23T00:40:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/6wt1cn1617527530.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/necd5v1521905719.png"
-  },
-  {
-    "league": "MLB",
-    "title": "Los Angeles Dodgers vs Pittsburgh Pirates",
-    "timestamp": "2026-08-23T01:10:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/32uxn21778269451.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/kw6uqr1617527138.png"
   },
   {
     "league": "NFL",
