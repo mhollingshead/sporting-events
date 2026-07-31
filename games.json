@@ -15583,10 +15583,10 @@
   },
   {
     "league": "MLB",
-    "title": "Chicago Cubs vs Cincinnati Reds",
+    "title": "New York Mets vs Houston Astros",
     "timestamp": "2026-08-30T19:10:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wspusr1431538832.png"
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/rxqspq1431540337.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/miwigx1521893583.png"
   },
   {
     "league": "MLB",
@@ -15604,10 +15604,10 @@
   },
   {
     "league": "MLB",
-    "title": "New York Mets vs Houston Astros",
+    "title": "Chicago Cubs vs Cincinnati Reds",
     "timestamp": "2026-08-30T23:20:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/rxqspq1431540337.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/miwigx1521893583.png"
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wspusr1431538832.png"
   },
   {
     "league": "Premier League",
@@ -16311,17 +16311,17 @@
   },
   {
     "league": "MLB",
-    "title": "Chicago White Sox vs Minnesota Twins",
-    "timestamp": "2026-09-06T18:10:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/yyz5dh1554140884.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/necd5v1521905719.png"
-  },
-  {
-    "league": "MLB",
     "title": "Houston Astros vs Arizona Diamondbacks",
     "timestamp": "2026-09-06T18:10:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/miwigx1521893583.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xe5wlo1713861863.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Kansas City Royals vs Toronto Blue Jays",
+    "timestamp": "2026-09-06T18:10:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ii3rz81554031260.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/f9zk3l1617527686.png"
   },
   {
     "league": "MLB",
@@ -16353,10 +16353,10 @@
   },
   {
     "league": "MLB",
-    "title": "Kansas City Royals vs Toronto Blue Jays",
-    "timestamp": "2026-09-06T23:20:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ii3rz81554031260.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/f9zk3l1617527686.png"
+    "title": "Chicago White Sox vs Minnesota Twins",
+    "timestamp": "2026-09-06T22:20:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/yyz5dh1554140884.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/necd5v1521905719.png"
   },
   {
     "league": "MLB",
@@ -16371,13 +16371,6 @@
     "timestamp": "2026-09-07T17:05:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3xrldf1617528682.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yjs76e1617811496.png"
-  },
-  {
-    "league": "MLB",
-    "title": "Detroit Tigers vs Minnesota Twins",
-    "timestamp": "2026-09-07T17:10:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/9dib6o1554032173.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/necd5v1521905719.png"
   },
   {
     "league": "MLB",
@@ -16413,6 +16406,13 @@
     "timestamp": "2026-09-07T18:10:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/08kh2a1595775193.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Detroit Tigers vs Minnesota Twins",
+    "timestamp": "2026-09-07T19:10:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/9dib6o1554032173.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/necd5v1521905719.png"
   },
   {
     "league": "MLB",
