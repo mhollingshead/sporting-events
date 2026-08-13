@@ -16004,7 +16004,7 @@
   {
     "league": "MLB",
     "title": "Pittsburgh Pirates vs Los Angeles Angels",
-    "timestamp": "2026-09-04T22:40:00",
+    "timestamp": "2026-09-04T22:45:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/kw6uqr1617527138.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/vswsvx1432577476.png"
   },
@@ -16014,13 +16014,6 @@
     "timestamp": "2026-09-04T23:05:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ytywvu1431257088.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/stpsus1425120215.png"
-  },
-  {
-    "league": "MLB",
-    "title": "Cleveland Guardians vs Detroit Tigers",
-    "timestamp": "2026-09-04T23:10:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3zvzao1640964590.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/9dib6o1554032173.png"
   },
   {
     "league": "MLB",
@@ -16091,6 +16084,13 @@
     "timestamp": "2026-09-05T02:10:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/39x9ph1521903933.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/cyvrv31741640777.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Cleveland Guardians vs Detroit Tigers",
+    "timestamp": "2026-09-05T02:15:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3zvzao1640964590.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/9dib6o1554032173.png"
   },
   {
     "league": "Premier League",
@@ -16767,7 +16767,7 @@
   {
     "league": "MLB",
     "title": "Milwaukee Brewers vs Cincinnati Reds",
-    "timestamp": "2026-09-11T23:40:00",
+    "timestamp": "2026-09-11T23:45:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/08kh2a1595775193.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wspusr1431538832.png"
   },
