@@ -17430,6 +17430,97 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yjs76e1617811496.png"
   },
   {
+    "league": "MLB",
+    "title": "Texas Rangers vs Boston Red Sox",
+    "timestamp": "2026-09-17T00:05:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/qt9qki1521893151.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/stpsus1425120215.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Houston Astros vs Kansas City Royals",
+    "timestamp": "2026-09-17T00:10:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/miwigx1521893583.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ii3rz81554031260.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Colorado Rockies vs San Diego Padres",
+    "timestamp": "2026-09-17T00:40:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/r7q6ko1687608395.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/6wt1cn1617527530.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Los Angeles Angels vs Seattle Mariners",
+    "timestamp": "2026-09-17T01:38:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/vswsvx1432577476.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/39x9ph1521903933.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Arizona Diamondbacks vs Miami Marlins",
+    "timestamp": "2026-09-17T01:40:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xe5wlo1713861863.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/0722fs1546001701.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Pittsburgh Pirates vs Milwaukee Brewers",
+    "timestamp": "2026-09-17T16:35:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/kw6uqr1617527138.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/08kh2a1595775193.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Cincinnati Reds vs Los Angeles Dodgers",
+    "timestamp": "2026-09-17T16:40:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wspusr1431538832.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/32uxn21778269451.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Tampa Bay Rays vs Athletics",
+    "timestamp": "2026-09-17T17:10:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/littyt1554031623.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/cyvrv31741640777.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Colorado Rockies vs San Diego Padres",
+    "timestamp": "2026-09-17T19:10:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/r7q6ko1687608395.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/6wt1cn1617527530.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Houston Astros vs Kansas City Royals",
+    "timestamp": "2026-09-17T23:15:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/miwigx1521893583.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ii3rz81554031260.png"
+  },
+  {
+    "league": "MLB",
+    "title": "New York Mets vs Philadelphia Phillies",
+    "timestamp": "2026-09-17T23:15:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/rxqspq1431540337.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/3xrldf1617528682.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Chicago White Sox vs Detroit Tigers",
+    "timestamp": "2026-09-17T23:40:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/yyz5dh1554140884.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/9dib6o1554032173.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Texas Rangers vs Boston Red Sox",
+    "timestamp": "2026-09-18T00:05:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/qt9qki1521893151.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/stpsus1425120215.png"
+  },
+  {
     "league": "NFL",
     "title": "Buffalo Bills vs Detroit Lions",
     "timestamp": "2026-09-18T00:15:00",
@@ -17437,11 +17528,67 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/lgsgkr1546168257.png"
   },
   {
+    "league": "MLB",
+    "title": "Los Angeles Angels vs Minnesota Twins",
+    "timestamp": "2026-09-18T01:38:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/vswsvx1432577476.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/necd5v1521905719.png"
+  },
+  {
     "league": "Premier League",
     "title": "Brentford vs Chelsea",
     "timestamp": "2026-09-18T19:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/pbf4ul1782638263.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Cincinnati Reds vs Chicago Cubs",
+    "timestamp": "2026-09-18T22:40:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wspusr1431538832.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Pittsburgh Pirates vs Kansas City Royals",
+    "timestamp": "2026-09-18T22:40:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/kw6uqr1617527138.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ii3rz81554031260.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Baltimore Orioles vs Milwaukee Brewers",
+    "timestamp": "2026-09-18T23:05:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ytywvu1431257088.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/08kh2a1595775193.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Cleveland Guardians vs Athletics",
+    "timestamp": "2026-09-18T23:10:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3zvzao1640964590.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/cyvrv31741640777.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Tampa Bay Rays vs Boston Red Sox",
+    "timestamp": "2026-09-18T23:10:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/littyt1554031623.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/stpsus1425120215.png"
+  },
+  {
+    "league": "MLB",
+    "title": "New York Mets vs Philadelphia Phillies",
+    "timestamp": "2026-09-18T23:15:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/rxqspq1431540337.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/3xrldf1617528682.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Chicago White Sox vs Detroit Tigers",
+    "timestamp": "2026-09-18T23:40:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/yyz5dh1554140884.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/9dib6o1554032173.png"
   },
   {
     "league": "Premier League",
@@ -20783,6 +20930,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uxyqys1424033798.png"
   },
   {
+    "league": "NFL",
+    "title": "San Diego Chargers vs San Diego Chargers",
+    "timestamp": "2027-01-24T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/rtputr1421812863.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rtputr1421812863.png"
+  },
+  {
     "league": "Premier League",
     "title": "Newcastle United vs Brighton and Hove Albion",
     "timestamp": "2027-01-30T15:00:00",
@@ -20851,6 +21005,13 @@
     "timestamp": "2027-01-30T15:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/uxyqys1424033798.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png"
+  },
+  {
+    "league": "NFL",
+    "title": "San Diego Chargers vs San Diego Chargers",
+    "timestamp": "2027-01-31T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/rtputr1421812863.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rtputr1421812863.png"
   },
   {
     "league": "Premier League",
@@ -20991,6 +21152,13 @@
     "timestamp": "2027-02-10T20:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/uxyqys1424033798.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png"
+  },
+  {
+    "league": "NFL",
+    "title": "San Diego Chargers vs San Diego Chargers",
+    "timestamp": "2027-02-14T23:30:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/rtputr1421812863.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rtputr1421812863.png"
   },
   {
     "league": "Premier League",
