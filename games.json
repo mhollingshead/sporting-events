@@ -17613,13 +17613,6 @@
   },
   {
     "league": "Premier League",
-    "title": "Manchester City vs Sunderland",
-    "timestamp": "2026-09-19T14:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/tprtus1448813498.png"
-  },
-  {
-    "league": "Premier League",
     "title": "Brighton and Hove Albion vs Arsenal",
     "timestamp": "2026-09-19T14:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ywypts1448810904.png",
@@ -17694,6 +17687,13 @@
     "timestamp": "2026-09-20T13:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/y08nak1534071116.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png"
+  },
+  {
+    "league": "Premier League",
+    "title": "Manchester City vs Sunderland",
+    "timestamp": "2026-09-20T13:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/tprtus1448813498.png"
   },
   {
     "league": "Premier League",
