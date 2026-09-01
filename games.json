@@ -7675,7 +7675,7 @@
     "league": "FIFA World Cup",
     "title": "France vs Senegal",
     "timestamp": "2026-06-16T19:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/p3n0z51726166851.png",
+    "homeBadge": "https://www.thesportsdb.com/images/media/team/badge/ejx5za1788198941.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/slayb01780546342.png"
   },
   {
@@ -8403,7 +8403,7 @@
     "league": "FIFA World Cup",
     "title": "France vs Iraq",
     "timestamp": "2026-06-22T21:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/p3n0z51726166851.png",
+    "homeBadge": "https://www.thesportsdb.com/images/media/team/badge/ejx5za1788198941.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/aqidfn1742100110.png"
   },
   {
@@ -8894,7 +8894,7 @@
     "title": "Norway vs France",
     "timestamp": "2026-06-26T19:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/gyfn811591973155.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/p3n0z51726166851.png"
+    "awayBadge": "https://www.thesportsdb.com/images/media/team/badge/ejx5za1788198941.png"
   },
   {
     "league": "FIFA World Cup",
@@ -9418,7 +9418,7 @@
     "league": "FIFA World Cup",
     "title": "France vs Sweden",
     "timestamp": "2026-06-30T21:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/p3n0z51726166851.png",
+    "homeBadge": "https://www.thesportsdb.com/images/media/team/badge/ejx5za1788198941.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/h5adzg1591981772.png"
   },
   {
@@ -9888,7 +9888,7 @@
     "title": "Paraguay vs France",
     "timestamp": "2026-07-04T21:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/khgav41553419195.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/p3n0z51726166851.png"
+    "awayBadge": "https://www.thesportsdb.com/images/media/team/badge/ejx5za1788198941.png"
   },
   {
     "league": "MLB",
@@ -10433,7 +10433,7 @@
     "league": "FIFA World Cup",
     "title": "France vs Morocco",
     "timestamp": "2026-07-09T20:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/p3n0z51726166851.png",
+    "homeBadge": "https://www.thesportsdb.com/images/media/team/badge/ejx5za1788198941.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/hbmwkj1731791275.png"
   },
   {
@@ -10825,7 +10825,7 @@
     "league": "FIFA World Cup",
     "title": "France vs Spain",
     "timestamp": "2026-07-14T19:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/p3n0z51726166851.png",
+    "homeBadge": "https://www.thesportsdb.com/images/media/team/badge/ejx5za1788198941.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ncgqyr1726166942.png"
   },
   {
@@ -11021,7 +11021,7 @@
     "league": "FIFA World Cup",
     "title": "France vs England",
     "timestamp": "2026-07-18T21:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/p3n0z51726166851.png",
+    "homeBadge": "https://www.thesportsdb.com/images/media/team/badge/ejx5za1788198941.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/vf5ttc1726166739.png"
   },
   {
@@ -24360,6 +24360,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rsqtwx1422053715.png"
   },
   {
+    "league": "NHL",
+    "title": "Winnipeg Jets vs Dallas Stars",
+    "timestamp": "2026-12-20T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/bwn9hr1547233611.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/qrvywq1422042125.png"
+  },
+  {
     "league": "NFL",
     "title": "Buffalo Bills vs Chicago Bears",
     "timestamp": "2026-12-20T01:20:00",
@@ -31225,6 +31232,34 @@
     "timestamp": "2027-04-10T23:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/rsqtwx1422053715.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/w5m2ab1746690303.png"
+  },
+  {
+    "league": "NHL",
+    "title": "Tampa Bay Lightning vs Boston Bruins",
+    "timestamp": "2027-04-11T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/swysut1421791822.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/b1r86e1720023232.png"
+  },
+  {
+    "league": "NHL",
+    "title": "Calgary Flames vs Vancouver Canucks",
+    "timestamp": "2027-04-12T02:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/v8vkk11619536610.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xqxxpw1421875519.png"
+  },
+  {
+    "league": "NHL",
+    "title": "Edmonton Oilers vs Winnipeg Jets",
+    "timestamp": "2027-04-12T02:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/uxxsyw1421618428.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/bwn9hr1547233611.png"
+  },
+  {
+    "league": "NHL",
+    "title": "Vegas Golden Knights vs Los Angeles Kings",
+    "timestamp": "2027-04-12T02:30:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/7fd4521619536689.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/w408rg1719220748.png"
   },
   {
     "league": "Premier League",
