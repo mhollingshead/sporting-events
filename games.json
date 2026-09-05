@@ -16059,6 +16059,13 @@
   },
   {
     "league": "MLB",
+    "title": "Cleveland Guardians vs Detroit Tigers",
+    "timestamp": "2026-09-05T00:15:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3zvzao1640964590.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/9dib6o1554032173.png"
+  },
+  {
+    "league": "MLB",
     "title": "Colorado Rockies vs St. Louis Cardinals",
     "timestamp": "2026-09-05T00:40:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/r7q6ko1687608395.png",
@@ -16084,13 +16091,6 @@
     "timestamp": "2026-09-05T02:10:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/39x9ph1521903933.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/cyvrv31741640777.png"
-  },
-  {
-    "league": "MLB",
-    "title": "Cleveland Guardians vs Detroit Tigers",
-    "timestamp": "2026-09-05T02:15:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3zvzao1640964590.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/9dib6o1554032173.png"
   },
   {
     "league": "Premier League",
