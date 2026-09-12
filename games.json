@@ -12845,13 +12845,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/necd5v1521905719.png"
   },
   {
-    "league": "NFL",
-    "title": "Arizona Cardinals vs Carolina Panthers",
-    "timestamp": "2026-08-07T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/i1g1wg1784712239.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/kbqini1784716157.png"
-  },
-  {
     "league": "MLB",
     "title": "Arizona Diamondbacks vs San Diego Padres",
     "timestamp": "2026-08-07T01:40:00",
@@ -13496,53 +13489,11 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png"
   },
   {
-    "league": "NFL",
-    "title": "Cincinnati Bengals vs Detroit Lions",
-    "timestamp": "2026-08-13T23:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/h1ce8y1784717263.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/lgsgkr1546168257.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Pittsburgh Steelers vs Green Bay Packers",
-    "timestamp": "2026-08-13T23:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/2975411515853129.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uwbfw01784719173.png"
-  },
-  {
-    "league": "NFL",
-    "title": "New England Patriots vs Indianapolis Colts",
-    "timestamp": "2026-08-13T23:30:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xtwxyt1421431860.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/im99lm1784720368.png"
-  },
-  {
     "league": "MLB",
     "title": "Minnesota Twins vs Philadelphia Phillies",
     "timestamp": "2026-08-13T23:30:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/necd5v1521905719.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/3xrldf1617528682.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Houston Texans vs Los Angeles Chargers",
-    "timestamp": "2026-08-14T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/o71ce41784719551.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wmi40u1784721460.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Las Vegas Raiders vs Arizona Cardinals",
-    "timestamp": "2026-08-14T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/4t8xtk1784721179.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/i1g1wg1784712239.png"
-  },
-  {
-    "league": "NFL",
-    "title": "San Francisco 49ers vs Tennessee Titans",
-    "timestamp": "2026-08-14T01:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/bqbtg61539537328.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/3td0f41779180767.png"
   },
   {
     "league": "MLB",
@@ -13585,27 +13536,6 @@
     "timestamp": "2026-08-14T22:40:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/9dib6o1554032173.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yyz5dh1554140884.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Atlanta Falcons vs Denver Broncos",
-    "timestamp": "2026-08-14T23:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/9ucfd41784714178.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/zy3m9v1784718707.png"
-  },
-  {
-    "league": "NFL",
-    "title": "New York Jets vs Tampa Bay Buccaneers",
-    "timestamp": "2026-08-14T23:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/6bnwoc1784751677.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/2dfpdl1537820969.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Washington Commanders vs Miami Dolphins",
-    "timestamp": "2026-08-14T23:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/rn0c7v1643826119.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/e803xt1784722221.png"
   },
   {
     "league": "MLB",
@@ -13678,27 +13608,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/r7q6ko1687608395.png"
   },
   {
-    "league": "NFL",
-    "title": "Buffalo Bills vs Carolina Panthers",
-    "timestamp": "2026-08-15T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/j4r1tn1784714823.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/kbqini1784716157.png"
-  },
-  {
-    "league": "NFL",
-    "title": "New York Giants vs Minnesota Vikings",
-    "timestamp": "2026-08-15T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/i9muak1784751331.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/nyp3ev1784722510.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Chicago Bears vs Cleveland Browns",
-    "timestamp": "2026-08-15T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/0m51zd1784716955.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/g7qhkz1784717593.png"
-  },
-  {
     "league": "MLB",
     "title": "Detroit Tigers vs Chicago White Sox",
     "timestamp": "2026-08-15T17:10:00",
@@ -13718,20 +13627,6 @@
     "timestamp": "2026-08-15T19:07:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/f9zk3l1617527686.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqwwxx1423478766.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Kansas City Chiefs vs Los Angeles Rams",
-    "timestamp": "2026-08-15T20:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/n58gp51784720929.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ojw15x1784721865.png"
-  },
-  {
-    "league": "NFL",
-    "title": "New Orleans Saints vs Jacksonville Jaguars",
-    "timestamp": "2026-08-15T20:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/nd46c71537821337.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/0mrsd41546427902.png"
   },
   {
     "league": "MLB",
@@ -13760,13 +13655,6 @@
     "timestamp": "2026-08-15T22:40:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wspusr1431538832.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/0722fs1546001701.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Baltimore Ravens vs Philadelphia Eagles",
-    "timestamp": "2026-08-15T23:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/einz3p1546172463.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/pnpybf1515852421.png"
   },
   {
     "league": "MLB",
@@ -13809,13 +13697,6 @@
     "timestamp": "2026-08-15T23:15:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/yjs76e1617811496.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xe5wlo1713861863.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Seattle Seahawks vs Dallas Cowboys",
-    "timestamp": "2026-08-16T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/1t84c51784752684.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/76ew3c1784718447.png"
   },
   {
     "league": "MLB",
@@ -14273,13 +14154,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqwwxx1423478766.png"
   },
   {
-    "league": "NFL",
-    "title": "Houston Texans vs Las Vegas Raiders",
-    "timestamp": "2026-08-21T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/o71ce41784719551.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/4t8xtk1784721179.png"
-  },
-  {
     "league": "MLB",
     "title": "Texas Rangers vs Washington Nationals",
     "timestamp": "2026-08-21T00:05:00",
@@ -14292,13 +14166,6 @@
     "timestamp": "2026-08-21T00:10:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/miwigx1521893583.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/vswsvx1432577476.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Los Angeles Chargers vs San Francisco 49ers",
-    "timestamp": "2026-08-21T02:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wmi40u1784721460.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/bqbtg61539537328.png"
   },
   {
     "league": "Premier League",
@@ -14320,13 +14187,6 @@
     "timestamp": "2026-08-21T22:40:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3xrldf1617528682.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uvyvyr1424003273.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Pittsburgh Steelers vs New York Jets",
-    "timestamp": "2026-08-21T23:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/2975411515853129.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/6bnwoc1784751677.png"
   },
   {
     "league": "MLB",
@@ -14355,13 +14215,6 @@
     "timestamp": "2026-08-21T23:15:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ytywvu1431257088.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/littyt1554031623.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Jacksonville Jaguars vs Carolina Panthers",
-    "timestamp": "2026-08-21T23:30:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/0mrsd41546427902.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/kbqini1784716157.png"
   },
   {
     "league": "MLB",
@@ -14397,13 +14250,6 @@
     "timestamp": "2026-08-22T00:40:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/r7q6ko1687608395.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/3zvzao1640964590.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Denver Broncos vs Green Bay Packers",
-    "timestamp": "2026-08-22T01:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/zy3m9v1784718707.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uwbfw01784719173.png"
   },
   {
     "league": "MLB",
@@ -14462,39 +14308,11 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png"
   },
   {
-    "league": "NFL",
-    "title": "Detroit Lions vs Washington Commanders",
-    "timestamp": "2026-08-22T16:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/lgsgkr1546168257.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rn0c7v1643826119.png"
-  },
-  {
     "league": "Premier League",
     "title": "Brentford vs Tottenham Hotspur",
     "timestamp": "2026-08-22T16:30:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Cleveland Browns vs Buffalo Bills",
-    "timestamp": "2026-08-22T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/g7qhkz1784717593.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/j4r1tn1784714823.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Indianapolis Colts vs Atlanta Falcons",
-    "timestamp": "2026-08-22T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/im99lm1784720368.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/9ucfd41784714178.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Minnesota Vikings vs Baltimore Ravens",
-    "timestamp": "2026-08-22T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/nyp3ev1784722510.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/einz3p1546172463.png"
   },
   {
     "league": "MLB",
@@ -14511,20 +14329,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yjs76e1617811496.png"
   },
   {
-    "league": "NFL",
-    "title": "Los Angeles Rams vs New Orleans Saints",
-    "timestamp": "2026-08-22T20:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ojw15x1784721865.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/nd46c71537821337.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Miami Dolphins vs New York Giants",
-    "timestamp": "2026-08-22T20:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/e803xt1784722221.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/i9muak1784751331.png"
-  },
-  {
     "league": "MLB",
     "title": "Miami Marlins vs Washington Nationals",
     "timestamp": "2026-08-22T20:10:00",
@@ -14537,20 +14341,6 @@
     "timestamp": "2026-08-22T22:05:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3xrldf1617528682.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uvyvyr1424003273.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Cincinnati Bengals vs Chicago Bears",
-    "timestamp": "2026-08-22T23:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/h1ce8y1784717263.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/0m51zd1784716955.png"
-  },
-  {
-    "league": "NFL",
-    "title": "New England Patriots vs Philadelphia Eagles",
-    "timestamp": "2026-08-22T23:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xtwxyt1421431860.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/pnpybf1515852421.png"
   },
   {
     "league": "MLB",
@@ -14609,13 +14399,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/9dib6o1554032173.png"
   },
   {
-    "league": "NFL",
-    "title": "Tampa Bay Buccaneers vs Kansas City Chiefs",
-    "timestamp": "2026-08-22T23:30:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/2dfpdl1537820969.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/n58gp51784720929.png"
-  },
-  {
     "league": "MLB",
     "title": "Colorado Rockies vs Cleveland Guardians",
     "timestamp": "2026-08-23T00:10:00",
@@ -14635,13 +14418,6 @@
     "timestamp": "2026-08-23T00:40:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/6wt1cn1617527530.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/necd5v1521905719.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Arizona Cardinals vs Dallas Cowboys",
-    "timestamp": "2026-08-23T02:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/i1g1wg1784712239.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/76ew3c1784718447.png"
   },
   {
     "league": "Premier League",
@@ -14768,13 +14544,6 @@
     "timestamp": "2026-08-23T23:10:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/08kh2a1595775193.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yjs76e1617811496.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Tennessee Titans vs Seattle Seahawks",
-    "timestamp": "2026-08-24T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3td0f41779180767.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/1t84c51784752684.png"
   },
   {
     "league": "Premier League",
@@ -15078,13 +14847,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ytywvu1431257088.png"
   },
   {
-    "league": "NFL",
-    "title": "Buffalo Bills vs Pittsburgh Steelers",
-    "timestamp": "2026-08-27T23:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/j4r1tn1784714823.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/2975411515853129.png"
-  },
-  {
     "league": "MLB",
     "title": "New York Yankees vs Houston Astros",
     "timestamp": "2026-08-27T23:05:00",
@@ -15113,32 +14875,11 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/32uxn21778269451.png"
   },
   {
-    "league": "NFL",
-    "title": "Cleveland Browns vs New England Patriots",
-    "timestamp": "2026-08-28T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/g7qhkz1784717593.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xtwxyt1421431860.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Las Vegas Raiders vs San Francisco 49ers",
-    "timestamp": "2026-08-28T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/4t8xtk1784721179.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/bqbtg61539537328.png"
-  },
-  {
     "league": "MLB",
     "title": "San Francisco Giants vs Arizona Diamondbacks",
     "timestamp": "2026-08-28T01:45:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ov3qi41778132254.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xe5wlo1713861863.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Los Angeles Chargers vs Los Angeles Rams",
-    "timestamp": "2026-08-28T02:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wmi40u1784721460.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ojw15x1784721865.png"
   },
   {
     "league": "MLB",
@@ -15155,13 +14896,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png"
   },
   {
-    "league": "NFL",
-    "title": "Baltimore Ravens vs Washington Commanders",
-    "timestamp": "2026-08-28T22:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/einz3p1546172463.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rn0c7v1643826119.png"
-  },
-  {
     "league": "MLB",
     "title": "Detroit Tigers vs Los Angeles Dodgers",
     "timestamp": "2026-08-28T22:40:00",
@@ -15174,20 +14908,6 @@
     "timestamp": "2026-08-28T22:45:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wpqrut1423694764.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/0722fs1546001701.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Miami Dolphins vs Atlanta Falcons",
-    "timestamp": "2026-08-28T23:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/e803xt1784722221.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/9ucfd41784714178.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Carolina Panthers vs Houston Texans",
-    "timestamp": "2026-08-28T23:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/kbqini1784716157.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/o71ce41784719551.png"
   },
   {
     "league": "MLB",
@@ -15232,53 +14952,11 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/r7q6ko1687608395.png"
   },
   {
-    "league": "NFL",
-    "title": "New York Jets vs New York Giants",
-    "timestamp": "2026-08-28T23:30:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/6bnwoc1784751677.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/i9muak1784751331.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Jacksonville Jaguars vs Tampa Bay Buccaneers",
-    "timestamp": "2026-08-28T23:30:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/0mrsd41546427902.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/2dfpdl1537820969.png"
-  },
-  {
     "league": "MLB",
     "title": "Milwaukee Brewers vs Texas Rangers",
     "timestamp": "2026-08-28T23:40:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/08kh2a1595775193.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/qt9qki1521893151.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Kansas City Chiefs vs Seattle Seahawks",
-    "timestamp": "2026-08-29T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/n58gp51784720929.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/1t84c51784752684.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Philadelphia Eagles vs Cincinnati Bengals",
-    "timestamp": "2026-08-29T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/pnpybf1515852421.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/h1ce8y1784717263.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Dallas Cowboys vs New Orleans Saints",
-    "timestamp": "2026-08-29T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/76ew3c1784718447.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/nd46c71537821337.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Green Bay Packers vs Arizona Cardinals",
-    "timestamp": "2026-08-29T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/uwbfw01784719173.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/i1g1wg1784712239.png"
   },
   {
     "league": "MLB",
@@ -15293,13 +14971,6 @@
     "timestamp": "2026-08-29T00:15:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/uvyvyr1424003273.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/kw6uqr1617527138.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Denver Broncos vs Minnesota Vikings",
-    "timestamp": "2026-08-29T01:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/zy3m9v1784718707.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/nyp3ev1784722510.png"
   },
   {
     "league": "MLB",
@@ -15349,13 +15020,6 @@
     "timestamp": "2026-08-29T16:30:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Indianapolis Colts vs Detroit Lions",
-    "timestamp": "2026-08-29T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/im99lm1784720368.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/lgsgkr1546168257.png"
   },
   {
     "league": "MLB",
@@ -15440,13 +15104,6 @@
     "timestamp": "2026-08-29T20:10:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/yjs76e1617811496.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/r7q6ko1687608395.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Tennessee Titans vs Chicago Bears",
-    "timestamp": "2026-08-29T22:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3td0f41779180767.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/0m51zd1784716955.png"
   },
   {
     "league": "MLB",
@@ -16646,13 +16303,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png"
   },
   {
-    "league": "NFL",
-    "title": "Seattle Seahawks vs New England Patriots",
-    "timestamp": "2026-09-10T00:20:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/1t84c51784752684.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xtwxyt1421431860.png"
-  },
-  {
     "league": "MLB",
     "title": "Los Angeles Dodgers vs Cincinnati Reds",
     "timestamp": "2026-09-10T02:10:00",
@@ -16693,13 +16343,6 @@
     "timestamp": "2026-09-10T23:40:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/yyz5dh1554140884.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/kw6uqr1617527138.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Los Angeles Rams vs San Francisco 49ers",
-    "timestamp": "2026-09-11T00:35:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ojw15x1784721865.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/bqbtg61539537328.png"
   },
   {
     "league": "MLB",
@@ -16982,62 +16625,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/r7q6ko1687608395.png"
   },
   {
-    "league": "NFL",
-    "title": "Cincinnati Bengals vs Tampa Bay Buccaneers",
-    "timestamp": "2026-09-13T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/h1ce8y1784717263.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/2dfpdl1537820969.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Detroit Lions vs New Orleans Saints",
-    "timestamp": "2026-09-13T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/lgsgkr1546168257.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/nd46c71537821337.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Tennessee Titans vs New York Jets",
-    "timestamp": "2026-09-13T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3td0f41779180767.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/6bnwoc1784751677.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Indianapolis Colts vs Baltimore Ravens",
-    "timestamp": "2026-09-13T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/im99lm1784720368.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/einz3p1546172463.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Pittsburgh Steelers vs Atlanta Falcons",
-    "timestamp": "2026-09-13T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/2975411515853129.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/9ucfd41784714178.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Carolina Panthers vs Chicago Bears",
-    "timestamp": "2026-09-13T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/kbqini1784716157.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/0m51zd1784716955.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Jacksonville Jaguars vs Cleveland Browns",
-    "timestamp": "2026-09-13T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/0mrsd41546427902.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/g7qhkz1784717593.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Houston Texans vs Buffalo Bills",
-    "timestamp": "2026-09-13T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/o71ce41784719551.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/j4r1tn1784714823.png"
-  },
-  {
     "league": "MLB",
     "title": "Washington Nationals vs Los Angeles Angels",
     "timestamp": "2026-09-13T17:35:00",
@@ -17129,46 +16716,11 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/qt9qki1521893151.png"
   },
   {
-    "league": "NFL",
-    "title": "Las Vegas Raiders vs Miami Dolphins",
-    "timestamp": "2026-09-13T20:25:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/4t8xtk1784721179.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/e803xt1784722221.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Minnesota Vikings vs Green Bay Packers",
-    "timestamp": "2026-09-13T20:25:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/nyp3ev1784722510.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uwbfw01784719173.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Philadelphia Eagles vs Washington Commanders",
-    "timestamp": "2026-09-13T20:25:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/pnpybf1515852421.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rn0c7v1643826119.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Los Angeles Chargers vs Arizona Cardinals",
-    "timestamp": "2026-09-13T20:25:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wmi40u1784721460.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/i1g1wg1784712239.png"
-  },
-  {
     "league": "MLB",
     "title": "San Francisco Giants vs San Diego Padres",
     "timestamp": "2026-09-13T23:20:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ov3qi41778132254.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/6wt1cn1617527530.png"
-  },
-  {
-    "league": "NFL",
-    "title": "New York Giants vs Dallas Cowboys",
-    "timestamp": "2026-09-14T00:20:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/i9muak1784751331.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/76ew3c1784718447.png"
   },
   {
     "league": "Premier League",
@@ -17225,13 +16777,6 @@
     "timestamp": "2026-09-14T23:45:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/uvyvyr1424003273.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ov3qi41778132254.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Kansas City Chiefs vs Denver Broncos",
-    "timestamp": "2026-09-15T00:15:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/n58gp51784720929.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/zy3m9v1784718707.png"
   },
   {
     "league": "MLB",
@@ -17519,13 +17064,6 @@
     "timestamp": "2026-09-18T00:05:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/qt9qki1521893151.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/stpsus1425120215.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Buffalo Bills vs Detroit Lions",
-    "timestamp": "2026-09-18T00:15:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/j4r1tn1784714823.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/lgsgkr1546168257.png"
   },
   {
     "league": "MLB",
@@ -17871,62 +17409,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/hqn8511619536714.png"
   },
   {
-    "league": "NFL",
-    "title": "Atlanta Falcons vs Carolina Panthers",
-    "timestamp": "2026-09-20T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/9ucfd41784714178.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/kbqini1784716157.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Chicago Bears vs Minnesota Vikings",
-    "timestamp": "2026-09-20T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/0m51zd1784716955.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/nyp3ev1784722510.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Tennessee Titans vs Philadelphia Eagles",
-    "timestamp": "2026-09-20T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3td0f41779180767.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/pnpybf1515852421.png"
-  },
-  {
-    "league": "NFL",
-    "title": "New England Patriots vs Pittsburgh Steelers",
-    "timestamp": "2026-09-20T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xtwxyt1421431860.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/2975411515853129.png"
-  },
-  {
-    "league": "NFL",
-    "title": "New York Jets vs Green Bay Packers",
-    "timestamp": "2026-09-20T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/6bnwoc1784751677.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uwbfw01784719173.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Tampa Bay Buccaneers vs Cleveland Browns",
-    "timestamp": "2026-09-20T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/2dfpdl1537820969.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/g7qhkz1784717593.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Baltimore Ravens vs New Orleans Saints",
-    "timestamp": "2026-09-20T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/einz3p1546172463.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/nd46c71537821337.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Houston Texans vs Cincinnati Bengals",
-    "timestamp": "2026-09-20T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/o71ce41784719551.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/h1ce8y1784717263.png"
-  },
-  {
     "league": "MLB",
     "title": "New York Mets vs Philadelphia Phillies",
     "timestamp": "2026-09-20T17:10:00",
@@ -18004,20 +17486,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yui7871546193006.png"
   },
   {
-    "league": "NFL",
-    "title": "Denver Broncos vs Jacksonville Jaguars",
-    "timestamp": "2026-09-20T20:05:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/zy3m9v1784718707.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/0mrsd41546427902.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Los Angeles Chargers vs Las Vegas Raiders",
-    "timestamp": "2026-09-20T20:05:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wmi40u1784721460.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/4t8xtk1784721179.png"
-  },
-  {
     "league": "MLB",
     "title": "Los Angeles Angels vs Minnesota Twins",
     "timestamp": "2026-09-20T20:07:00",
@@ -18044,27 +17512,6 @@
     "timestamp": "2026-09-20T20:10:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/6wt1cn1617527530.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/0722fs1546001701.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Dallas Cowboys vs Washington Commanders",
-    "timestamp": "2026-09-20T20:25:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/76ew3c1784718447.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rn0c7v1643826119.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Arizona Cardinals vs Seattle Seahawks",
-    "timestamp": "2026-09-20T20:25:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/i1g1wg1784712239.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/1t84c51784752684.png"
-  },
-  {
-    "league": "NFL",
-    "title": "San Francisco 49ers vs Miami Dolphins",
-    "timestamp": "2026-09-20T20:25:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/bqbtg61539537328.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/e803xt1784722221.png"
   },
   {
     "league": "NHL",
@@ -18107,13 +17554,6 @@
     "timestamp": "2026-09-21T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/v8vkk11619536610.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/zsx49m1595775836.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Kansas City Chiefs vs Indianapolis Colts",
-    "timestamp": "2026-09-21T00:20:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/n58gp51784720929.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/im99lm1784720368.png"
   },
   {
     "league": "NHL",
@@ -18170,13 +17610,6 @@
     "timestamp": "2026-09-22T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/qrvywq1422042125.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rsqtwx1422053715.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Los Angeles Rams vs New York Giants",
-    "timestamp": "2026-09-22T00:15:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ojw15x1784721865.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/i9muak1784751331.png"
   },
   {
     "league": "NHL",
@@ -18324,13 +17757,6 @@
     "timestamp": "2026-09-25T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/rsqtwx1422053715.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/tuwyvr1422041801.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Green Bay Packers vs Atlanta Falcons",
-    "timestamp": "2026-09-25T00:15:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/uwbfw01784719173.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/9ucfd41784714178.png"
   },
   {
     "league": "NHL",
@@ -18487,111 +17913,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yui7871546193006.png"
   },
   {
-    "league": "NFL",
-    "title": "Buffalo Bills vs Los Angeles Chargers",
-    "timestamp": "2026-09-27T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/j4r1tn1784714823.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wmi40u1784721460.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Cleveland Browns vs Carolina Panthers",
-    "timestamp": "2026-09-27T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/g7qhkz1784717593.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/kbqini1784716157.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Detroit Lions vs New York Jets",
-    "timestamp": "2026-09-27T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/lgsgkr1546168257.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/6bnwoc1784751677.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Indianapolis Colts vs Houston Texans",
-    "timestamp": "2026-09-27T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/im99lm1784720368.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/o71ce41784719551.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Miami Dolphins vs Kansas City Chiefs",
-    "timestamp": "2026-09-27T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/e803xt1784722221.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/n58gp51784720929.png"
-  },
-  {
-    "league": "NFL",
-    "title": "New York Giants vs Tennessee Titans",
-    "timestamp": "2026-09-27T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/i9muak1784751331.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/3td0f41779180767.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Pittsburgh Steelers vs Cincinnati Bengals",
-    "timestamp": "2026-09-27T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/2975411515853129.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/h1ce8y1784717263.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Washington Commanders vs Seattle Seahawks",
-    "timestamp": "2026-09-27T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/rn0c7v1643826119.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/1t84c51784752684.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Jacksonville Jaguars vs New England Patriots",
-    "timestamp": "2026-09-27T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/0mrsd41546427902.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xtwxyt1421431860.png"
-  },
-  {
-    "league": "NFL",
-    "title": "San Francisco 49ers vs Arizona Cardinals",
-    "timestamp": "2026-09-27T20:05:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/bqbtg61539537328.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/i1g1wg1784712239.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Tampa Bay Buccaneers vs Minnesota Vikings",
-    "timestamp": "2026-09-27T20:05:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/2dfpdl1537820969.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/nyp3ev1784722510.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Dallas Cowboys vs Baltimore Ravens",
-    "timestamp": "2026-09-27T20:25:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/76ew3c1784718447.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/einz3p1546172463.png"
-  },
-  {
-    "league": "NFL",
-    "title": "New Orleans Saints vs Las Vegas Raiders",
-    "timestamp": "2026-09-27T20:25:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/nd46c71537821337.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/4t8xtk1784721179.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Denver Broncos vs Los Angeles Rams",
-    "timestamp": "2026-09-28T00:20:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/zy3m9v1784718707.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ojw15x1784721865.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Chicago Bears vs Philadelphia Eagles",
-    "timestamp": "2026-09-29T00:15:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/0m51zd1784716955.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/pnpybf1515852421.png"
-  },
-  {
     "league": "NHL",
     "title": "Carolina Hurricanes vs Florida Panthers",
     "timestamp": "2026-09-29T21:00:00",
@@ -18674,13 +17995,6 @@
     "timestamp": "2026-10-02T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/twqyvy1422052908.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/swtsxs1422042685.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Cleveland Browns vs Pittsburgh Steelers",
-    "timestamp": "2026-10-02T00:15:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/g7qhkz1784717593.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/2975411515853129.png"
   },
   {
     "league": "NHL",
@@ -18844,102 +18158,11 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/v8vkk11619536610.png"
   },
   {
-    "league": "NFL",
-    "title": "Washington Commanders vs Indianapolis Colts",
-    "timestamp": "2026-10-04T13:30:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/rn0c7v1643826119.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/im99lm1784720368.png"
-  },
-  {
     "league": "NHL",
     "title": "Detroit Red Wings vs Winnipeg Jets",
     "timestamp": "2026-10-04T17:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/1c24ow1546544080.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/bwn9hr1547233611.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Buffalo Bills vs New England Patriots",
-    "timestamp": "2026-10-04T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/j4r1tn1784714823.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xtwxyt1421431860.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Chicago Bears vs New York Jets",
-    "timestamp": "2026-10-04T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/0m51zd1784716955.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/6bnwoc1784751677.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Cincinnati Bengals vs Jacksonville Jaguars",
-    "timestamp": "2026-10-04T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/h1ce8y1784717263.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/0mrsd41546427902.png"
-  },
-  {
-    "league": "NFL",
-    "title": "New York Giants vs Arizona Cardinals",
-    "timestamp": "2026-10-04T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/i9muak1784751331.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/i1g1wg1784712239.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Philadelphia Eagles vs Los Angeles Rams",
-    "timestamp": "2026-10-04T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/pnpybf1515852421.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ojw15x1784721865.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Tampa Bay Buccaneers vs Green Bay Packers",
-    "timestamp": "2026-10-04T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/2dfpdl1537820969.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uwbfw01784719173.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Baltimore Ravens vs Tennessee Titans",
-    "timestamp": "2026-10-04T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/einz3p1546172463.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/3td0f41779180767.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Houston Texans vs Dallas Cowboys",
-    "timestamp": "2026-10-04T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/o71ce41784719551.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/76ew3c1784718447.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Minnesota Vikings vs Miami Dolphins",
-    "timestamp": "2026-10-04T20:05:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/nyp3ev1784722510.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/e803xt1784722221.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Las Vegas Raiders vs Kansas City Chiefs",
-    "timestamp": "2026-10-04T20:25:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/4t8xtk1784721179.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/n58gp51784720929.png"
-  },
-  {
-    "league": "NFL",
-    "title": "San Francisco 49ers vs Denver Broncos",
-    "timestamp": "2026-10-04T20:25:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/bqbtg61539537328.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/zy3m9v1784718707.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Seattle Seahawks vs Los Angeles Chargers",
-    "timestamp": "2026-10-04T20:25:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/1t84c51784752684.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wmi40u1784721460.png"
   },
   {
     "league": "NHL",
@@ -18975,13 +18198,6 @@
     "timestamp": "2026-10-05T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/zsx49m1595775836.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/v8vkk11619536610.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Carolina Panthers vs Detroit Lions",
-    "timestamp": "2026-10-05T00:20:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/kbqini1784716157.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/lgsgkr1546168257.png"
   },
   {
     "league": "NHL",
@@ -19045,13 +18261,6 @@
     "timestamp": "2026-10-06T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/olhug01621594702.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/epenxg1781034811.png"
-  },
-  {
-    "league": "NFL",
-    "title": "New Orleans Saints vs Atlanta Falcons",
-    "timestamp": "2026-10-06T00:15:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/nd46c71537821337.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/9ucfd41784714178.png"
   },
   {
     "league": "NBA",
@@ -19297,13 +18506,6 @@
     "timestamp": "2026-10-09T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/yc5qfx1781459158.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/7o1noy1778226315.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Dallas Cowboys vs Tampa Bay Buccaneers",
-    "timestamp": "2026-10-09T00:15:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/76ew3c1784718447.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/2dfpdl1537820969.png"
   },
   {
     "league": "NHL",
@@ -19579,95 +18781,11 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png"
   },
   {
-    "league": "NFL",
-    "title": "Jacksonville Jaguars vs Philadelphia Eagles",
-    "timestamp": "2026-10-11T13:30:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/0mrsd41546427902.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/pnpybf1515852421.png"
-  },
-  {
     "league": "Premier League",
     "title": "Liverpool vs Manchester City",
     "timestamp": "2026-10-11T15:30:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Tennessee Titans vs Houston Texans",
-    "timestamp": "2026-10-11T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3td0f41779180767.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/o71ce41784719551.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Miami Dolphins vs Cincinnati Bengals",
-    "timestamp": "2026-10-11T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/e803xt1784722221.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/h1ce8y1784717263.png"
-  },
-  {
-    "league": "NFL",
-    "title": "New England Patriots vs Las Vegas Raiders",
-    "timestamp": "2026-10-11T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xtwxyt1421431860.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/4t8xtk1784721179.png"
-  },
-  {
-    "league": "NFL",
-    "title": "New Orleans Saints vs Minnesota Vikings",
-    "timestamp": "2026-10-11T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/nd46c71537821337.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/nyp3ev1784722510.png"
-  },
-  {
-    "league": "NFL",
-    "title": "New York Jets vs Cleveland Browns",
-    "timestamp": "2026-10-11T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/6bnwoc1784751677.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/g7qhkz1784717593.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Pittsburgh Steelers vs Indianapolis Colts",
-    "timestamp": "2026-10-11T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/2975411515853129.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/im99lm1784720368.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Washington Commanders vs New York Giants",
-    "timestamp": "2026-10-11T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/rn0c7v1643826119.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/i9muak1784751331.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Los Angeles Chargers vs Denver Broncos",
-    "timestamp": "2026-10-11T20:05:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wmi40u1784721460.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/zy3m9v1784718707.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Green Bay Packers vs Chicago Bears",
-    "timestamp": "2026-10-11T20:25:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/uwbfw01784719173.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/0m51zd1784716955.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Arizona Cardinals vs Detroit Lions",
-    "timestamp": "2026-10-11T20:25:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/i1g1wg1784712239.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/lgsgkr1546168257.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Seattle Seahawks vs San Francisco 49ers",
-    "timestamp": "2026-10-11T20:25:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/1t84c51784752684.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/bqbtg61539537328.png"
   },
   {
     "league": "NHL",
@@ -19703,13 +18821,6 @@
     "timestamp": "2026-10-11T23:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xqtvvp1422380623.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/olhug01621594702.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Atlanta Falcons vs Baltimore Ravens",
-    "timestamp": "2026-10-12T00:20:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/9ucfd41784714178.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/einz3p1546172463.png"
   },
   {
     "league": "NBA",
@@ -19766,13 +18877,6 @@
     "timestamp": "2026-10-13T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/swtsxs1422042685.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/7fd4521619536689.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Los Angeles Rams vs Buffalo Bills",
-    "timestamp": "2026-10-13T00:15:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ojw15x1784721865.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/j4r1tn1784714823.png"
   },
   {
     "league": "NBA",
@@ -20062,13 +19166,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yui7871546193006.png"
   },
   {
-    "league": "NFL",
-    "title": "Denver Broncos vs Seattle Seahawks",
-    "timestamp": "2026-10-16T00:15:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/zy3m9v1784718707.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/1t84c51784752684.png"
-  },
-  {
     "league": "NBA",
     "title": "Houston Rockets vs Oklahoma City Thunder",
     "timestamp": "2026-10-16T00:30:00",
@@ -20342,88 +19439,11 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png"
   },
   {
-    "league": "NFL",
-    "title": "Jacksonville Jaguars vs Houston Texans",
-    "timestamp": "2026-10-18T13:30:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/0mrsd41546427902.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/o71ce41784719551.png"
-  },
-  {
     "league": "Premier League",
     "title": "Nottingham Forest vs Arsenal",
     "timestamp": "2026-10-18T15:30:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/sar2y41781740886.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Atlanta Falcons vs Chicago Bears",
-    "timestamp": "2026-10-18T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/9ucfd41784714178.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/0m51zd1784716955.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Cleveland Browns vs Baltimore Ravens",
-    "timestamp": "2026-10-18T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/g7qhkz1784717593.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/einz3p1546172463.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Indianapolis Colts vs Tennessee Titans",
-    "timestamp": "2026-10-18T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/im99lm1784720368.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/3td0f41779180767.png"
-  },
-  {
-    "league": "NFL",
-    "title": "New England Patriots vs New York Jets",
-    "timestamp": "2026-10-18T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xtwxyt1421431860.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/6bnwoc1784751677.png"
-  },
-  {
-    "league": "NFL",
-    "title": "New York Giants vs New Orleans Saints",
-    "timestamp": "2026-10-18T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/i9muak1784751331.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/nd46c71537821337.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Philadelphia Eagles vs Carolina Panthers",
-    "timestamp": "2026-10-18T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/pnpybf1515852421.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/kbqini1784716157.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Tampa Bay Buccaneers vs Pittsburgh Steelers",
-    "timestamp": "2026-10-18T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/2dfpdl1537820969.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/2975411515853129.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Los Angeles Rams vs Arizona Cardinals",
-    "timestamp": "2026-10-18T20:05:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ojw15x1784721865.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/i1g1wg1784712239.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Kansas City Chiefs vs Los Angeles Chargers",
-    "timestamp": "2026-10-18T20:25:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/n58gp51784720929.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wmi40u1784721460.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Las Vegas Raiders vs Buffalo Bills",
-    "timestamp": "2026-10-18T20:25:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/4t8xtk1784721179.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/j4r1tn1784714823.png"
   },
   {
     "league": "NHL",
@@ -20438,13 +19458,6 @@
     "timestamp": "2026-10-19T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/v8vkk11619536610.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/v07m3x1547232585.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Green Bay Packers vs Dallas Cowboys",
-    "timestamp": "2026-10-19T00:20:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/uwbfw01784719173.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/76ew3c1784718447.png"
   },
   {
     "league": "Premier League",
@@ -20473,13 +19486,6 @@
     "timestamp": "2026-10-19T23:30:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/mxig4p1570129307.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yui7871546193006.png"
-  },
-  {
-    "league": "NFL",
-    "title": "San Francisco 49ers vs Washington Commanders",
-    "timestamp": "2026-10-20T00:15:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/bqbtg61539537328.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rn0c7v1643826119.png"
   },
   {
     "league": "NHL",
@@ -20739,13 +19745,6 @@
     "timestamp": "2026-10-23T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/rsqtwx1422053715.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/7fd4521619536689.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Chicago Bears vs New England Patriots",
-    "timestamp": "2026-10-23T00:15:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/0m51zd1784716955.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xtwxyt1421431860.png"
   },
   {
     "league": "NHL",
@@ -21056,13 +20055,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xokycb1778197905.png"
   },
   {
-    "league": "NFL",
-    "title": "New Orleans Saints vs Pittsburgh Steelers",
-    "timestamp": "2026-10-25T13:30:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/nd46c71537821337.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/2975411515853129.png"
-  },
-  {
     "league": "Premier League",
     "title": "Manchester United vs Bournemouth",
     "timestamp": "2026-10-25T14:00:00",
@@ -21098,81 +20090,11 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png"
   },
   {
-    "league": "NFL",
-    "title": "Atlanta Falcons vs San Francisco 49ers",
-    "timestamp": "2026-10-25T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/9ucfd41784714178.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/bqbtg61539537328.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Tennessee Titans vs Cleveland Browns",
-    "timestamp": "2026-10-25T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3td0f41779180767.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/g7qhkz1784717593.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Minnesota Vikings vs Indianapolis Colts",
-    "timestamp": "2026-10-25T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/nyp3ev1784722510.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/im99lm1784720368.png"
-  },
-  {
-    "league": "NFL",
-    "title": "New York Jets vs Miami Dolphins",
-    "timestamp": "2026-10-25T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/6bnwoc1784751677.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/e803xt1784722221.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Carolina Panthers vs Tampa Bay Buccaneers",
-    "timestamp": "2026-10-25T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/kbqini1784716157.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/2dfpdl1537820969.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Baltimore Ravens vs Cincinnati Bengals",
-    "timestamp": "2026-10-25T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/einz3p1546172463.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/h1ce8y1784717263.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Houston Texans vs New York Giants",
-    "timestamp": "2026-10-25T17:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/o71ce41784719551.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/i9muak1784751331.png"
-  },
-  {
     "league": "NHL",
     "title": "Chicago Blackhawks vs Florida Panthers",
     "timestamp": "2026-10-25T19:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/tuwyvr1422041801.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/8qtaz11547158220.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Arizona Cardinals vs Denver Broncos",
-    "timestamp": "2026-10-25T20:05:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/i1g1wg1784712239.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/zy3m9v1784718707.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Detroit Lions vs Green Bay Packers",
-    "timestamp": "2026-10-25T20:25:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/lgsgkr1546168257.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uwbfw01784719173.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Las Vegas Raiders vs Los Angeles Rams",
-    "timestamp": "2026-10-25T20:25:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/4t8xtk1784721179.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ojw15x1784721865.png"
   },
   {
     "league": "NBA",
@@ -21238,13 +20160,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqutut1421173572.png"
   },
   {
-    "league": "NFL",
-    "title": "Seattle Seahawks vs Kansas City Chiefs",
-    "timestamp": "2026-10-26T00:20:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/1t84c51784752684.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/n58gp51784720929.png"
-  },
-  {
     "league": "NBA",
     "title": "Sacramento Kings vs Memphis Grizzlies",
     "timestamp": "2026-10-26T01:00:00",
@@ -21306,13 +20221,6 @@
     "timestamp": "2026-10-27T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/bkhj5p1778199006.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xfyknc1778198971.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Philadelphia Eagles vs Dallas Cowboys",
-    "timestamp": "2026-10-27T00:15:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/pnpybf1515852421.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/76ew3c1784718447.png"
   },
   {
     "league": "NHL",
@@ -21637,13 +20545,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/k2buwo1778227426.png"
   },
   {
-    "league": "NFL",
-    "title": "Green Bay Packers vs Carolina Panthers",
-    "timestamp": "2026-10-30T00:15:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/uwbfw01784719173.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/kbqini1784716157.png"
-  },
-  {
     "league": "NHL",
     "title": "Anaheim Ducks vs Buffalo Sabres",
     "timestamp": "2026-10-30T02:00:00",
@@ -21952,62 +20853,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/bwn9hr1547233611.png"
   },
   {
-    "league": "NFL",
-    "title": "Buffalo Bills vs Baltimore Ravens",
-    "timestamp": "2026-11-01T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/j4r1tn1784714823.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/einz3p1546172463.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Cincinnati Bengals vs Tennessee Titans",
-    "timestamp": "2026-11-01T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/h1ce8y1784717263.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/3td0f41779180767.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Dallas Cowboys vs Arizona Cardinals",
-    "timestamp": "2026-11-01T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/76ew3c1784718447.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/i1g1wg1784712239.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Detroit Lions vs Minnesota Vikings",
-    "timestamp": "2026-11-01T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/lgsgkr1546168257.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/nyp3ev1784722510.png"
-  },
-  {
-    "league": "NFL",
-    "title": "New York Jets vs Las Vegas Raiders",
-    "timestamp": "2026-11-01T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/6bnwoc1784751677.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/4t8xtk1784721179.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Pittsburgh Steelers vs Cleveland Browns",
-    "timestamp": "2026-11-01T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/2975411515853129.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/g7qhkz1784717593.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Tampa Bay Buccaneers vs Atlanta Falcons",
-    "timestamp": "2026-11-01T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/2dfpdl1537820969.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/9ucfd41784714178.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Jacksonville Jaguars vs Indianapolis Colts",
-    "timestamp": "2026-11-01T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/0mrsd41546427902.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/im99lm1784720368.png"
-  },
-  {
     "league": "NHL",
     "title": "Washington Capitals vs Minnesota Wild",
     "timestamp": "2026-11-01T20:30:00",
@@ -22029,27 +20874,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/w5m2ab1746690303.png"
   },
   {
-    "league": "NFL",
-    "title": "Los Angeles Rams vs Los Angeles Chargers",
-    "timestamp": "2026-11-01T21:05:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ojw15x1784721865.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wmi40u1784721460.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Denver Broncos vs Kansas City Chiefs",
-    "timestamp": "2026-11-01T21:25:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/zy3m9v1784718707.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/n58gp51784720929.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Miami Dolphins vs New England Patriots",
-    "timestamp": "2026-11-01T21:25:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/e803xt1784722221.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xtwxyt1421431860.png"
-  },
-  {
     "league": "NBA",
     "title": "Indiana Pacers vs Brooklyn Nets",
     "timestamp": "2026-11-01T22:00:00",
@@ -22069,13 +20893,6 @@
     "timestamp": "2026-11-02T01:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/1d465t1719573796.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/2tc1qy1619536592.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Washington Commanders vs Philadelphia Eagles",
-    "timestamp": "2026-11-02T01:20:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/rn0c7v1643826119.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/pnpybf1515852421.png"
   },
   {
     "league": "NBA",
@@ -22181,13 +20998,6 @@
     "timestamp": "2026-11-03T01:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/epenxg1781034811.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/olhug01621594702.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Seattle Seahawks vs Chicago Bears",
-    "timestamp": "2026-11-03T01:15:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/1t84c51784752684.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/0m51zd1784716955.png"
   },
   {
     "league": "NBA",
@@ -22512,13 +21322,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xqxxpw1421875519.png"
   },
   {
-    "league": "NFL",
-    "title": "Baltimore Ravens vs Jacksonville Jaguars",
-    "timestamp": "2026-11-06T01:15:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/einz3p1546172463.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/0mrsd41546427902.png"
-  },
-  {
     "league": "NBA",
     "title": "Phoenix Suns vs Orlando Magic",
     "timestamp": "2026-11-06T02:00:00",
@@ -22827,67 +21630,11 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yc5qfx1781459158.png"
   },
   {
-    "league": "NFL",
-    "title": "Atlanta Falcons vs Cincinnati Bengals",
-    "timestamp": "2026-11-08T14:30:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/9ucfd41784714178.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/h1ce8y1784717263.png"
-  },
-  {
     "league": "NHL",
     "title": "Boston Bruins vs Florida Panthers",
     "timestamp": "2026-11-08T18:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/b1r86e1720023232.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/8qtaz11547158220.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Indianapolis Colts vs Dallas Cowboys",
-    "timestamp": "2026-11-08T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/im99lm1784720368.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/76ew3c1784718447.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Kansas City Chiefs vs New York Jets",
-    "timestamp": "2026-11-08T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/n58gp51784720929.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/6bnwoc1784751677.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Miami Dolphins vs Detroit Lions",
-    "timestamp": "2026-11-08T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/e803xt1784722221.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/lgsgkr1546168257.png"
-  },
-  {
-    "league": "NFL",
-    "title": "New Orleans Saints vs Cleveland Browns",
-    "timestamp": "2026-11-08T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/nd46c71537821337.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/g7qhkz1784717593.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Philadelphia Eagles vs New York Giants",
-    "timestamp": "2026-11-08T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/pnpybf1515852421.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/i9muak1784751331.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Washington Commanders vs Los Angeles Rams",
-    "timestamp": "2026-11-08T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/rn0c7v1643826119.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ojw15x1784721865.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Carolina Panthers vs Denver Broncos",
-    "timestamp": "2026-11-08T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/kbqini1784716157.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/zy3m9v1784718707.png"
   },
   {
     "league": "NHL",
@@ -22902,34 +21649,6 @@
     "timestamp": "2026-11-08T20:30:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ehq8l31778197349.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/j6rlbi1778226857.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Los Angeles Chargers vs Houston Texans",
-    "timestamp": "2026-11-08T21:05:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wmi40u1784721460.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/o71ce41784719551.png"
-  },
-  {
-    "league": "NFL",
-    "title": "San Francisco 49ers vs Las Vegas Raiders",
-    "timestamp": "2026-11-08T21:05:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/bqbtg61539537328.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/4t8xtk1784721179.png"
-  },
-  {
-    "league": "NFL",
-    "title": "New England Patriots vs Green Bay Packers",
-    "timestamp": "2026-11-08T21:25:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xtwxyt1421431860.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uwbfw01784719173.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Seattle Seahawks vs Arizona Cardinals",
-    "timestamp": "2026-11-08T21:25:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/1t84c51784752684.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/i1g1wg1784712239.png"
   },
   {
     "league": "NBA",
@@ -22988,13 +21707,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/4j85bn1667936589.png"
   },
   {
-    "league": "NFL",
-    "title": "Chicago Bears vs Tampa Bay Buccaneers",
-    "timestamp": "2026-11-09T01:20:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/0m51zd1784716955.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/2dfpdl1537820969.png"
-  },
-  {
     "league": "NBA",
     "title": "Los Angeles Clippers vs New Orleans Pelicans",
     "timestamp": "2026-11-09T02:00:00",
@@ -23049,13 +21761,6 @@
     "timestamp": "2026-11-10T01:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/s5dx7c1778197536.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/y3lutb1778226511.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Minnesota Vikings vs Buffalo Bills",
-    "timestamp": "2026-11-10T01:15:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/nyp3ev1784722510.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/j4r1tn1784714823.png"
   },
   {
     "league": "NBA",
@@ -23380,13 +22085,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/s5dx7c1778197536.png"
   },
   {
-    "league": "NFL",
-    "title": "New York Giants vs Washington Commanders",
-    "timestamp": "2026-11-13T01:15:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/i9muak1784751331.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rn0c7v1643826119.png"
-  },
-  {
     "league": "NHL",
     "title": "Utah Mammoth vs St. Louis Blues",
     "timestamp": "2026-11-13T02:00:00",
@@ -23618,13 +22316,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/v8vkk11619536610.png"
   },
   {
-    "league": "NFL",
-    "title": "Detroit Lions vs New England Patriots",
-    "timestamp": "2026-11-15T14:30:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/lgsgkr1546168257.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xtwxyt1421431860.png"
-  },
-  {
     "league": "NBA",
     "title": "Philadelphia 76ers vs Indiana Pacers",
     "timestamp": "2026-11-15T18:00:00",
@@ -23632,81 +22323,11 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/y3lutb1778226511.png"
   },
   {
-    "league": "NFL",
-    "title": "Atlanta Falcons vs Kansas City Chiefs",
-    "timestamp": "2026-11-15T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/9ucfd41784714178.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/n58gp51784720929.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Cleveland Browns vs Houston Texans",
-    "timestamp": "2026-11-15T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/g7qhkz1784717593.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/o71ce41784719551.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Green Bay Packers vs Minnesota Vikings",
-    "timestamp": "2026-11-15T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/uwbfw01784719173.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/nyp3ev1784722510.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Tennessee Titans vs Jacksonville Jaguars",
-    "timestamp": "2026-11-15T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3td0f41779180767.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/0mrsd41546427902.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Indianapolis Colts vs Miami Dolphins",
-    "timestamp": "2026-11-15T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/im99lm1784720368.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/e803xt1784722221.png"
-  },
-  {
-    "league": "NFL",
-    "title": "New Orleans Saints vs Carolina Panthers",
-    "timestamp": "2026-11-15T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/nd46c71537821337.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/kbqini1784716157.png"
-  },
-  {
-    "league": "NFL",
-    "title": "New York Jets vs Buffalo Bills",
-    "timestamp": "2026-11-15T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/6bnwoc1784751677.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/j4r1tn1784714823.png"
-  },
-  {
     "league": "NBA",
     "title": "Phoenix Suns vs Los Angeles Lakers",
     "timestamp": "2026-11-15T21:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xfyknc1778198971.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/d8uoxw1714254511.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Las Vegas Raiders vs Seattle Seahawks",
-    "timestamp": "2026-11-15T21:05:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/4t8xtk1784721179.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/1t84c51784752684.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Arizona Cardinals vs Los Angeles Rams",
-    "timestamp": "2026-11-15T21:05:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/i1g1wg1784712239.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ojw15x1784721865.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Dallas Cowboys vs San Francisco 49ers",
-    "timestamp": "2026-11-15T21:25:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/76ew3c1784718447.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/bqbtg61539537328.png"
   },
   {
     "league": "NBA",
@@ -23770,13 +22391,6 @@
     "timestamp": "2026-11-16T01:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/olhug01621594702.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/7o1noy1778226315.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Cincinnati Bengals vs Pittsburgh Steelers",
-    "timestamp": "2026-11-16T01:20:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/h1ce8y1784717263.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/2975411515853129.png"
   },
   {
     "league": "NHL",
@@ -23854,13 +22468,6 @@
     "timestamp": "2026-11-17T01:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xoxjsr1778226698.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xokycb1778197905.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Baltimore Ravens vs Los Angeles Chargers",
-    "timestamp": "2026-11-17T01:15:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/einz3p1546172463.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wmi40u1784721460.png"
   },
   {
     "league": "NBA",
@@ -24185,13 +22792,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/3gtb8s1719303125.png"
   },
   {
-    "league": "NFL",
-    "title": "Houston Texans vs Indianapolis Colts",
-    "timestamp": "2026-11-20T01:15:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/o71ce41784719551.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/im99lm1784720368.png"
-  },
-  {
     "league": "NHL",
     "title": "Colorado Avalanche vs Anaheim Ducks",
     "timestamp": "2026-11-20T02:00:00",
@@ -24493,81 +23093,11 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/v07m3x1547232585.png"
   },
   {
-    "league": "NFL",
-    "title": "Buffalo Bills vs Miami Dolphins",
-    "timestamp": "2026-11-22T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/j4r1tn1784714823.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/e803xt1784722221.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Chicago Bears vs New Orleans Saints",
-    "timestamp": "2026-11-22T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/0m51zd1784716955.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/nd46c71537821337.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Dallas Cowboys vs Tennessee Titans",
-    "timestamp": "2026-11-22T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/76ew3c1784718447.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/3td0f41779180767.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Detroit Lions vs Tampa Bay Buccaneers",
-    "timestamp": "2026-11-22T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/lgsgkr1546168257.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/2dfpdl1537820969.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Kansas City Chiefs vs Arizona Cardinals",
-    "timestamp": "2026-11-22T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/n58gp51784720929.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/i1g1wg1784712239.png"
-  },
-  {
-    "league": "NFL",
-    "title": "New York Giants vs Jacksonville Jaguars",
-    "timestamp": "2026-11-22T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/i9muak1784751331.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/0mrsd41546427902.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Carolina Panthers vs Baltimore Ravens",
-    "timestamp": "2026-11-22T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/kbqini1784716157.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/einz3p1546172463.png"
-  },
-  {
     "league": "NBA",
     "title": "Atlanta Hawks vs Detroit Pistons",
     "timestamp": "2026-11-22T20:30:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/7o1noy1778226315.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/lg7qrc1621594751.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Los Angeles Chargers vs New York Jets",
-    "timestamp": "2026-11-22T21:05:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wmi40u1784721460.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/6bnwoc1784751677.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Denver Broncos vs Las Vegas Raiders",
-    "timestamp": "2026-11-22T21:25:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/zy3m9v1784718707.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/4t8xtk1784721179.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Philadelphia Eagles vs Pittsburgh Steelers",
-    "timestamp": "2026-11-22T21:25:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/pnpybf1515852421.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/2975411515853129.png"
   },
   {
     "league": "NHL",
@@ -24631,13 +23161,6 @@
     "timestamp": "2026-11-23T01:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/4k8obt1778226764.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/y3lutb1778226511.png"
-  },
-  {
-    "league": "NFL",
-    "title": "San Francisco 49ers vs Minnesota Vikings",
-    "timestamp": "2026-11-23T01:20:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/bqbtg61539537328.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/nyp3ev1784722510.png"
   },
   {
     "league": "NBA",
@@ -24729,13 +23252,6 @@
     "timestamp": "2026-11-24T01:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xoxjsr1778226698.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xfyknc1778198971.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Washington Commanders vs Cincinnati Bengals",
-    "timestamp": "2026-11-24T01:15:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/rn0c7v1643826119.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/h1ce8y1784717263.png"
   },
   {
     "league": "NBA",
@@ -24920,13 +23436,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/hkafe61739948361.png"
   },
   {
-    "league": "NFL",
-    "title": "Los Angeles Rams vs Green Bay Packers",
-    "timestamp": "2026-11-26T01:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ojw15x1784721865.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uwbfw01784719173.png"
-  },
-  {
     "league": "NBA",
     "title": "Houston Rockets vs Phoenix Suns",
     "timestamp": "2026-11-26T01:30:00",
@@ -24967,27 +23476,6 @@
     "timestamp": "2026-11-26T03:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/umehtv1778226952.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yc5qfx1781459158.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Detroit Lions vs Chicago Bears",
-    "timestamp": "2026-11-26T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/lgsgkr1546168257.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/0m51zd1784716955.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Dallas Cowboys vs Philadelphia Eagles",
-    "timestamp": "2026-11-26T21:30:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/76ew3c1784718447.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/pnpybf1515852421.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Buffalo Bills vs Kansas City Chiefs",
-    "timestamp": "2026-11-27T01:20:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/j4r1tn1784714823.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/n58gp51784720929.png"
   },
   {
     "league": "NHL",
@@ -25044,13 +23532,6 @@
     "timestamp": "2026-11-27T20:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/99ca9a1638974052.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/8qtaz11547158220.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Pittsburgh Steelers vs Denver Broncos",
-    "timestamp": "2026-11-27T20:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/2975411515853129.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/zy3m9v1784718707.png"
   },
   {
     "league": "NHL",
@@ -25375,48 +23856,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uxxsyw1421618428.png"
   },
   {
-    "league": "NFL",
-    "title": "Cincinnati Bengals vs New Orleans Saints",
-    "timestamp": "2026-11-29T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/h1ce8y1784717263.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/nd46c71537821337.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Cleveland Browns vs Las Vegas Raiders",
-    "timestamp": "2026-11-29T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/g7qhkz1784717593.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/4t8xtk1784721179.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Indianapolis Colts vs New York Giants",
-    "timestamp": "2026-11-29T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/im99lm1784720368.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/i9muak1784751331.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Miami Dolphins vs New York Jets",
-    "timestamp": "2026-11-29T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/e803xt1784722221.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/6bnwoc1784751677.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Minnesota Vikings vs Atlanta Falcons",
-    "timestamp": "2026-11-29T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/nyp3ev1784722510.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/9ucfd41784714178.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Houston Texans vs Baltimore Ravens",
-    "timestamp": "2026-11-29T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/o71ce41784719551.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/einz3p1546172463.png"
-  },
-  {
     "league": "NHL",
     "title": "Chicago Blackhawks vs Minnesota Wild",
     "timestamp": "2026-11-29T19:00:00",
@@ -25436,27 +23875,6 @@
     "timestamp": "2026-11-29T21:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/yc5qfx1781459158.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/4j85bn1667936589.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Jacksonville Jaguars vs Tennessee Titans",
-    "timestamp": "2026-11-29T21:05:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/0mrsd41546427902.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/3td0f41779180767.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Arizona Cardinals vs Washington Commanders",
-    "timestamp": "2026-11-29T21:25:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/i1g1wg1784712239.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rn0c7v1643826119.png"
-  },
-  {
-    "league": "NFL",
-    "title": "San Francisco 49ers vs Seattle Seahawks",
-    "timestamp": "2026-11-29T21:25:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/bqbtg61539537328.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/1t84c51784752684.png"
   },
   {
     "league": "NHL",
@@ -25506,13 +23924,6 @@
     "timestamp": "2026-11-29T23:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/pch9ct1778195828.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/b9tye31778226616.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Los Angeles Chargers vs New England Patriots",
-    "timestamp": "2026-11-30T01:20:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wmi40u1784721460.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xtwxyt1421431860.png"
   },
   {
     "league": "NBA",
@@ -25604,13 +24015,6 @@
     "timestamp": "2026-12-01T01:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/s5dx7c1778197536.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/4j85bn1667936589.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Tampa Bay Buccaneers vs Carolina Panthers",
-    "timestamp": "2026-12-01T01:15:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/2dfpdl1537820969.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/kbqini1784716157.png"
   },
   {
     "league": "NHL",
@@ -25991,13 +24395,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/lct96a1778227205.png"
   },
   {
-    "league": "NFL",
-    "title": "Los Angeles Rams vs Kansas City Chiefs",
-    "timestamp": "2026-12-04T01:15:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ojw15x1784721865.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/n58gp51784720929.png"
-  },
-  {
     "league": "NHL",
     "title": "Seattle Kraken vs Dallas Stars",
     "timestamp": "2026-12-04T03:00:00",
@@ -26208,88 +24605,11 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/qrvywq1422042125.png"
   },
   {
-    "league": "NFL",
-    "title": "Atlanta Falcons vs Detroit Lions",
-    "timestamp": "2026-12-06T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/9ucfd41784714178.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/lgsgkr1546168257.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Chicago Bears vs Jacksonville Jaguars",
-    "timestamp": "2026-12-06T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/0m51zd1784716955.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/0mrsd41546427902.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Cleveland Browns vs Cincinnati Bengals",
-    "timestamp": "2026-12-06T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/g7qhkz1784717593.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/h1ce8y1784717263.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Tennessee Titans vs Washington Commanders",
-    "timestamp": "2026-12-06T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3td0f41779180767.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rn0c7v1643826119.png"
-  },
-  {
-    "league": "NFL",
-    "title": "New Orleans Saints vs Green Bay Packers",
-    "timestamp": "2026-12-06T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/nd46c71537821337.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uwbfw01784719173.png"
-  },
-  {
-    "league": "NFL",
-    "title": "New York Giants vs San Francisco 49ers",
-    "timestamp": "2026-12-06T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/i9muak1784751331.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/bqbtg61539537328.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Tampa Bay Buccaneers vs Los Angeles Chargers",
-    "timestamp": "2026-12-06T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/2dfpdl1537820969.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wmi40u1784721460.png"
-  },
-  {
     "league": "NHL",
     "title": "Pittsburgh Penguins vs San Jose Sharks",
     "timestamp": "2026-12-06T20:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/dsj3on1546192477.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yui7871546193006.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Denver Broncos vs Miami Dolphins",
-    "timestamp": "2026-12-06T21:05:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/zy3m9v1784718707.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/e803xt1784722221.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Arizona Cardinals vs Philadelphia Eagles",
-    "timestamp": "2026-12-06T21:05:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/i1g1wg1784712239.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/pnpybf1515852421.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Minnesota Vikings vs Carolina Panthers",
-    "timestamp": "2026-12-06T21:25:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/nyp3ev1784722510.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/kbqini1784716157.png"
-  },
-  {
-    "league": "NFL",
-    "title": "New England Patriots vs Buffalo Bills",
-    "timestamp": "2026-12-06T21:25:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xtwxyt1421431860.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/j4r1tn1784714823.png"
   },
   {
     "league": "NHL",
@@ -26327,13 +24647,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/3m3jhp1619536655.png"
   },
   {
-    "league": "NFL",
-    "title": "Pittsburgh Steelers vs Houston Texans",
-    "timestamp": "2026-12-07T01:20:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/2975411515853129.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/o71ce41784719551.png"
-  },
-  {
     "league": "NHL",
     "title": "New York Islanders vs Colorado Avalanche",
     "timestamp": "2026-12-07T18:00:00",
@@ -26353,13 +24666,6 @@
     "timestamp": "2026-12-08T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/swysut1421791822.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ssytwt1421792535.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Seattle Seahawks vs Dallas Cowboys",
-    "timestamp": "2026-12-08T01:15:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/1t84c51784752684.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/76ew3c1784718447.png"
   },
   {
     "league": "NHL",
@@ -26514,13 +24820,6 @@
     "timestamp": "2026-12-11T01:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/bwn9hr1547233611.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/tuwyvr1422041801.png"
-  },
-  {
-    "league": "NFL",
-    "title": "New England Patriots vs Minnesota Vikings",
-    "timestamp": "2026-12-11T01:15:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xtwxyt1421431860.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/nyp3ev1784722510.png"
   },
   {
     "league": "NHL",
@@ -26796,62 +25095,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/b1r86e1720023232.png"
   },
   {
-    "league": "NFL",
-    "title": "Cleveland Browns vs Atlanta Falcons",
-    "timestamp": "2026-12-13T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/g7qhkz1784717593.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/9ucfd41784714178.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Detroit Lions vs Tennessee Titans",
-    "timestamp": "2026-12-13T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/lgsgkr1546168257.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/3td0f41779180767.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Miami Dolphins vs Chicago Bears",
-    "timestamp": "2026-12-13T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/e803xt1784722221.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/0m51zd1784716955.png"
-  },
-  {
-    "league": "NFL",
-    "title": "New York Jets vs Denver Broncos",
-    "timestamp": "2026-12-13T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/6bnwoc1784751677.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/zy3m9v1784718707.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Philadelphia Eagles vs Indianapolis Colts",
-    "timestamp": "2026-12-13T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/pnpybf1515852421.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/im99lm1784720368.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Washington Commanders vs Houston Texans",
-    "timestamp": "2026-12-13T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/rn0c7v1643826119.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/o71ce41784719551.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Carolina Panthers vs New Orleans Saints",
-    "timestamp": "2026-12-13T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/kbqini1784716157.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/nd46c71537821337.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Baltimore Ravens vs Tampa Bay Buccaneers",
-    "timestamp": "2026-12-13T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/einz3p1546172463.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/2dfpdl1537820969.png"
-  },
-  {
     "league": "NBA",
     "title": "Brooklyn Nets vs Boston Celtics",
     "timestamp": "2026-12-13T20:00:00",
@@ -26864,34 +25107,6 @@
     "timestamp": "2026-12-13T20:30:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/bkhj5p1778199006.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/lct96a1778227205.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Las Vegas Raiders vs Los Angeles Chargers",
-    "timestamp": "2026-12-13T21:05:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/4t8xtk1784721179.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wmi40u1784721460.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Cincinnati Bengals vs Kansas City Chiefs",
-    "timestamp": "2026-12-13T21:25:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/h1ce8y1784717263.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/n58gp51784720929.png"
-  },
-  {
-    "league": "NFL",
-    "title": "San Francisco 49ers vs Los Angeles Rams",
-    "timestamp": "2026-12-13T21:25:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/bqbtg61539537328.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ojw15x1784721865.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Seattle Seahawks vs New York Giants",
-    "timestamp": "2026-12-13T21:25:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/1t84c51784752684.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/i9muak1784751331.png"
   },
   {
     "league": "NBA",
@@ -26934,13 +25149,6 @@
     "timestamp": "2026-12-14T01:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/rsqtwx1422053715.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/swysut1421791822.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Green Bay Packers vs Buffalo Bills",
-    "timestamp": "2026-12-14T01:20:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/uwbfw01784719173.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/j4r1tn1784714823.png"
   },
   {
     "league": "NBA",
@@ -27018,13 +25226,6 @@
     "timestamp": "2026-12-15T01:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/v44qp21778197640.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xokycb1778197905.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Jacksonville Jaguars vs Pittsburgh Steelers",
-    "timestamp": "2026-12-15T01:15:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/0mrsd41546427902.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/2975411515853129.png"
   },
   {
     "league": "NBA",
@@ -27342,13 +25543,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/qrvywq1422042125.png"
   },
   {
-    "league": "NFL",
-    "title": "Los Angeles Chargers vs San Francisco 49ers",
-    "timestamp": "2026-12-18T01:15:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wmi40u1784721460.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/bqbtg61539537328.png"
-  },
-  {
     "league": "NHL",
     "title": "Utah Mammoth vs Carolina Hurricanes",
     "timestamp": "2026-12-18T02:00:00",
@@ -27594,13 +25788,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/w5m2ab1746690303.png"
   },
   {
-    "league": "NFL",
-    "title": "Philadelphia Eagles vs Seattle Seahawks",
-    "timestamp": "2026-12-19T22:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/pnpybf1515852421.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/1t84c51784752684.png"
-  },
-  {
     "league": "NBA",
     "title": "Charlotte Hornets vs Portland Trail Blazers",
     "timestamp": "2026-12-19T23:00:00",
@@ -27657,13 +25844,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ehq8l31778197349.png"
   },
   {
-    "league": "NFL",
-    "title": "Buffalo Bills vs Chicago Bears",
-    "timestamp": "2026-12-20T01:20:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/j4r1tn1784714823.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/0m51zd1784716955.png"
-  },
-  {
     "league": "NBA",
     "title": "Denver Nuggets vs Los Angeles Lakers",
     "timestamp": "2026-12-20T02:00:00",
@@ -27692,62 +25872,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/qxxppp1421794965.png"
   },
   {
-    "league": "NFL",
-    "title": "Green Bay Packers vs Miami Dolphins",
-    "timestamp": "2026-12-20T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/uwbfw01784719173.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/e803xt1784722221.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Tennessee Titans vs Indianapolis Colts",
-    "timestamp": "2026-12-20T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3td0f41779180767.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/im99lm1784720368.png"
-  },
-  {
-    "league": "NFL",
-    "title": "New York Giants vs Cleveland Browns",
-    "timestamp": "2026-12-20T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/i9muak1784751331.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/g7qhkz1784717593.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Pittsburgh Steelers vs Baltimore Ravens",
-    "timestamp": "2026-12-20T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/2975411515853129.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/einz3p1546172463.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Tampa Bay Buccaneers vs New Orleans Saints",
-    "timestamp": "2026-12-20T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/2dfpdl1537820969.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/nd46c71537821337.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Washington Commanders vs Atlanta Falcons",
-    "timestamp": "2026-12-20T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/rn0c7v1643826119.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/9ucfd41784714178.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Carolina Panthers vs Cincinnati Bengals",
-    "timestamp": "2026-12-20T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/kbqini1784716157.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/h1ce8y1784717263.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Houston Texans vs Jacksonville Jaguars",
-    "timestamp": "2026-12-20T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/o71ce41784719551.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/0mrsd41546427902.png"
-  },
-  {
     "league": "NBA",
     "title": "Brooklyn Nets vs Washington Wizards",
     "timestamp": "2026-12-20T20:00:00",
@@ -27767,27 +25891,6 @@
     "timestamp": "2026-12-20T21:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/v44qp21778197640.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xfyknc1778198971.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Arizona Cardinals vs New York Jets",
-    "timestamp": "2026-12-20T21:05:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/i1g1wg1784712239.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/6bnwoc1784751677.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Las Vegas Raiders vs Denver Broncos",
-    "timestamp": "2026-12-20T21:25:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/4t8xtk1784721179.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/zy3m9v1784718707.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Los Angeles Rams vs Dallas Cowboys",
-    "timestamp": "2026-12-20T21:25:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ojw15x1784721865.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/76ew3c1784718447.png"
   },
   {
     "league": "NHL",
@@ -27881,13 +25984,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xokycb1778197905.png"
   },
   {
-    "league": "NFL",
-    "title": "Minnesota Vikings vs Detroit Lions",
-    "timestamp": "2026-12-21T01:20:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/nyp3ev1784722510.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/lgsgkr1546168257.png"
-  },
-  {
     "league": "NBA",
     "title": "Los Angeles Clippers vs Indiana Pacers",
     "timestamp": "2026-12-21T03:00:00",
@@ -27970,13 +26066,6 @@
     "timestamp": "2026-12-22T01:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/yc5qfx1781459158.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/olhug01621594702.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Kansas City Chiefs vs New England Patriots",
-    "timestamp": "2026-12-22T01:15:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/n58gp51784720929.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xtwxyt1421431860.png"
   },
   {
     "league": "NHL",
@@ -28210,13 +26299,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xokycb1778197905.png"
   },
   {
-    "league": "NFL",
-    "title": "Philadelphia Eagles vs Houston Texans",
-    "timestamp": "2026-12-25T01:15:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/pnpybf1515852421.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/o71ce41784719551.png"
-  },
-  {
     "league": "NBA",
     "title": "New York Knicks vs San Antonio Spurs",
     "timestamp": "2026-12-25T17:00:00",
@@ -28224,25 +26306,11 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yc5qfx1781459158.png"
   },
   {
-    "league": "NFL",
-    "title": "Chicago Bears vs Green Bay Packers",
-    "timestamp": "2026-12-25T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/0m51zd1784716955.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uwbfw01784719173.png"
-  },
-  {
     "league": "NBA",
     "title": "Boston Celtics vs Miami Heat",
     "timestamp": "2026-12-25T19:30:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/4j85bn1667936589.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/b9tye31778226616.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Denver Broncos vs Buffalo Bills",
-    "timestamp": "2026-12-25T21:30:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/zy3m9v1784718707.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/j4r1tn1784714823.png"
   },
   {
     "league": "NBA",
@@ -28257,13 +26325,6 @@
     "timestamp": "2026-12-26T01:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/epenxg1781034811.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/bkhj5p1778199006.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Seattle Seahawks vs Los Angeles Rams",
-    "timestamp": "2026-12-26T01:15:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/1t84c51784752684.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ojw15x1784721865.png"
   },
   {
     "league": "NBA",
@@ -28427,34 +26488,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/lct96a1778227205.png"
   },
   {
-    "league": "NFL",
-    "title": "Atlanta Falcons vs Tampa Bay Buccaneers",
-    "timestamp": "2026-12-27T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/9ucfd41784714178.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/2dfpdl1537820969.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Indianapolis Colts vs Cincinnati Bengals",
-    "timestamp": "2026-12-27T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/im99lm1784720368.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/h1ce8y1784717263.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Minnesota Vikings vs Washington Commanders",
-    "timestamp": "2026-12-27T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/nyp3ev1784722510.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rn0c7v1643826119.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Pittsburgh Steelers vs Carolina Panthers",
-    "timestamp": "2026-12-27T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/2975411515853129.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/kbqini1784716157.png"
-  },
-  {
     "league": "NHL",
     "title": "Washington Capitals vs Columbus Blue Jackets",
     "timestamp": "2026-12-27T01:00:00",
@@ -28504,34 +26537,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/v44qp21778197640.png"
   },
   {
-    "league": "NFL",
-    "title": "Miami Dolphins vs Los Angeles Chargers",
-    "timestamp": "2026-12-27T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/e803xt1784722221.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wmi40u1784721460.png"
-  },
-  {
-    "league": "NFL",
-    "title": "New Orleans Saints vs Arizona Cardinals",
-    "timestamp": "2026-12-27T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/nd46c71537821337.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/i1g1wg1784712239.png"
-  },
-  {
-    "league": "NFL",
-    "title": "New York Jets vs New England Patriots",
-    "timestamp": "2026-12-27T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/6bnwoc1784751677.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xtwxyt1421431860.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Baltimore Ravens vs Cleveland Browns",
-    "timestamp": "2026-12-27T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/einz3p1546172463.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/g7qhkz1784717593.png"
-  },
-  {
     "league": "NHL",
     "title": "Chicago Blackhawks vs Philadelphia Flyers",
     "timestamp": "2026-12-27T20:00:00",
@@ -28544,20 +26549,6 @@
     "timestamp": "2026-12-27T20:30:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/azoktf1780729261.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/bkhj5p1778199006.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Las Vegas Raiders vs Tennessee Titans",
-    "timestamp": "2026-12-27T21:05:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/4t8xtk1784721179.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/3td0f41779180767.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Kansas City Chiefs vs San Francisco 49ers",
-    "timestamp": "2026-12-27T21:25:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/n58gp51784720929.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/bqbtg61539537328.png"
   },
   {
     "league": "NHL",
@@ -28658,13 +26649,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/y3lutb1778226511.png"
   },
   {
-    "league": "NFL",
-    "title": "Dallas Cowboys vs Jacksonville Jaguars",
-    "timestamp": "2026-12-28T01:20:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/76ew3c1784718447.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/0mrsd41546427902.png"
-  },
-  {
     "league": "NBA",
     "title": "Golden State Warriors vs Minnesota Timberwolves",
     "timestamp": "2026-12-28T01:30:00",
@@ -28740,13 +26724,6 @@
     "timestamp": "2026-12-29T01:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/4j85bn1667936589.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/pch9ct1778195828.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Detroit Lions vs New York Giants",
-    "timestamp": "2026-12-29T01:15:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/lgsgkr1546168257.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/i9muak1784751331.png"
   },
   {
     "league": "NBA",
@@ -29162,13 +27139,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/b9tye31778226616.png"
   },
   {
-    "league": "NFL",
-    "title": "Cincinnati Bengals vs Baltimore Ravens",
-    "timestamp": "2027-01-01T01:15:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/h1ce8y1784717263.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/einz3p1546172463.png"
-  },
-  {
     "league": "NHL",
     "title": "Dallas Stars vs New York Rangers",
     "timestamp": "2027-01-01T02:00:00",
@@ -29421,34 +27391,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/b9tye31778226616.png"
   },
   {
-    "league": "NFL",
-    "title": "New England Patriots vs Denver Broncos",
-    "timestamp": "2027-01-03T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xtwxyt1421431860.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/zy3m9v1784718707.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Los Angeles Chargers vs Kansas City Chiefs",
-    "timestamp": "2027-01-03T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wmi40u1784721460.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/n58gp51784720929.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Tampa Bay Buccaneers vs Los Angeles Rams",
-    "timestamp": "2027-01-03T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/2dfpdl1537820969.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ojw15x1784721865.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Jacksonville Jaguars vs Washington Commanders",
-    "timestamp": "2027-01-03T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/0mrsd41546427902.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rn0c7v1643826119.png"
-  },
-  {
     "league": "NBA",
     "title": "Atlanta Hawks vs Dallas Mavericks",
     "timestamp": "2027-01-03T00:30:00",
@@ -29526,74 +27468,11 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/4j85bn1667936589.png"
   },
   {
-    "league": "NFL",
-    "title": "Atlanta Falcons vs New Orleans Saints",
-    "timestamp": "2027-01-03T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/9ucfd41784714178.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/nd46c71537821337.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Cleveland Browns vs Indianapolis Colts",
-    "timestamp": "2027-01-03T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/g7qhkz1784717593.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/im99lm1784720368.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Dallas Cowboys vs New York Giants",
-    "timestamp": "2027-01-03T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/76ew3c1784718447.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/i9muak1784751331.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Tennessee Titans vs Pittsburgh Steelers",
-    "timestamp": "2027-01-03T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3td0f41779180767.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/2975411515853129.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Miami Dolphins vs Buffalo Bills",
-    "timestamp": "2027-01-03T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/e803xt1784722221.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/j4r1tn1784714823.png"
-  },
-  {
-    "league": "NFL",
-    "title": "New York Jets vs Minnesota Vikings",
-    "timestamp": "2027-01-03T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/6bnwoc1784751677.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/nyp3ev1784722510.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Carolina Panthers vs Seattle Seahawks",
-    "timestamp": "2027-01-03T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/kbqini1784716157.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/1t84c51784752684.png"
-  },
-  {
     "league": "NHL",
     "title": "Pittsburgh Penguins vs Edmonton Oilers",
     "timestamp": "2027-01-03T20:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/dsj3on1546192477.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uxxsyw1421618428.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Arizona Cardinals vs Las Vegas Raiders",
-    "timestamp": "2027-01-03T21:05:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/i1g1wg1784712239.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/4t8xtk1784721179.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Chicago Bears vs Detroit Lions",
-    "timestamp": "2027-01-03T21:25:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/0m51zd1784716955.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/lgsgkr1546168257.png"
   },
   {
     "league": "NBA",
@@ -29680,13 +27559,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/k2buwo1778227426.png"
   },
   {
-    "league": "NFL",
-    "title": "San Francisco 49ers vs Philadelphia Eagles",
-    "timestamp": "2027-01-04T01:20:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/bqbtg61539537328.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/pnpybf1515852421.png"
-  },
-  {
     "league": "NBA",
     "title": "Philadelphia 76ers vs Atlanta Hawks",
     "timestamp": "2027-01-05T00:00:00",
@@ -29734,13 +27606,6 @@
     "timestamp": "2027-01-05T01:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xoxjsr1778226698.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/s5dx7c1778197536.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Green Bay Packers vs Houston Texans",
-    "timestamp": "2027-01-05T01:15:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/uwbfw01784719173.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/o71ce41784719551.png"
   },
   {
     "league": "NHL",
@@ -30364,118 +28229,6 @@
     "timestamp": "2027-01-10T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/y3lutb1778226511.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/olhug01621594702.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Buffalo Bills vs New York Jets",
-    "timestamp": "2027-01-10T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/j4r1tn1784714823.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/6bnwoc1784751677.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Cincinnati Bengals vs Cleveland Browns",
-    "timestamp": "2027-01-10T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/h1ce8y1784717263.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/g7qhkz1784717593.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Denver Broncos vs Los Angeles Chargers",
-    "timestamp": "2027-01-10T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/zy3m9v1784718707.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wmi40u1784721460.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Green Bay Packers vs Detroit Lions",
-    "timestamp": "2027-01-10T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/uwbfw01784719173.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/lgsgkr1546168257.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Indianapolis Colts vs Jacksonville Jaguars",
-    "timestamp": "2027-01-10T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/im99lm1784720368.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/0mrsd41546427902.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Kansas City Chiefs vs Las Vegas Raiders",
-    "timestamp": "2027-01-10T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/n58gp51784720929.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/4t8xtk1784721179.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Los Angeles Rams vs Seattle Seahawks",
-    "timestamp": "2027-01-10T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ojw15x1784721865.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/1t84c51784752684.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Minnesota Vikings vs Chicago Bears",
-    "timestamp": "2027-01-10T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/nyp3ev1784722510.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/0m51zd1784716955.png"
-  },
-  {
-    "league": "NFL",
-    "title": "New England Patriots vs Miami Dolphins",
-    "timestamp": "2027-01-10T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xtwxyt1421431860.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/e803xt1784722221.png"
-  },
-  {
-    "league": "NFL",
-    "title": "New Orleans Saints vs Tampa Bay Buccaneers",
-    "timestamp": "2027-01-10T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/nd46c71537821337.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/2dfpdl1537820969.png"
-  },
-  {
-    "league": "NFL",
-    "title": "New York Giants vs Philadelphia Eagles",
-    "timestamp": "2027-01-10T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/i9muak1784751331.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/pnpybf1515852421.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Arizona Cardinals vs San Francisco 49ers",
-    "timestamp": "2027-01-10T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/i1g1wg1784712239.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/bqbtg61539537328.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Washington Commanders vs Dallas Cowboys",
-    "timestamp": "2027-01-10T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/rn0c7v1643826119.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/76ew3c1784718447.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Carolina Panthers vs Atlanta Falcons",
-    "timestamp": "2027-01-10T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/kbqini1784716157.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/9ucfd41784714178.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Baltimore Ravens vs Pittsburgh Steelers",
-    "timestamp": "2027-01-10T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/einz3p1546172463.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/2975411515853129.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Houston Texans vs Tennessee Titans",
-    "timestamp": "2027-01-10T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/o71ce41784719551.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/3td0f41779180767.png"
   },
   {
     "league": "NHL",
@@ -32067,13 +29820,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xqtvvp1422380623.png"
   },
   {
-    "league": "NFL",
-    "title": "San Diego Chargers vs San Diego Chargers",
-    "timestamp": "2027-01-24T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/rtputr1421812863.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rtputr1421812863.png"
-  },
-  {
     "league": "NHL",
     "title": "New York Islanders vs Seattle Kraken",
     "timestamp": "2027-01-24T00:30:00",
@@ -32898,13 +30644,6 @@
     "timestamp": "2027-01-31T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/y3lutb1778226511.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/dxac7a1778227278.png"
-  },
-  {
-    "league": "NFL",
-    "title": "San Diego Chargers vs San Diego Chargers",
-    "timestamp": "2027-01-31T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/rtputr1421812863.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rtputr1421812863.png"
   },
   {
     "league": "NBA",
@@ -34256,13 +31995,6 @@
     "timestamp": "2027-02-14T20:30:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/umehtv1778226952.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ehq8l31778197349.png"
-  },
-  {
-    "league": "NFL",
-    "title": "San Diego Chargers vs San Diego Chargers",
-    "timestamp": "2027-02-14T23:30:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/rtputr1421812863.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rtputr1421812863.png"
   },
   {
     "league": "NBA",
