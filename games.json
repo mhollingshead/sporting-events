@@ -7858,7 +7858,7 @@
     "title": "England vs Croatia",
     "timestamp": "2026-06-17T20:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/vf5ttc1726166739.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/vvtsyu1455465317.png"
+    "awayBadge": "https://www.thesportsdb.com/images/media/team/badge/84cfeg1789271106.png"
   },
   {
     "league": "MLB",
@@ -8558,7 +8558,7 @@
     "title": "Panama vs Croatia",
     "timestamp": "2026-06-23T23:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/asp2ck1715849700.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/vvtsyu1455465317.png"
+    "awayBadge": "https://www.thesportsdb.com/images/media/team/badge/84cfeg1789271106.png"
   },
   {
     "league": "MLB",
@@ -9075,7 +9075,7 @@
     "league": "FIFA World Cup",
     "title": "Croatia vs Ghana",
     "timestamp": "2026-06-27T21:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/vvtsyu1455465317.png",
+    "homeBadge": "https://www.thesportsdb.com/images/media/team/badge/84cfeg1789271106.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/j589xw1751526124.png"
   },
   {
@@ -9685,7 +9685,7 @@
     "title": "Portugal vs Croatia",
     "timestamp": "2026-07-02T23:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/swqvpy1455466083.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/vvtsyu1455465317.png"
+    "awayBadge": "https://www.thesportsdb.com/images/media/team/badge/84cfeg1789271106.png"
   },
   {
     "league": "MLB",
@@ -16633,13 +16633,6 @@
   },
   {
     "league": "MLB",
-    "title": "Boston Red Sox vs Kansas City Royals",
-    "timestamp": "2026-09-13T17:35:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/stpsus1425120215.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ii3rz81554031260.png"
-  },
-  {
-    "league": "MLB",
     "title": "New York Yankees vs New York Mets",
     "timestamp": "2026-09-13T17:35:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqwwxx1423478766.png",
@@ -16700,6 +16693,13 @@
     "timestamp": "2026-09-13T18:20:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/kw6uqr1617527138.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Boston Red Sox vs Kansas City Royals",
+    "timestamp": "2026-09-13T19:05:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/stpsus1425120215.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ii3rz81554031260.png"
   },
   {
     "league": "MLB",
