@@ -18103,6 +18103,20 @@
   },
   {
     "league": "MLB",
+    "title": "Boston Red Sox vs Chicago Cubs",
+    "timestamp": "2026-09-25T17:05:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/stpsus1425120215.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Boston Red Sox vs Chicago Cubs",
+    "timestamp": "2026-09-25T22:05:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/stpsus1425120215.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png"
+  },
+  {
+    "league": "MLB",
     "title": "Detroit Tigers vs Pittsburgh Pirates",
     "timestamp": "2026-09-25T22:40:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/9dib6o1554032173.png",
@@ -18142,13 +18156,6 @@
     "timestamp": "2026-09-25T23:07:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/f9zk3l1617527686.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wspusr1431538832.png"
-  },
-  {
-    "league": "MLB",
-    "title": "Boston Red Sox vs Chicago Cubs",
-    "timestamp": "2026-09-25T23:10:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/stpsus1425120215.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png"
   },
   {
     "league": "MLB",
@@ -18457,13 +18464,6 @@
     "timestamp": "2026-09-27T19:05:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3xrldf1617528682.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/littyt1554031623.png"
-  },
-  {
-    "league": "MLB",
-    "title": "Boston Red Sox vs Chicago Cubs",
-    "timestamp": "2026-09-27T19:05:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/stpsus1425120215.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png"
   },
   {
     "league": "MLB",
@@ -21973,6 +21973,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/b9tye31778226616.png"
   },
   {
+    "league": "Premier League",
+    "title": "Everton vs Coventry City",
+    "timestamp": "2026-11-06T20:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uxyqys1424033798.png"
+  },
+  {
     "league": "NHL",
     "title": "Buffalo Sabres vs Columbus Blue Jackets",
     "timestamp": "2026-11-07T00:00:00",
@@ -22058,10 +22065,10 @@
   },
   {
     "league": "Premier League",
-    "title": "Manchester United vs Aston Villa",
-    "timestamp": "2026-11-07T15:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uwzw561787679026.png"
+    "title": "Leeds United vs Tottenham Hotspur",
+    "timestamp": "2026-11-07T12:30:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png"
   },
   {
     "league": "Premier League",
@@ -22079,52 +22086,10 @@
   },
   {
     "league": "Premier League",
-    "title": "Everton vs Coventry City",
-    "timestamp": "2026-11-07T15:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uxyqys1424033798.png"
-  },
-  {
-    "league": "Premier League",
-    "title": "Brighton and Hove Albion vs Brentford",
-    "timestamp": "2026-11-07T15:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ywypts1448810904.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png"
-  },
-  {
-    "league": "Premier League",
-    "title": "Crystal Palace vs Liverpool",
-    "timestamp": "2026-11-07T15:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png"
-  },
-  {
-    "league": "Premier League",
-    "title": "Ipswich Town vs Bournemouth",
-    "timestamp": "2026-11-07T15:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/mdj1ey1634670785.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/y08nak1534071116.png"
-  },
-  {
-    "league": "Premier League",
-    "title": "Leeds United vs Tottenham Hotspur",
-    "timestamp": "2026-11-07T15:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png"
-  },
-  {
-    "league": "Premier League",
     "title": "Nottingham Forest vs Manchester City",
-    "timestamp": "2026-11-07T15:00:00",
+    "timestamp": "2026-11-07T17:30:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/sar2y41781740886.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png"
-  },
-  {
-    "league": "Premier League",
-    "title": "Sunderland vs Chelsea",
-    "timestamp": "2026-11-07T15:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/tprtus1448813498.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/pbf4ul1782638263.png"
   },
   {
     "league": "NHL",
@@ -22258,6 +22223,41 @@
     "timestamp": "2026-11-08T03:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/umehtv1778226952.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yc5qfx1781459158.png"
+  },
+  {
+    "league": "Premier League",
+    "title": "Brighton and Hove Albion vs Brentford",
+    "timestamp": "2026-11-08T14:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ywypts1448810904.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png"
+  },
+  {
+    "league": "Premier League",
+    "title": "Crystal Palace vs Liverpool",
+    "timestamp": "2026-11-08T14:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png"
+  },
+  {
+    "league": "Premier League",
+    "title": "Ipswich Town vs Bournemouth",
+    "timestamp": "2026-11-08T14:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/mdj1ey1634670785.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/y08nak1534071116.png"
+  },
+  {
+    "league": "Premier League",
+    "title": "Sunderland vs Chelsea",
+    "timestamp": "2026-11-08T14:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/tprtus1448813498.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/pbf4ul1782638263.png"
+  },
+  {
+    "league": "Premier League",
+    "title": "Manchester United vs Aston Villa",
+    "timestamp": "2026-11-08T16:30:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uwzw561787679026.png"
   },
   {
     "league": "NHL",
@@ -23507,10 +23507,10 @@
   },
   {
     "league": "Premier League",
-    "title": "Newcastle United vs Arsenal",
-    "timestamp": "2026-11-21T15:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png"
+    "title": "Manchester City vs Fulham",
+    "timestamp": "2026-11-21T12:30:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xwwvyt1448811086.png"
   },
   {
     "league": "Premier League",
@@ -23518,13 +23518,6 @@
     "timestamp": "2026-11-21T15:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/y08nak1534071116.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/sar2y41781740886.png"
-  },
-  {
-    "league": "Premier League",
-    "title": "Liverpool vs Manchester United",
-    "timestamp": "2026-11-21T15:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png"
   },
   {
     "league": "Premier League",
@@ -23542,27 +23535,6 @@
   },
   {
     "league": "Premier League",
-    "title": "Manchester City vs Fulham",
-    "timestamp": "2026-11-21T15:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xwwvyt1448811086.png"
-  },
-  {
-    "league": "Premier League",
-    "title": "Brentford vs Everton",
-    "timestamp": "2026-11-21T15:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png"
-  },
-  {
-    "league": "Premier League",
-    "title": "Hull City vs Brighton and Hove Albion",
-    "timestamp": "2026-11-21T15:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/fbqqda1601726113.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ywypts1448810904.png"
-  },
-  {
-    "league": "Premier League",
     "title": "Aston Villa vs Sunderland",
     "timestamp": "2026-11-21T15:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/uwzw561787679026.png",
@@ -23574,6 +23546,13 @@
     "timestamp": "2026-11-21T15:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/uxyqys1424033798.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png"
+  },
+  {
+    "league": "Premier League",
+    "title": "Newcastle United vs Arsenal",
+    "timestamp": "2026-11-21T17:30:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png"
   },
   {
     "league": "NHL",
@@ -23716,6 +23695,20 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/4j85bn1667936589.png"
   },
   {
+    "league": "Premier League",
+    "title": "Hull City vs Brighton and Hove Albion",
+    "timestamp": "2026-11-22T14:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/fbqqda1601726113.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ywypts1448810904.png"
+  },
+  {
+    "league": "Premier League",
+    "title": "Liverpool vs Manchester United",
+    "timestamp": "2026-11-22T16:30:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png"
+  },
+  {
     "league": "NHL",
     "title": "New York Rangers vs Carolina Hurricanes",
     "timestamp": "2026-11-22T17:30:00",
@@ -23798,6 +23791,13 @@
     "timestamp": "2026-11-23T01:30:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xokycb1778197905.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/4j85bn1667936589.png"
+  },
+  {
+    "league": "Premier League",
+    "title": "Brentford vs Everton",
+    "timestamp": "2026-11-23T20:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png"
   },
   {
     "league": "NHL",
@@ -24136,6 +24136,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/qrvywq1422042125.png"
   },
   {
+    "league": "Premier League",
+    "title": "Nottingham Forest vs Chelsea",
+    "timestamp": "2026-11-27T20:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/sar2y41781740886.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/pbf4ul1782638263.png"
+  },
+  {
     "league": "NHL",
     "title": "Columbus Blue Jackets vs Detroit Red Wings",
     "timestamp": "2026-11-27T20:00:00",
@@ -24298,48 +24305,6 @@
   },
   {
     "league": "Premier League",
-    "title": "Fulham vs Bournemouth",
-    "timestamp": "2026-11-28T15:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xwwvyt1448811086.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/y08nak1534071116.png"
-  },
-  {
-    "league": "Premier League",
-    "title": "Arsenal vs Manchester City",
-    "timestamp": "2026-11-28T15:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png"
-  },
-  {
-    "league": "Premier League",
-    "title": "Everton vs Liverpool",
-    "timestamp": "2026-11-28T15:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png"
-  },
-  {
-    "league": "Premier League",
-    "title": "Brighton and Hove Albion vs Newcastle United",
-    "timestamp": "2026-11-28T15:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ywypts1448810904.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png"
-  },
-  {
-    "league": "Premier League",
-    "title": "Crystal Palace vs Hull City",
-    "timestamp": "2026-11-28T15:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/fbqqda1601726113.png"
-  },
-  {
-    "league": "Premier League",
-    "title": "Ipswich Town vs Aston Villa",
-    "timestamp": "2026-11-28T15:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/mdj1ey1634670785.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uwzw561787679026.png"
-  },
-  {
-    "league": "Premier League",
     "title": "Leeds United vs Coventry City",
     "timestamp": "2026-11-28T15:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png",
@@ -24347,17 +24312,10 @@
   },
   {
     "league": "Premier League",
-    "title": "Nottingham Forest vs Chelsea",
-    "timestamp": "2026-11-28T15:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/sar2y41781740886.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/pbf4ul1782638263.png"
-  },
-  {
-    "league": "Premier League",
-    "title": "Sunderland vs Tottenham Hotspur",
-    "timestamp": "2026-11-28T15:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/tprtus1448813498.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png"
+    "title": "Ipswich Town vs Aston Villa",
+    "timestamp": "2026-11-28T17:30:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/mdj1ey1634670785.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uwzw561787679026.png"
   },
   {
     "league": "NHL",
@@ -24484,6 +24442,48 @@
     "timestamp": "2026-11-29T03:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/zsx49m1595775836.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uxxsyw1421618428.png"
+  },
+  {
+    "league": "Premier League",
+    "title": "Everton vs Liverpool",
+    "timestamp": "2026-11-29T12:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png"
+  },
+  {
+    "league": "Premier League",
+    "title": "Fulham vs Bournemouth",
+    "timestamp": "2026-11-29T14:05:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xwwvyt1448811086.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/y08nak1534071116.png"
+  },
+  {
+    "league": "Premier League",
+    "title": "Brighton and Hove Albion vs Newcastle United",
+    "timestamp": "2026-11-29T14:05:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ywypts1448810904.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png"
+  },
+  {
+    "league": "Premier League",
+    "title": "Crystal Palace vs Hull City",
+    "timestamp": "2026-11-29T14:05:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/fbqqda1601726113.png"
+  },
+  {
+    "league": "Premier League",
+    "title": "Sunderland vs Tottenham Hotspur",
+    "timestamp": "2026-11-29T14:05:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/tprtus1448813498.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png"
+  },
+  {
+    "league": "Premier League",
+    "title": "Arsenal vs Manchester City",
+    "timestamp": "2026-11-29T16:30:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png"
   },
   {
     "league": "NHL",
@@ -26965,17 +26965,10 @@
   },
   {
     "league": "Premier League",
-    "title": "Manchester United vs Nottingham Forest",
-    "timestamp": "2026-12-26T15:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/sar2y41781740886.png"
-  },
-  {
-    "league": "Premier League",
-    "title": "Newcastle United vs Manchester City",
-    "timestamp": "2026-12-26T15:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png"
+    "title": "Aston Villa vs Leeds United",
+    "timestamp": "2026-12-26T12:30:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/uwzw561787679026.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png"
   },
   {
     "league": "Premier League",
@@ -27000,13 +26993,6 @@
   },
   {
     "league": "Premier League",
-    "title": "Crystal Palace vs Arsenal",
-    "timestamp": "2026-12-26T15:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png"
-  },
-  {
-    "league": "Premier League",
     "title": "Ipswich Town vs Brentford",
     "timestamp": "2026-12-26T15:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/mdj1ey1634670785.png",
@@ -27015,23 +27001,9 @@
   {
     "league": "Premier League",
     "title": "Hull City vs Liverpool",
-    "timestamp": "2026-12-26T15:00:00",
+    "timestamp": "2026-12-26T17:30:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/fbqqda1601726113.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png"
-  },
-  {
-    "league": "Premier League",
-    "title": "Aston Villa vs Leeds United",
-    "timestamp": "2026-12-26T15:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/uwzw561787679026.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png"
-  },
-  {
-    "league": "Premier League",
-    "title": "Coventry City vs Chelsea",
-    "timestamp": "2026-12-26T15:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/uxyqys1424033798.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/pbf4ul1782638263.png"
   },
   {
     "league": "NBA",
@@ -27039,6 +27011,13 @@
     "timestamp": "2026-12-26T18:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/dxac7a1778227278.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/umehtv1778226952.png"
+  },
+  {
+    "league": "Premier League",
+    "title": "Newcastle United vs Manchester City",
+    "timestamp": "2026-12-26T20:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png"
   },
   {
     "league": "NBA",
@@ -27165,6 +27144,27 @@
     "timestamp": "2026-12-27T03:30:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3gtb8s1719303125.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/v44qp21778197640.png"
+  },
+  {
+    "league": "Premier League",
+    "title": "Coventry City vs Chelsea",
+    "timestamp": "2026-12-27T14:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/uxyqys1424033798.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/pbf4ul1782638263.png"
+  },
+  {
+    "league": "Premier League",
+    "title": "Manchester United vs Nottingham Forest",
+    "timestamp": "2026-12-27T16:30:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/sar2y41781740886.png"
+  },
+  {
+    "league": "Premier League",
+    "title": "Crystal Palace vs Arsenal",
+    "timestamp": "2026-12-27T19:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png"
   },
   {
     "league": "NHL",
@@ -27377,6 +27377,27 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/epenxg1781034811.png"
   },
   {
+    "league": "Premier League",
+    "title": "Tottenham Hotspur vs Brighton and Hove Albion",
+    "timestamp": "2026-12-29T19:30:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ywypts1448810904.png"
+  },
+  {
+    "league": "Premier League",
+    "title": "Hull City vs Leeds United",
+    "timestamp": "2026-12-29T19:30:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/fbqqda1601726113.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png"
+  },
+  {
+    "league": "Premier League",
+    "title": "Everton vs Manchester City",
+    "timestamp": "2026-12-29T20:15:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png"
+  },
+  {
     "league": "NHL",
     "title": "Tampa Bay Lightning vs Nashville Predators",
     "timestamp": "2026-12-30T00:00:00",
@@ -27519,72 +27540,51 @@
   {
     "league": "Premier League",
     "title": "Manchester United vs Sunderland",
-    "timestamp": "2026-12-30T20:00:00",
+    "timestamp": "2026-12-30T19:30:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/tprtus1448813498.png"
   },
   {
     "league": "Premier League",
     "title": "Newcastle United vs Nottingham Forest",
-    "timestamp": "2026-12-30T20:00:00",
+    "timestamp": "2026-12-30T19:30:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/sar2y41781740886.png"
   },
   {
     "league": "Premier League",
     "title": "Fulham vs Arsenal",
-    "timestamp": "2026-12-30T20:00:00",
+    "timestamp": "2026-12-30T19:30:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xwwvyt1448811086.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png"
   },
   {
     "league": "Premier League",
-    "title": "Everton vs Manchester City",
-    "timestamp": "2026-12-30T20:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png"
-  },
-  {
-    "league": "Premier League",
-    "title": "Tottenham Hotspur vs Brighton and Hove Albion",
-    "timestamp": "2026-12-30T20:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ywypts1448810904.png"
-  },
-  {
-    "league": "Premier League",
     "title": "Crystal Palace vs Bournemouth",
-    "timestamp": "2026-12-30T20:00:00",
+    "timestamp": "2026-12-30T19:30:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/y08nak1534071116.png"
   },
   {
     "league": "Premier League",
+    "title": "Coventry City vs Brentford",
+    "timestamp": "2026-12-30T19:30:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/uxyqys1424033798.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png"
+  },
+  {
+    "league": "Premier League",
     "title": "Ipswich Town vs Chelsea",
-    "timestamp": "2026-12-30T20:00:00",
+    "timestamp": "2026-12-30T20:15:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/mdj1ey1634670785.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/pbf4ul1782638263.png"
   },
   {
     "league": "Premier League",
-    "title": "Hull City vs Leeds United",
-    "timestamp": "2026-12-30T20:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/fbqqda1601726113.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png"
-  },
-  {
-    "league": "Premier League",
     "title": "Aston Villa vs Liverpool",
-    "timestamp": "2026-12-30T20:00:00",
+    "timestamp": "2026-12-30T20:15:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/uwzw561787679026.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png"
-  },
-  {
-    "league": "Premier League",
-    "title": "Coventry City vs Brentford",
-    "timestamp": "2026-12-30T20:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/uxyqys1424033798.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png"
   },
   {
     "league": "NHL",
@@ -27790,6 +27790,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/8qtaz11547158220.png"
   },
   {
+    "league": "Premier League",
+    "title": "Leeds United vs Everton",
+    "timestamp": "2027-01-01T20:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png"
+  },
+  {
     "league": "NHL",
     "title": "Chicago Blackhawks vs Boston Bruins",
     "timestamp": "2027-01-01T20:00:00",
@@ -27861,10 +27868,10 @@
   },
   {
     "league": "Premier League",
-    "title": "Bournemouth vs Aston Villa",
-    "timestamp": "2027-01-02T15:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/y08nak1534071116.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uwzw561787679026.png"
+    "title": "Brighton and Hove Albion vs Manchester United",
+    "timestamp": "2027-01-02T12:30:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ywypts1448810904.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png"
   },
   {
     "league": "Premier League",
@@ -27882,38 +27889,10 @@
   },
   {
     "league": "Premier League",
-    "title": "Chelsea vs Newcastle United",
-    "timestamp": "2027-01-02T15:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/pbf4ul1782638263.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png"
-  },
-  {
-    "league": "Premier League",
-    "title": "Manchester City vs Tottenham Hotspur",
-    "timestamp": "2027-01-02T15:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png"
-  },
-  {
-    "league": "Premier League",
-    "title": "Brighton and Hove Albion vs Manchester United",
-    "timestamp": "2027-01-02T15:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ywypts1448810904.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png"
-  },
-  {
-    "league": "Premier League",
     "title": "Brentford vs Crystal Palace",
     "timestamp": "2027-01-02T15:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png"
-  },
-  {
-    "league": "Premier League",
-    "title": "Leeds United vs Everton",
-    "timestamp": "2027-01-02T15:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png"
   },
   {
     "league": "Premier League",
@@ -27928,6 +27907,13 @@
     "timestamp": "2027-01-02T15:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/tprtus1448813498.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/fbqqda1601726113.png"
+  },
+  {
+    "league": "Premier League",
+    "title": "Bournemouth vs Aston Villa",
+    "timestamp": "2027-01-02T17:30:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/y08nak1534071116.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uwzw561787679026.png"
   },
   {
     "league": "NHL",
@@ -28096,6 +28082,20 @@
     "timestamp": "2027-01-03T03:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/umehtv1778226952.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/4j85bn1667936589.png"
+  },
+  {
+    "league": "Premier League",
+    "title": "Chelsea vs Newcastle United",
+    "timestamp": "2027-01-03T14:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/pbf4ul1782638263.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png"
+  },
+  {
+    "league": "Premier League",
+    "title": "Manchester City vs Tottenham Hotspur",
+    "timestamp": "2027-01-03T16:30:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png"
   },
   {
     "league": "NHL",
@@ -28280,6 +28280,41 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/4k8obt1778226764.png"
   },
   {
+    "league": "Premier League",
+    "title": "Arsenal vs Brentford",
+    "timestamp": "2027-01-05T19:30:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png"
+  },
+  {
+    "league": "Premier League",
+    "title": "Everton vs Aston Villa",
+    "timestamp": "2027-01-05T19:30:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uwzw561787679026.png"
+  },
+  {
+    "league": "Premier League",
+    "title": "Brighton and Hove Albion vs Bournemouth",
+    "timestamp": "2027-01-05T19:30:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ywypts1448810904.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/y08nak1534071116.png"
+  },
+  {
+    "league": "Premier League",
+    "title": "Nottingham Forest vs Hull City",
+    "timestamp": "2027-01-05T19:30:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/sar2y41781740886.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/fbqqda1601726113.png"
+  },
+  {
+    "league": "Premier League",
+    "title": "Sunderland vs Liverpool",
+    "timestamp": "2027-01-05T20:15:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/tprtus1448813498.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png"
+  },
+  {
     "league": "NHL",
     "title": "Carolina Hurricanes vs St. Louis Blues",
     "timestamp": "2027-01-06T00:00:00",
@@ -28407,73 +28442,31 @@
   },
   {
     "league": "Premier League",
-    "title": "Manchester United vs Newcastle United",
-    "timestamp": "2027-01-06T20:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png"
-  },
-  {
-    "league": "Premier League",
     "title": "Fulham vs Tottenham Hotspur",
-    "timestamp": "2027-01-06T20:00:00",
+    "timestamp": "2027-01-06T19:30:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xwwvyt1448811086.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png"
   },
   {
     "league": "Premier League",
-    "title": "Arsenal vs Brentford",
-    "timestamp": "2027-01-06T20:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/uyhbfe1612467038.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/grv1aw1546453779.png"
-  },
-  {
-    "league": "Premier League",
-    "title": "Everton vs Aston Villa",
-    "timestamp": "2027-01-06T20:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uwzw561787679026.png"
-  },
-  {
-    "league": "Premier League",
-    "title": "Brighton and Hove Albion vs Bournemouth",
-    "timestamp": "2027-01-06T20:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ywypts1448810904.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/y08nak1534071116.png"
-  },
-  {
-    "league": "Premier League",
     "title": "Crystal Palace vs Chelsea",
-    "timestamp": "2027-01-06T20:00:00",
+    "timestamp": "2027-01-06T19:30:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ia6i3m1656014992.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/pbf4ul1782638263.png"
   },
   {
     "league": "Premier League",
     "title": "Ipswich Town vs Coventry City",
-    "timestamp": "2027-01-06T20:00:00",
+    "timestamp": "2027-01-06T19:30:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/mdj1ey1634670785.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uxyqys1424033798.png"
   },
   {
     "league": "Premier League",
     "title": "Leeds United vs Manchester City",
-    "timestamp": "2027-01-06T20:00:00",
+    "timestamp": "2027-01-06T20:15:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/jcgrml1756649030.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png"
-  },
-  {
-    "league": "Premier League",
-    "title": "Nottingham Forest vs Hull City",
-    "timestamp": "2027-01-06T20:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/sar2y41781740886.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/fbqqda1601726113.png"
-  },
-  {
-    "league": "Premier League",
-    "title": "Sunderland vs Liverpool",
-    "timestamp": "2027-01-06T20:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/tprtus1448813498.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png"
   },
   {
     "league": "NHL",
@@ -28537,6 +28530,13 @@
     "timestamp": "2027-01-07T03:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xokycb1778197905.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/4k8obt1778226764.png"
+  },
+  {
+    "league": "Premier League",
+    "title": "Manchester United vs Newcastle United",
+    "timestamp": "2027-01-07T20:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png"
   },
   {
     "league": "NHL",
