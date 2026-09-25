@@ -18110,6 +18110,13 @@
   },
   {
     "league": "MLB",
+    "title": "New York Yankees vs Baltimore Orioles",
+    "timestamp": "2026-09-25T20:05:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqwwxx1423478766.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ytywvu1431257088.png"
+  },
+  {
+    "league": "MLB",
     "title": "Boston Red Sox vs Chicago Cubs",
     "timestamp": "2026-09-25T22:05:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/stpsus1425120215.png",
@@ -18380,13 +18387,6 @@
     "timestamp": "2026-09-26T23:10:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ii3rz81554031260.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/3zvzao1640964590.png"
-  },
-  {
-    "league": "MLB",
-    "title": "New York Yankees vs Baltimore Orioles",
-    "timestamp": "2026-09-26T23:15:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqwwxx1423478766.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/ytywvu1431257088.png"
   },
   {
     "league": "MLB",
