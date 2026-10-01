@@ -18655,6 +18655,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png"
   },
   {
+    "league": "MLB",
+    "title": "Atlanta Braves vs Philadelphia Phillies",
+    "timestamp": "2026-10-01T18:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/yjs76e1617811496.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/3xrldf1617528682.png"
+  },
+  {
     "league": "NHL",
     "title": "Columbus Blue Jackets vs Buffalo Sabres",
     "timestamp": "2026-10-01T23:00:00",
@@ -18746,6 +18753,20 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/1d465t1719573796.png"
   },
   {
+    "league": "MLB",
+    "title": "Cleveland Guardians vs Chicago White Sox",
+    "timestamp": "2026-10-03T17:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3zvzao1640964590.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yyz5dh1554140884.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Tampa Bay Rays vs New York Yankees",
+    "timestamp": "2026-10-03T22:30:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/littyt1554031623.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqwwxx1423478766.png"
+  },
+  {
     "league": "NHL",
     "title": "Toronto Maple Leafs vs Ottawa Senators",
     "timestamp": "2026-10-03T23:00:00",
@@ -18823,6 +18844,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/qrvywq1422042125.png"
   },
   {
+    "league": "MLB",
+    "title": "Milwaukee Brewers vs San Diego Padres",
+    "timestamp": "2026-10-04T00:30:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/08kh2a1595775193.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/6wt1cn1617527530.png"
+  },
+  {
     "league": "NHL",
     "title": "Colorado Avalanche vs St. Louis Blues",
     "timestamp": "2026-10-04T01:00:00",
@@ -18849,6 +18877,13 @@
     "timestamp": "2026-10-04T17:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/1c24ow1546544080.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/bwn9hr1547233611.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Milwaukee Brewers vs San Diego Padres",
+    "timestamp": "2026-10-04T20:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/08kh2a1595775193.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/6wt1cn1617527530.png"
   },
   {
     "league": "NHL",
@@ -18891,6 +18926,13 @@
     "timestamp": "2026-10-05T01:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xqxxpw1421875519.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/7fd4521619536689.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Cleveland Guardians vs Chicago White Sox",
+    "timestamp": "2026-10-05T21:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3zvzao1640964590.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yyz5dh1554140884.png"
   },
   {
     "league": "NHL",
@@ -18949,11 +18991,25 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/epenxg1781034811.png"
   },
   {
+    "league": "MLB",
+    "title": "Tampa Bay Rays vs New York Yankees",
+    "timestamp": "2026-10-06T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/littyt1554031623.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqwwxx1423478766.png"
+  },
+  {
     "league": "NBA",
     "title": "Sacramento Kings vs Los Angeles Lakers",
     "timestamp": "2026-10-06T02:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/k2buwo1778227426.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/d8uoxw1714254511.png"
+  },
+  {
+    "league": "MLB",
+    "title": "San Diego Padres vs Milwaukee Brewers",
+    "timestamp": "2026-10-06T20:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/6wt1cn1617527530.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/08kh2a1595775193.png"
   },
   {
     "league": "NHL",
@@ -19045,6 +19101,20 @@
     "timestamp": "2026-10-07T02:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xokycb1778197905.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/d8uoxw1714254511.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Chicago White Sox vs Cleveland Guardians",
+    "timestamp": "2026-10-07T20:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/yyz5dh1554140884.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/3zvzao1640964590.png"
+  },
+  {
+    "league": "MLB",
+    "title": "New York Yankees vs Tampa Bay Rays",
+    "timestamp": "2026-10-07T20:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqwwxx1423478766.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/littyt1554031623.png"
   },
   {
     "league": "NBA",
