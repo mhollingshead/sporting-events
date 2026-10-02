@@ -18655,13 +18655,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wxbe071521892391.png"
   },
   {
-    "league": "MLB",
-    "title": "Atlanta Braves vs Philadelphia Phillies",
-    "timestamp": "2026-10-01T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/yjs76e1617811496.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/3xrldf1617528682.png"
-  },
-  {
     "league": "NHL",
     "title": "Columbus Blue Jackets vs Buffalo Sabres",
     "timestamp": "2026-10-01T23:00:00",
@@ -18688,6 +18681,13 @@
     "timestamp": "2026-10-02T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/twqyvy1422052908.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/swtsxs1422042685.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Atlanta Braves vs Philadelphia Phillies",
+    "timestamp": "2026-10-02T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/yjs76e1617811496.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/3xrldf1617528682.png"
   },
   {
     "league": "NHL",
@@ -18758,6 +18758,13 @@
     "timestamp": "2026-10-03T17:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3zvzao1640964590.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yyz5dh1554140884.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Los Angeles Dodgers vs Atlanta Braves",
+    "timestamp": "2026-10-03T20:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/32uxn21778269451.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yjs76e1617811496.png"
   },
   {
     "league": "MLB",
@@ -18921,6 +18928,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/v8vkk11619536610.png"
   },
   {
+    "league": "MLB",
+    "title": "Los Angeles Dodgers vs Atlanta Braves",
+    "timestamp": "2026-10-05T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/32uxn21778269451.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yjs76e1617811496.png"
+  },
+  {
     "league": "NHL",
     "title": "Vancouver Canucks vs Vegas Golden Knights",
     "timestamp": "2026-10-05T01:00:00",
@@ -19006,10 +19020,10 @@
   },
   {
     "league": "MLB",
-    "title": "San Diego Padres vs Milwaukee Brewers",
-    "timestamp": "2026-10-06T20:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/6wt1cn1617527530.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/08kh2a1595775193.png"
+    "title": "Atlanta Braves vs Los Angeles Dodgers",
+    "timestamp": "2026-10-06T22:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/yjs76e1617811496.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/32uxn21778269451.png"
   },
   {
     "league": "NHL",
@@ -19082,6 +19096,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/s8ch7m1778197814.png"
   },
   {
+    "league": "MLB",
+    "title": "San Diego Padres vs Milwaukee Brewers",
+    "timestamp": "2026-10-07T01:30:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/6wt1cn1617527530.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/08kh2a1595775193.png"
+  },
+  {
     "league": "NHL",
     "title": "Seattle Kraken vs Vegas Golden Knights",
     "timestamp": "2026-10-07T01:40:00",
@@ -19108,13 +19129,6 @@
     "timestamp": "2026-10-07T20:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/yyz5dh1554140884.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/3zvzao1640964590.png"
-  },
-  {
-    "league": "MLB",
-    "title": "New York Yankees vs Tampa Bay Rays",
-    "timestamp": "2026-10-07T20:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqwwxx1423478766.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/littyt1554031623.png"
   },
   {
     "league": "NBA",
@@ -19157,6 +19171,13 @@
     "timestamp": "2026-10-08T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/bkhj5p1778199006.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/olhug01621594702.png"
+  },
+  {
+    "league": "MLB",
+    "title": "New York Yankees vs Tampa Bay Rays",
+    "timestamp": "2026-10-08T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqwwxx1423478766.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/littyt1554031623.png"
   },
   {
     "league": "NHL",
