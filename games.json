@@ -19131,6 +19131,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/3zvzao1640964590.png"
   },
   {
+    "league": "MLB",
+    "title": "Atlanta Braves vs Los Angeles Dodgers",
+    "timestamp": "2026-10-07T22:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/yjs76e1617811496.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/32uxn21778269451.png"
+  },
+  {
     "league": "NBA",
     "title": "Indiana Pacers vs Minnesota Timberwolves",
     "timestamp": "2026-10-07T23:00:00",
