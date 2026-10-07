@@ -19201,6 +19201,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xokycb1778197905.png"
   },
   {
+    "league": "MLB",
+    "title": "San Diego Padres vs Milwaukee Brewers",
+    "timestamp": "2026-10-08T02:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/6wt1cn1617527530.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/08kh2a1595775193.png"
+  },
+  {
     "league": "NHL",
     "title": "Ottawa Senators vs Philadelphia Flyers",
     "timestamp": "2026-10-08T23:00:00",
@@ -37968,6 +37975,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rsqtwx1422053715.png"
   },
   {
+    "league": "NBA",
+    "title": "Los Angeles Lakers vs San Antonio Spurs",
+    "timestamp": "2027-04-05T02:00:00",
+    "homeBadge": null,
+    "awayBadge": null
+  },
+  {
     "league": "NHL",
     "title": "Carolina Hurricanes vs Philadelphia Flyers",
     "timestamp": "2027-04-05T18:00:00",
@@ -37987,6 +38001,20 @@
     "timestamp": "2027-04-05T23:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/mxig4p1570129307.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/b1r86e1720023232.png"
+  },
+  {
+    "league": "NBA",
+    "title": "Cleveland Cavaliers vs Brooklyn Nets",
+    "timestamp": "2027-04-05T23:00:00",
+    "homeBadge": null,
+    "awayBadge": null
+  },
+  {
+    "league": "NBA",
+    "title": "Orlando Magic vs Miami Heat",
+    "timestamp": "2027-04-05T23:00:00",
+    "homeBadge": null,
+    "awayBadge": null
   },
   {
     "league": "NHL",
