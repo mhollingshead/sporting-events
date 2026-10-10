@@ -19593,13 +19593,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/vwpvry1467462651.png"
   },
   {
-    "league": "MLB",
-    "title": "Milwaukee Brewers vs Los Angeles Dodgers",
-    "timestamp": "2026-10-11T20:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/08kh2a1595775193.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/32uxn21778269451.png"
-  },
-  {
     "league": "NHL",
     "title": "Washington Capitals vs Seattle Kraken",
     "timestamp": "2026-10-11T21:00:00",
@@ -19635,6 +19628,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/olhug01621594702.png"
   },
   {
+    "league": "MLB",
+    "title": "Milwaukee Brewers vs Los Angeles Dodgers",
+    "timestamp": "2026-10-12T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/08kh2a1595775193.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/32uxn21778269451.png"
+  },
+  {
     "league": "NBA",
     "title": "Denver Nuggets vs Chicago Bulls",
     "timestamp": "2026-10-12T01:00:00",
@@ -19658,7 +19658,7 @@
   {
     "league": "MLB",
     "title": "Milwaukee Brewers vs Los Angeles Dodgers",
-    "timestamp": "2026-10-12T20:00:00",
+    "timestamp": "2026-10-12T21:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/08kh2a1595775193.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/32uxn21778269451.png"
   },
@@ -19852,13 +19852,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/b1r86e1720023232.png"
   },
   {
-    "league": "MLB",
-    "title": "Los Angeles Dodgers vs Milwaukee Brewers",
-    "timestamp": "2026-10-14T20:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/32uxn21778269451.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/08kh2a1595775193.png"
-  },
-  {
     "league": "NHL",
     "title": "Washington Capitals vs Montreal Canadiens",
     "timestamp": "2026-10-14T23:30:00",
@@ -19908,6 +19901,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xfyknc1778198971.png"
   },
   {
+    "league": "MLB",
+    "title": "Los Angeles Dodgers vs Milwaukee Brewers",
+    "timestamp": "2026-10-15T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/32uxn21778269451.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/08kh2a1595775193.png"
+  },
+  {
     "league": "NHL",
     "title": "Colorado Avalanche vs Dallas Stars",
     "timestamp": "2026-10-15T00:30:00",
@@ -19920,13 +19920,6 @@
     "timestamp": "2026-10-15T02:30:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3gtb8s1719303125.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/s8ch7m1778197814.png"
-  },
-  {
-    "league": "MLB",
-    "title": "Los Angeles Dodgers vs Milwaukee Brewers",
-    "timestamp": "2026-10-15T20:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/32uxn21778269451.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/08kh2a1595775193.png"
   },
   {
     "league": "NHL",
@@ -20011,6 +20004,13 @@
     "timestamp": "2026-10-16T01:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/uxxsyw1421618428.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/w5m2ab1746690303.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Los Angeles Dodgers vs Milwaukee Brewers",
+    "timestamp": "2026-10-16T01:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/32uxn21778269451.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/08kh2a1595775193.png"
   },
   {
     "league": "NHL",
