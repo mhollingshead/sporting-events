@@ -38311,11 +38311,46 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uxxsyw1421618428.png"
   },
   {
+    "league": "NBA",
+    "title": "Chicago Bulls vs Charlotte Hornets",
+    "timestamp": "2027-04-08T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ehq8l31778197349.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xqtvvp1422380623.png"
+  },
+  {
+    "league": "NBA",
+    "title": "Memphis Grizzlies vs Washington Wizards",
+    "timestamp": "2027-04-08T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/v44qp21778197640.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/dxac7a1778227278.png"
+  },
+  {
+    "league": "NBA",
+    "title": "Houston Rockets vs Sacramento Kings",
+    "timestamp": "2027-04-08T00:30:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/azoktf1780729261.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/k2buwo1778227426.png"
+  },
+  {
     "league": "NHL",
     "title": "Utah Mammoth vs Dallas Stars",
     "timestamp": "2027-04-08T01:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/w5m2ab1746690303.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/qrvywq1422042125.png"
+  },
+  {
+    "league": "NBA",
+    "title": "Los Angeles Lakers vs Minnesota Timberwolves",
+    "timestamp": "2027-04-08T02:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/d8uoxw1714254511.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/epenxg1781034811.png"
+  },
+  {
+    "league": "NBA",
+    "title": "Portland Trail Blazers vs Dallas Mavericks",
+    "timestamp": "2027-04-08T02:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/umehtv1778226952.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/s5dx7c1778197536.png"
   },
   {
     "league": "NHL",
@@ -38337,6 +38372,13 @@
     "timestamp": "2027-04-08T23:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/z4rsvp1619536740.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/hqn8511619536714.png"
+  },
+  {
+    "league": "NBA",
+    "title": "Miami Heat vs Philadelphia 76ers",
+    "timestamp": "2027-04-08T23:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/b9tye31778226616.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/j6rlbi1778226857.png"
   },
   {
     "league": "NHL",
