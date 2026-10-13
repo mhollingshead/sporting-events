@@ -38402,11 +38402,39 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/zsx49m1595775836.png"
   },
   {
+    "league": "NBA",
+    "title": "Milwaukee Bucks vs New York Knicks",
+    "timestamp": "2027-04-09T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/olhug01621594702.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/4k8obt1778226764.png"
+  },
+  {
     "league": "NHL",
     "title": "Calgary Flames vs Colorado Avalanche",
     "timestamp": "2027-04-09T01:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/v8vkk11619536610.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/wqutut1421173572.png"
+  },
+  {
+    "league": "NBA",
+    "title": "Denver Nuggets vs Los Angeles Clippers",
+    "timestamp": "2027-04-09T01:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/s8ch7m1778197814.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/3gtb8s1719303125.png"
+  },
+  {
+    "league": "NBA",
+    "title": "Utah Jazz vs New Orleans Pelicans",
+    "timestamp": "2027-04-09T01:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/trct8w1778198868.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xoxjsr1778226698.png"
+  },
+  {
+    "league": "NBA",
+    "title": "Oklahoma City Thunder vs Golden State Warriors",
+    "timestamp": "2027-04-09T01:30:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/bkhj5p1778199006.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xokycb1778197905.png"
   },
   {
     "league": "NHL",
@@ -38442,6 +38470,41 @@
     "timestamp": "2027-04-09T23:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/bwn9hr1547233611.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xqxxpw1421875519.png"
+  },
+  {
+    "league": "NBA",
+    "title": "Atlanta Hawks vs Boston Celtics",
+    "timestamp": "2027-04-09T23:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/7o1noy1778226315.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/4j85bn1667936589.png"
+  },
+  {
+    "league": "NBA",
+    "title": "Charlotte Hornets vs Brooklyn Nets",
+    "timestamp": "2027-04-09T23:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/xqtvvp1422380623.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/hkafe61739948361.png"
+  },
+  {
+    "league": "NBA",
+    "title": "Indiana Pacers vs Cleveland Cavaliers",
+    "timestamp": "2027-04-09T23:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/y3lutb1778226511.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/pch9ct1778195828.png"
+  },
+  {
+    "league": "NBA",
+    "title": "New York Knicks vs Detroit Pistons",
+    "timestamp": "2027-04-09T23:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/4k8obt1778226764.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/lg7qrc1621594751.png"
+  },
+  {
+    "league": "NBA",
+    "title": "Orlando Magic vs Toronto Raptors",
+    "timestamp": "2027-04-09T23:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/j0mpu81778198371.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/lct96a1778227205.png"
   },
   {
     "league": "NHL",
