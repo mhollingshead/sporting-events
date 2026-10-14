@@ -20258,6 +20258,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/rsqtwx1422053715.png"
   },
   {
+    "league": "MLB",
+    "title": "Cleveland Guardians vs Tampa Bay Rays",
+    "timestamp": "2026-10-18T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3zvzao1640964590.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/littyt1554031623.png"
+  },
+  {
     "league": "NHL",
     "title": "Los Angeles Kings vs Boston Bruins",
     "timestamp": "2026-10-18T01:00:00",
@@ -20868,13 +20875,6 @@
   },
   {
     "league": "NBA",
-    "title": "Atlanta Hawks vs Houston Rockets",
-    "timestamp": "2026-10-25T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/7o1noy1778226315.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/azoktf1780729261.png"
-  },
-  {
-    "league": "NBA",
     "title": "Chicago Bulls vs Washington Wizards",
     "timestamp": "2026-10-25T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ehq8l31778197349.png",
@@ -20893,6 +20893,13 @@
     "timestamp": "2026-10-25T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/s8ch7m1778197814.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xoxjsr1778226698.png"
+  },
+  {
+    "league": "NBA",
+    "title": "Atlanta Hawks vs Houston Rockets",
+    "timestamp": "2026-10-25T00:30:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/7o1noy1778226315.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/azoktf1780729261.png"
   },
   {
     "league": "NHL",
@@ -38512,6 +38519,69 @@
     "timestamp": "2027-04-10T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/qrvywq1422042125.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/w5m2ab1746690303.png"
+  },
+  {
+    "league": "NBA",
+    "title": "Oklahoma City Thunder vs Golden State Warriors",
+    "timestamp": "2027-04-10T00:00:00",
+    "homeBadge": null,
+    "awayBadge": null
+  },
+  {
+    "league": "NBA",
+    "title": "Chicago Bulls vs Milwaukee Bucks",
+    "timestamp": "2027-04-10T00:00:00",
+    "homeBadge": null,
+    "awayBadge": null
+  },
+  {
+    "league": "NBA",
+    "title": "Miami Heat vs Washington Wizards",
+    "timestamp": "2027-04-10T00:00:00",
+    "homeBadge": null,
+    "awayBadge": null
+  },
+  {
+    "league": "NBA",
+    "title": "Houston Rockets vs Portland Trail Blazers",
+    "timestamp": "2027-04-10T00:30:00",
+    "homeBadge": null,
+    "awayBadge": null
+  },
+  {
+    "league": "NBA",
+    "title": "San Antonio Spurs vs Denver Nuggets",
+    "timestamp": "2027-04-10T01:30:00",
+    "homeBadge": null,
+    "awayBadge": null
+  },
+  {
+    "league": "NBA",
+    "title": "Utah Jazz vs Los Angeles Clippers",
+    "timestamp": "2027-04-10T01:30:00",
+    "homeBadge": null,
+    "awayBadge": null
+  },
+  {
+    "league": "NBA",
+    "title": "Los Angeles Lakers vs Minnesota Timberwolves",
+    "timestamp": "2027-04-10T02:00:00",
+    "homeBadge": null,
+    "awayBadge": null
+  },
+  {
+    "league": "NBA",
+    "title": "Phoenix Suns vs Memphis Grizzlies",
+    "timestamp": "2027-04-10T02:00:00",
+    "homeBadge": null,
+    "awayBadge": null
+  },
+  {
+    "league": "NBA",
+    "title": "Sacramento Kings vs Dallas Mavericks",
+    "timestamp": "2027-04-10T02:00:00",
+    "homeBadge": null,
+    "awayBadge": null
   },
   {
     "league": "Premier League",
