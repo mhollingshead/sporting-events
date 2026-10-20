@@ -20335,13 +20335,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/uxyqys1424033798.png"
   },
   {
-    "league": "MLB",
-    "title": "Tampa Bay Rays vs Cleveland Guardians",
-    "timestamp": "2026-10-19T21:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/littyt1554031623.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/3zvzao1640964590.png"
-  },
-  {
     "league": "NHL",
     "title": "New York Rangers vs Anaheim Ducks",
     "timestamp": "2026-10-19T23:00:00",
@@ -20361,6 +20354,13 @@
     "timestamp": "2026-10-19T23:30:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/mxig4p1570129307.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yui7871546193006.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Tampa Bay Rays vs Cleveland Guardians",
+    "timestamp": "2026-10-20T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/littyt1554031623.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/3zvzao1640964590.png"
   },
   {
     "league": "NHL",
@@ -20720,6 +20720,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/lg7qrc1621594751.png"
   },
   {
+    "league": "MLB",
+    "title": "Milwaukee Brewers vs Tampa Bay Rays",
+    "timestamp": "2026-10-24T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/08kh2a1595775193.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/littyt1554031623.png"
+  },
+  {
     "league": "NHL",
     "title": "Colorado Avalanche vs Tampa Bay Lightning",
     "timestamp": "2026-10-24T01:00:00",
@@ -20900,6 +20907,13 @@
     "timestamp": "2026-10-25T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/s8ch7m1778197814.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xoxjsr1778226698.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Milwaukee Brewers vs Tampa Bay Rays",
+    "timestamp": "2026-10-25T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/08kh2a1595775193.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/littyt1554031623.png"
   },
   {
     "league": "NBA",
@@ -21098,6 +21112,13 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xfyknc1778198971.png"
   },
   {
+    "league": "MLB",
+    "title": "Tampa Bay Rays vs Milwaukee Brewers",
+    "timestamp": "2026-10-27T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/littyt1554031623.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/08kh2a1595775193.png"
+  },
+  {
     "league": "NHL",
     "title": "Calgary Flames vs Toronto Maple Leafs",
     "timestamp": "2026-10-27T00:30:00",
@@ -21201,6 +21222,13 @@
     "timestamp": "2026-10-28T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/yc5qfx1781459158.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/k2buwo1778227426.png"
+  },
+  {
+    "league": "MLB",
+    "title": "Tampa Bay Rays vs Milwaukee Brewers",
+    "timestamp": "2026-10-28T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/littyt1554031623.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/08kh2a1595775193.png"
   },
   {
     "league": "NHL",
