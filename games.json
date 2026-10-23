@@ -20881,13 +20881,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/olhug01621594702.png"
   },
   {
-    "league": "NHL",
-    "title": "Utah Mammoth vs Tampa Bay Lightning",
-    "timestamp": "2026-10-25T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/w5m2ab1746690303.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/swysut1421791822.png"
-  },
-  {
     "league": "NBA",
     "title": "Chicago Bulls vs Washington Wizards",
     "timestamp": "2026-10-25T00:00:00",
@@ -20900,13 +20893,6 @@
     "timestamp": "2026-10-25T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/s5dx7c1778197536.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yc5qfx1781459158.png"
-  },
-  {
-    "league": "NBA",
-    "title": "Denver Nuggets vs New Orleans Pelicans",
-    "timestamp": "2026-10-25T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/s8ch7m1778197814.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xoxjsr1778226698.png"
   },
   {
     "league": "MLB",
@@ -20924,6 +20910,13 @@
   },
   {
     "league": "NHL",
+    "title": "Utah Mammoth vs Tampa Bay Lightning",
+    "timestamp": "2026-10-25T02:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/w5m2ab1746690303.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/swysut1421791822.png"
+  },
+  {
+    "league": "NHL",
     "title": "Calgary Flames vs Detroit Red Wings",
     "timestamp": "2026-10-25T02:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/v8vkk11619536610.png",
@@ -20935,6 +20928,13 @@
     "timestamp": "2026-10-25T02:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/zsx49m1595775836.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/swtsxs1422042685.png"
+  },
+  {
+    "league": "NBA",
+    "title": "Denver Nuggets vs New Orleans Pelicans",
+    "timestamp": "2026-10-25T02:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/s8ch7m1778197814.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xoxjsr1778226698.png"
   },
   {
     "league": "NBA",
