@@ -23493,17 +23493,17 @@
   },
   {
     "league": "NBA",
-    "title": "Los Angeles Lakers vs Charlotte Hornets",
-    "timestamp": "2026-11-18T03:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/d8uoxw1714254511.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xqtvvp1422380623.png"
+    "title": "Los Angeles Clippers vs Utah Jazz",
+    "timestamp": "2026-11-18T03:30:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3gtb8s1719303125.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/trct8w1778198868.png"
   },
   {
     "league": "NBA",
-    "title": "Los Angeles Clippers vs Utah Jazz",
+    "title": "Los Angeles Lakers vs Charlotte Hornets",
     "timestamp": "2026-11-18T04:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3gtb8s1719303125.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/trct8w1778198868.png"
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/d8uoxw1714254511.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xqtvvp1422380623.png"
   },
   {
     "league": "NBA",
@@ -29288,18 +29288,18 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/7o1noy1778226315.png"
   },
   {
+    "league": "NBA",
+    "title": "New York Knicks vs Denver Nuggets",
+    "timestamp": "2027-01-12T00:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/4k8obt1778226764.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/s8ch7m1778197814.png"
+  },
+  {
     "league": "NHL",
     "title": "Toronto Maple Leafs vs Winnipeg Jets",
     "timestamp": "2027-01-12T00:30:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/mxig4p1570129307.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/bwn9hr1547233611.png"
-  },
-  {
-    "league": "NBA",
-    "title": "New York Knicks vs Denver Nuggets",
-    "timestamp": "2027-01-12T00:30:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/4k8obt1778226764.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/s8ch7m1778197814.png"
   },
   {
     "league": "NBA",
@@ -29309,18 +29309,18 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/azoktf1780729261.png"
   },
   {
-    "league": "NBA",
-    "title": "Minnesota Timberwolves vs Cleveland Cavaliers",
-    "timestamp": "2027-01-12T01:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/epenxg1781034811.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/pch9ct1778195828.png"
-  },
-  {
     "league": "NHL",
     "title": "Edmonton Oilers vs Tampa Bay Lightning",
     "timestamp": "2027-01-12T01:30:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/uxxsyw1421618428.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/swysut1421791822.png"
+  },
+  {
+    "league": "NBA",
+    "title": "Minnesota Timberwolves vs Cleveland Cavaliers",
+    "timestamp": "2027-01-12T02:30:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/epenxg1781034811.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/pch9ct1778195828.png"
   },
   {
     "league": "NHL",
@@ -29332,7 +29332,7 @@
   {
     "league": "NBA",
     "title": "Los Angeles Clippers vs Los Angeles Lakers",
-    "timestamp": "2027-01-12T03:00:00",
+    "timestamp": "2027-01-12T03:30:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/3gtb8s1719303125.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/d8uoxw1714254511.png"
   },
