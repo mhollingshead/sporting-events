@@ -29633,7 +29633,7 @@
   {
     "league": "NHL",
     "title": "Winnipeg Jets vs San Jose Sharks",
-    "timestamp": "2026-12-29T00:30:00",
+    "timestamp": "2026-12-29T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/bwn9hr1547233611.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/yui7871546193006.png"
   },
@@ -32459,13 +32459,6 @@
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/stpryx1421791753.png"
   },
   {
-    "league": "NHL",
-    "title": "Winnipeg Jets vs Minnesota Wild",
-    "timestamp": "2027-01-20T00:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/bwn9hr1547233611.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/swtsxs1422042685.png"
-  },
-  {
     "league": "NBA",
     "title": "Toronto Raptors vs Chicago Bulls",
     "timestamp": "2027-01-20T00:00:00",
@@ -32485,6 +32478,13 @@
     "timestamp": "2027-01-20T00:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/j0mpu81778198371.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xokycb1778197905.png"
+  },
+  {
+    "league": "NHL",
+    "title": "Winnipeg Jets vs Minnesota Wild",
+    "timestamp": "2027-01-20T00:30:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/bwn9hr1547233611.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/swtsxs1422042685.png"
   },
   {
     "league": "NBA",
