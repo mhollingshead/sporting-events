@@ -25432,17 +25432,17 @@
   },
   {
     "league": "NFL",
-    "title": "New York Giants vs Jacksonville Jaguars",
-    "timestamp": "2026-11-22T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/i9muak1784751331.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/0mrsd41546427902.png"
-  },
-  {
-    "league": "NFL",
     "title": "Carolina Panthers vs Baltimore Ravens",
     "timestamp": "2026-11-22T18:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/kbqini1784716157.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/einz3p1546172463.png"
+  },
+  {
+    "league": "NFL",
+    "title": "Philadelphia Eagles vs Pittsburgh Steelers",
+    "timestamp": "2026-11-22T18:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/pnpybf1515852421.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/2975411515853129.png"
   },
   {
     "league": "NBA",
@@ -25460,17 +25460,17 @@
   },
   {
     "league": "NFL",
+    "title": "New York Giants vs Jacksonville Jaguars",
+    "timestamp": "2026-11-22T21:25:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/i9muak1784751331.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/0mrsd41546427902.png"
+  },
+  {
+    "league": "NFL",
     "title": "Denver Broncos vs Las Vegas Raiders",
     "timestamp": "2026-11-22T21:25:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/zy3m9v1784718707.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/4t8xtk1784721179.png"
-  },
-  {
-    "league": "NFL",
-    "title": "Philadelphia Eagles vs Pittsburgh Steelers",
-    "timestamp": "2026-11-22T21:25:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/pnpybf1515852421.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/2975411515853129.png"
   },
   {
     "league": "NHL",
