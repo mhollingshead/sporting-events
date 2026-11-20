@@ -26335,6 +26335,13 @@
   },
   {
     "league": "NBA",
+    "title": "Cleveland Cavaliers vs Miami Heat",
+    "timestamp": "2026-11-29T20:30:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/pch9ct1778195828.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/b9tye31778226616.png"
+  },
+  {
+    "league": "NBA",
     "title": "Memphis Grizzlies vs Los Angeles Lakers",
     "timestamp": "2026-11-29T21:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/v44qp21778197640.png",
@@ -26409,13 +26416,6 @@
     "timestamp": "2026-11-29T23:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/lg7qrc1621594751.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/j0mpu81778198371.png"
-  },
-  {
-    "league": "NBA",
-    "title": "Cleveland Cavaliers vs Miami Heat",
-    "timestamp": "2026-11-29T23:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/pch9ct1778195828.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/b9tye31778226616.png"
   },
   {
     "league": "NFL",
@@ -34242,6 +34242,48 @@
     "timestamp": "2027-02-05T03:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/k2buwo1778227426.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/epenxg1781034811.png"
+  },
+  {
+    "league": "NHL",
+    "title": "USA Ice Hockey vs Finland Ice Hockey",
+    "timestamp": "2027-02-05T21:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ctia3h1621068728.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/9nt0to1621067526.png"
+  },
+  {
+    "league": "NHL",
+    "title": "USA Ice Hockey vs Sweden Ice Hockey",
+    "timestamp": "2027-02-05T21:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ctia3h1621068728.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/35jges1767984000.png"
+  },
+  {
+    "league": "NHL",
+    "title": "USA Ice Hockey vs Canada Ice Hockey",
+    "timestamp": "2027-02-05T21:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/ctia3h1621068728.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/8yphfh1767982281.png"
+  },
+  {
+    "league": "NHL",
+    "title": "Sweden Ice Hockey vs Finland Ice Hockey",
+    "timestamp": "2027-02-05T21:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/35jges1767984000.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/9nt0to1621067526.png"
+  },
+  {
+    "league": "NHL",
+    "title": "Canada Ice Hockey vs Finland Ice Hockey",
+    "timestamp": "2027-02-05T21:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/8yphfh1767982281.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/9nt0to1621067526.png"
+  },
+  {
+    "league": "NHL",
+    "title": "Canada Ice Hockey vs Sweden Ice Hockey",
+    "timestamp": "2027-02-05T21:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/8yphfh1767982281.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/35jges1767984000.png"
   },
   {
     "league": "NBA",
