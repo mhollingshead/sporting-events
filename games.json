@@ -26293,13 +26293,6 @@
   },
   {
     "league": "NFL",
-    "title": "Cleveland Browns vs Las Vegas Raiders",
-    "timestamp": "2026-11-29T18:00:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/g7qhkz1784717593.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/4t8xtk1784721179.png"
-  },
-  {
-    "league": "NFL",
     "title": "Indianapolis Colts vs New York Giants",
     "timestamp": "2026-11-29T18:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/im99lm1784720368.png",
@@ -26325,6 +26318,13 @@
     "timestamp": "2026-11-29T18:00:00",
     "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/o71ce41784719551.png",
     "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/einz3p1546172463.png"
+  },
+  {
+    "league": "NFL",
+    "title": "Jacksonville Jaguars vs Tennessee Titans",
+    "timestamp": "2026-11-29T18:00:00",
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/0mrsd41546427902.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/3td0f41779180767.png"
   },
   {
     "league": "NHL",
@@ -26356,10 +26356,10 @@
   },
   {
     "league": "NFL",
-    "title": "Jacksonville Jaguars vs Tennessee Titans",
+    "title": "Los Angeles Chargers vs New England Patriots",
     "timestamp": "2026-11-29T21:05:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/0mrsd41546427902.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/3td0f41779180767.png"
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wmi40u1784721460.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xtwxyt1421431860.png"
   },
   {
     "league": "NFL",
@@ -26419,10 +26419,10 @@
   },
   {
     "league": "NFL",
-    "title": "Los Angeles Chargers vs New England Patriots",
+    "title": "Cleveland Browns vs Las Vegas Raiders",
     "timestamp": "2026-11-30T01:20:00",
-    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/wmi40u1784721460.png",
-    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/xtwxyt1421431860.png"
+    "homeBadge": "https://r2.thesportsdb.com/images/media/team/badge/g7qhkz1784717593.png",
+    "awayBadge": "https://r2.thesportsdb.com/images/media/team/badge/4t8xtk1784721179.png"
   },
   {
     "league": "NBA",
